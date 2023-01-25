@@ -12,6 +12,26 @@ TODO
 
 ### Pictures 📸
 
+![IMG_5341](IMG_5341.jpg)
+
+> Grant (me) and Nyika sharpening old ice tools before our first climb
+
+![IMG_5374](IMG_5374.jpg)
+
+> Family dinner at our VRBO condo
+
+![IMG_5383](IMG_5383.jpg)
+
+> Massage trains after a long day of climbing
+
+![IMG_5391](IMG_5391.jpg)
+
+> The climbing crew at the Petzl DJ party
+
+![IMG_5399](IMG_5399.jpg)
+
+> Another view of the Petzl DJ party
+
 ![IMG_4878](IMG_4878.jpg)
 
 > The view from a bridge of the ice festival
