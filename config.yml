@@ -1,0 +1,109 @@
+# see example config here: https://github.com/adityatelange/hugo-PaperMod/blob/exampleSite/config.yml
+# it is on the 'exampleSite' branch of the repo
+
+baseURL: https://europe.birki.io/
+languageCode: en-us
+title: europe
+theme: PaperMod
+
+paginate: 5
+enableEmoji: true
+enableRobotsTXT: true
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# markup:
+#   goldmark:
+#       renderer:
+#           unsafe: true
+#   highlight:
+#       noClasses: false
+#       # anchorLineNos: true
+#       # codeFences: true
+#       # guessSyntax: true
+#       # lineNos: true
+#       # style: monokai
+
+params:
+  env: production
+  author: Grant Birkinbine and Leah Caragol
+  defaultTheme: auto
+
+  homeInfoParams:
+    Title: G+L - 2017 Europe Journal 📓
+    Content: >
+      A web version of Grant and Leah's 2017 Europe Journal.
+
+      - This is a collection of our thoughts, photos, and memories from our trip to Europe in 2017.
+
+      - We hope you enjoy reading it as much as we enjoyed writing it! Please note, our trip was a total of 55 days and after the "Budapest" incident, we pretty much lost track of writing in our journal.
+
+      ---
+
+      ![test](journal-page-1.jpg)
+
+  cover:
+    linkFullImages: true
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  displayFullLangName: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowBreadCrumbs: true
+  ShowToc: false # table of contents on blog posts
+  # comments: false
+  # images: ["papermod-cover.png"]
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/GrantBirki/europe"
+
+  # editPost:
+  #   URL: "https://github.com/GrantBirki/europe/tree/main/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  # label:
+  #     text: "Home"
+  #     icon: icon.png
+  #     iconHeight: 35
+
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
+
+  # assets:
+  #   disableHLJS: true
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
+
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  # fuseOpts:
+  #     isCaseSensitive: false
+  #     shouldSort: true
+  #     location: 0
+  #     distance: 1000
+  #     threshold: 0.4
+  #     minMatchCharLength: 0
+  #     keys: ["title", "permalink", "summary", "content"]
