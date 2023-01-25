@@ -1,9 +1,9 @@
 # see example config here: https://github.com/adityatelange/hugo-PaperMod/blob/exampleSite/config.yml
 # it is on the 'exampleSite' branch of the repo
 
-baseURL: https://europe.birki.io/
+baseURL: https://blog.birki.io/
 languageCode: en-us
-title: europe
+title: blog
 theme: PaperMod
 
 paginate: 5
@@ -38,21 +38,21 @@ outputs:
 
 params:
   env: production
-  author: Grant Birkinbine and Leah Caragol
+  author: Grant Birkinbine
   defaultTheme: auto
 
   homeInfoParams:
-    Title: G+L - 2017 Europe Journal 📓
+    Title: Grant Birki - Blog
     Content: >
-      A web version of Grant and Leah's 2017 Europe Journal.
+      Grant Birkinbine's personal web blog
 
-      - This is a collection of our thoughts, photos, and memories from our trip to Europe in 2017.
+      - This is a collection of our thoughts, photos, and memories from life
 
-      - We hope you enjoy reading it as much as we enjoyed writing it! Please note, our trip was a total of 55 days and after the "Budapest" incident, we pretty much lost track of writing in our journal.
+      - This blog contains stories about travels, things, places, and everything in between
 
       ---
 
-      ![test](journal-page-1.jpg)
+      <!-- ![test](journal-page-1.jpg) -->
 
   cover:
     linkFullImages: true
@@ -70,10 +70,10 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/GrantBirki/europe"
+      url: "https://github.com/GrantBirki/blog"
 
   # editPost:
-  #   URL: "https://github.com/GrantBirki/europe/tree/main/content"
+  #   URL: "https://github.com/GrantBirki/blog/tree/main/content"
   #   Text: "Suggest Changes" # edit text
   #   appendFilePath: true # to append file path to Edit link
 
