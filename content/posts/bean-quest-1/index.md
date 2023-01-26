@@ -3,7 +3,7 @@ title: "Bean Quest 1.0"
 date: 2022-12-10T00:00:00-07:00
 draft: false
 cover:
-  image: "bean-quest.png"
+  image: "bean-quest.jpg"
 ---
 
 ## Bean Quest 1.0

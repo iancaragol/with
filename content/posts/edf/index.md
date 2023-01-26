@@ -3,7 +3,7 @@ title: "EDF 2022"
 date: 2022-07-02T00:00:00-07:00
 draft: false
 cover:
-  image: "poster.png"
+  image: "poster.jpg"
 ---
 
 ## EDF 2022
