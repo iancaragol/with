@@ -22,7 +22,7 @@ Just like that the ball was rolling for our best "Bean Event" to date. It just n
 
 Since it was taking place at Ian's dairy, it seemed only fitting to use EDF as a spin on the wildly popular EDC festival in Las Vegas.
 
-### The Event
+### The Event 🥳
 
 The day before the event, myself and Ian loaded up our cars in Denver with all the equipment. The subs were quite a struggle to fit because they were rather large.
 

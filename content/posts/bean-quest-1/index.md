@@ -28,7 +28,7 @@ Just like that **Bean Quest** was born!
 
 > The name is a mix between "Bean Party" and "Vision Quest"
 
-### Planning
+### Planning ✏️
 
 In order for this event to really work out, we actually had to plan. Vision Quest was very adamant about us bringing at least 50 people so that by us using the venue for a night, it was actually profitable to them. We later learned that even 30 people would suffice so we really out-performed.
 
@@ -45,7 +45,7 @@ In the past at EDF, the DJ line-up of our friends was usually as follows:
 
 However, this time we got a new DJ added to the roster... SILENT J. Silent J is Jake's friend Jorit. My definition of "pro" is someone who is a "professional" and gets paid to do things and is really good. This defines Jorit at DJing. He is damn good.
 
-### Bean Quest 1.0 Weekend
+### Bean Quest 1.0 Weekend 🥂
 
 The weekend of Bean Quest turned into a pretty fun weekend of friends conglomerating from all over.
 

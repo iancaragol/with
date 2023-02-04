@@ -10,7 +10,7 @@ cover:
 
 December 2022 was a really great month that was just absolutely packed with good times.
 
-### Reaper
+### Reaper 🤘
 
 The month started off with Reaper at the Church. We started off in the "riddim room" and then proceeded to wreck our bodies to Drum and Bass for hours on end.
 
@@ -22,7 +22,7 @@ The month started off with Reaper at the Church. We started off in the "riddim r
 
 > Reaper
 
-### Bean Quest Weekend
+### Bean Quest Weekend 🥳
 
 We started off Bean Quest 1.0 weekend with Korean Karaoke
 
@@ -40,7 +40,7 @@ Then later that night we bounced at Vision Quest!
 
 > You can read the separate post about Bean Quest 1.0 by [clicking the link here](/posts/bean-quest-1)
 
-### Leah Comes Home
+### Leah Comes Home 🌟
 
 Leah came home to visit while on Winter break from her master program at Kings College London!
 

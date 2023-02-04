@@ -12,7 +12,7 @@ cover:
 
 It had been about a month since the legendary **Bean Quest 1.0** event and we knew we had to go bigger and better. I reached out to DC to see if we could book Vision Quest for another Saturday in a couple of weeks. It was short notice but he penciled us in so we got to planning.
 
-### Planning
+### Planning ✏️
 
 This time we wanted to improve upon a few things after our first event. We wanted to improve the following:
 
