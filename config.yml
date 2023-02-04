@@ -63,7 +63,7 @@ params:
       📖 To read a post below, simply click anywhere on the cover image or it's description. Enjoy!
 
   cover:
-    linkFullImages: true
+    linkFullImages: false # don't make cover images clickable. Leads to bad UX
 
   ShowReadingTime: true
   ShowShareButtons: false
