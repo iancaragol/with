@@ -58,7 +58,7 @@ I think the huge success from this second rendition of the Bean Quest really cam
 
 ![5](5.jpg)
 
-> Suprise doggo
+> Surprise doggo
 
 ![6](6.jpg)
 
@@ -94,4 +94,4 @@ I think the huge success from this second rendition of the Bean Quest really cam
 
 ![14](14.jpg)
 
-> SILENT J. The creator of Vision Quest first ever tear-out mosh pit
+> SILENT J. - The creator of Vision Quest's first ever tear-out mosh pit
