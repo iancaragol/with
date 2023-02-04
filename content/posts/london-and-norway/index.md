@@ -14,7 +14,7 @@ TODO
 
 ![grant-food](grant-food.jpg)
 
-> Grant eating a reindeer brautwurst
+> Grant eating a reindeer bratwurst
 
 ![IMG_4597](IMG_4597.jpg)
 
