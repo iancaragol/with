@@ -72,7 +72,7 @@ params:
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   ShowBreadCrumbs: true
-  ShowToc: false # table of contents on blog posts
+  ShowToc: true # table of contents on blog posts
   # comments: false
   # images: ["papermod-cover.png"]
 
