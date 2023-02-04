@@ -6,4 +6,6 @@ draft: false
 
 ## Europe
 
+The Europe journal has its own dedicated site! Check it out at the link below.
+
 The europe journal can be located [here](https://europe.birki.io)
