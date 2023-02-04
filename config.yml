@@ -42,17 +42,25 @@ params:
   defaultTheme: auto
 
   homeInfoParams:
-    Title: Grant Birki - Blog
+    Title: blog.birki.io
     Content: >
-      Grant Birkinbine's personal web blog
+      #### About
 
-      - This is a collection of our thoughts, photos, and memories from life
+      - 👤 Grant Birkinbine's personal blog / journal / web posts
 
-      - This blog contains stories about travels, things, places, and everything in between
+      - 📓 A collection of thoughts, photos, and memories from life.
+
+      - 🌍 This blog contains stories about travels, things, places, and everything in between.
 
       ---
 
-      <!-- ![test](journal-page-1.jpg) -->
+      ![blog-cover](blog-cover.jpg)
+
+      ---
+
+      ---
+
+      📖 To read a post below, simply click anywhere on the cover image or it's description. Enjoy!
 
   cover:
     linkFullImages: true
