@@ -122,20 +122,20 @@ params:
   #     minMatchCharLength: 0
   #     keys: ["title", "permalink", "summary", "content"]
 
-menu:
-  main:
-    - identifier: about
-      name: 💡 about
-      url: /about/
-      weight: 10
-    - identifier: tags
-      name: 🏷️ tags
-      url: /tags/
-      weight: 20
-    - identifier:
-      name: ⭐ featured
-      url: /featured/
-      weight: 30
+# menu:
+#   main:
+#     - identifier: about
+#       name: 💡 about
+#       url: /about/
+#       weight: 10
+#     - identifier: tags
+#       name: 🏷️ tags
+#       url: /tags/
+#       weight: 20
+#     - identifier:
+#       name: ⭐ featured
+#       url: /featured/
+#       weight: 30
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
