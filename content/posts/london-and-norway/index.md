@@ -93,3 +93,35 @@ Before we left, Leah made one last candy run to pick up some sweets!
 ![IMG_4673](IMG_4673.jpg)
 
 We had an **amazing** time in Norway and it really sparked something in me for traveling again in a new way. Leah and I have planned many of our trips together, but there was something really special about surprising her with this trip and seeing how excited she way about all the fun adventures I had up my sleeve for us.
+
+### London 🇬🇧
+
+> So, I'm currently writing this section while on my second trip to London to visit Leah (Feb 3rd, 2023). My eyeballs hurt and it is 4:47am London time so I really should be sleeping. So this section will be more of a brief highlight-reel with photos. We did **so** much in London and it was an amazing trip but if I go into a ton of detail, this post will be endless!
+
+On my birthday (November 10th) Leah took me to a wonderful little cafe called Meghan's. It quickly turned into my favorite spot in Clapham and I ended up coming back here to work nearly everyday on my trip!
+
+![IMG_4689](IMG_4689.jpg)
+
+![IMG_4693](IMG_4693.jpg)
+
+Another really fun night is when Leah took me out to a **delicious** pasta place. We got some top tier noodles before heading to a live showing of Hamilton. We had 3rd row seats and it was a phenomenal performance.
+
+![IMG_4700](IMG_4700.jpg)
+
+Another night that was a blast was when we went to Hyjingo*. Hyjingo is like a jazzed up version of bingo (I think its Korean). You pay for how many games you want to play and then you enter a casino type room. There is lights, masked dancers, and plenty of drinks. On our second round, I actually had a near black-out board which wins an all expenses paid trip to Europe. As I watched the numbers light up on the big screen I suddenly noticed that I had a full black-out board. I stood up and yelled "Hyjingo!". To my surprise, a woman on the other side of the room was doing the exact same thing. We both walked up to the front stage and an official checked both of our boards and sure enough we both had won. So they announced that the only way to "settle a tie was a dance off". Myself and the other woman conspired quietly at the front of the stage to "dance together". We figured if we danced together than neither of us could lose. We danced together for a bit but then she started dancing on her own. She had abandoned our plan! So now it was a free-for-all. A group of British lads started cheering for me to "do the worm!" so I started doing the worm and failed miserably. I looked over at the other woman and saw she was barely dancing so I started giving it my all. At the end they raised each of hands and the audience cheered for the winner. Unfortunately for me, there were a lot of tables with only women so there must have been a bachelorette party. I got a lot of cheers from the lads but it wasn't enough. I had lost but I still had a lot of laughs and a ton of fun. The take-a-way from Leah was "Grant, I think you need dancing lessons".
+
+![IMG_4700](IMG_4707.jpg)
+
+![IMG_4700](IMG_4709.jpg)
+
+Another day we had a date night and checked out a really quaint pub called "The Railway". We went for "Pub Quiz" night and failed terribly but still had fun. They had a really nice cider that Leah and I enjoyed.
+
+![IMG_4700](IMG_4715.jpg)
+
+One weekend day we winded up doing a short trip out to Oxford to explore. We took the train there and the train put me right to sleep. We met my coworker Chris at a pub and he showed me GitHub's office which was quite nice to see in person. Oxford was a very historic place and would be a nice place to live if you lived in the UK and wanted to escape the city of London for a bit.
+
+![IMG_4700](IMG_4700.jpg)
+
+On one of my last days there, we went to watch a woman's rugby game. Leah's friend Fiona is the captain of her rugby team so we went to cheer her on. She won too which was great! I couldn't stop laughing at Fiona's dad who could be heard from anywhere in the stadium. He sounded like a wild fan at a game from Ted Lasso - classic.
+
+![IMG_4700](IMG_4738.jpg)
