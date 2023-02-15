@@ -102,6 +102,8 @@ As we got closer to our street, we saw a lot of sirens and an odd burning smell.
 
 > Modern Art
 
+We talked with several people about the protests and they all seemed rather surprised it got as crazy as it did. Apparently there have frequently been other larger protests in Paris but they did not expect this one to get so out of hand. The general sentiment that we got from folks was that they were disappointed in the vandalism but they agreed with the cause of the protests.
+
 After touring the brief chaos of our street, we changed and headed out to grab some food at a super tasty Egyptian restaurant called [Le Karnak](https://goo.gl/maps/NrExqPoJ6KTojZ836). The food was amazing and it was run by what appeared to be a boyfriend and girlfriend from Egypt; and we were the only people in the restaurant.
 
 Once we finished eating, we hopped on the metro to head toward central Paris to go to a cocktail bar called [Little Red Door](https://goo.gl/maps/2DED8oPqo7B4742WA). The line was super long when we got there so we googled it and found out it had received a lot of awards and was recently voted top 50 bars in the world. Now I haven't really tried all that many cocktails and this was the first "cocktail bar" I had ever really been too but I was pretty impressed. The drinks were probably the best I had ever had in my life. All the drinks are made with ingredients that are grown in local gardens from sustainable farmers in France. We had the *rhubarb*, *raspberry*, and *olive* drinks. It was expensive but absolutely worth it 🍸.
