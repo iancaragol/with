@@ -30,7 +30,15 @@ Apashe with a full brass ensemble was majestic 🎺.
 
 ![IMG_1327](IMG_1327.jpg)
 
+> Apashe
+
 ![IMG_1329](IMG_1329.jpg)
+
+> Apashe with the brass ensemble (two trumpets, two french horns, and four trombones)
+
+![IMG_5689](IMG_5689.jpg)
+
+> One of the countless mosh pits being opened up
 
 The audience for Apashe was... **wild**. It was a constant mosh pit of dancing, jumping, and partying. It was a totally different scene from when I saw him the last two times in the US. I was honestly amazing that the crowd managed to have such high energy and then *maintain* it for the entire show. After being up front for only 45 minutes we had to get water and sit down (we felt old haha).
 
@@ -118,4 +126,48 @@ Once we finished eating, we hopped on the metro to head toward central Paris to 
 
 ### Sunday
 
-TODO
+On Sunday we wanted to revisit an area called [Montmartre](https://goo.gl/maps/5ST9mmpMjQrDCyHe9) that we checked out on our first trip to Paris in 2017. There is a nice cathedral, and plenty of artsy side streets. The whole neighborhood is on a set of hills that are pretty sizeable for Paris. Even though the area is known for being pretty "touristy", we didn't mind as it was a nice place to walk around and explore.
+
+![IMG_1382](IMG_1382.jpg)
+
+> First stop: cookies and coffee
+
+![IMG_1386](IMG_1386.jpg)
+
+> Second stop: cordon bleu
+
+![IMG_1388](IMG_1388.jpg)
+
+![IMG_1390](IMG_1390.jpg)
+
+![IMG_1392](IMG_1392.jpg)
+
+After walking around Montmartre for a while, Leah had the idea to check out some thrift stores near the center of Paris. We had zero success finding any items to purchase but tried on some swanky styles nonetheless.
+
+![IMG_1398](IMG_1398.jpg)
+
+![IMG_5679](IMG_5679.jpg)
+
+Once we were done with the thrift stores, I found a cafe that was dedicated to chocolate and we got some of the richest hot chocolate. They poured chocolate from a tap into a cup and then gave you a beaker of hot milk 🍫. The area we found this cafe in had a bunch of restaurants that had flowers all the way the facade of the building.
+
+![IMG_1402](IMG_1402.jpg)
+
+Since we were in the area, we wanted to check out the [Notre Dame Cathedral](https://goo.gl/maps/V9dCWWa5wnWZtPjT8). We had been there before, but we wanted to check it out in person since we had not seen it after the big fire that caused a lot of damage. It was surrounded by fences, the windows were mostly knocked out, and the top spires were still completed chared. It was honestly pretty grim still and we were glad we saw it while it looked really nice in 2017.
+
+After the Notre Dame, we headed back to the metro and stop by our AirBnb to change before going out to meet up with my coworker Eléonore for dinner!
+
+![IMG_5684](IMG_5684.jpg)
+
+> Leah and Grant snapping a quick photo while there was sun
+
+After changing, we headed back to the metro to make our way to the meetup place with Eléonore.
+
+We met in a nice neighborhood of Paris that had lots of eateries and bars. It was myself, Leah, Eléonore, and her partner. We started off the evening with some drinks at a nice bar/restaurant. After a drink we headed over to a restaurant for some tasty food and then back out for a few more drinks.
+
+Meeting Eléonore and her partner was honestly one of the highlights of the trip for Leah and I. We all got along so well, had great conversations, and plenty of laughs. Eléonore and Quentin were both extremely kind and genuine people. It felt like we had known each other for years and I was kind of sad to say goodbye when we left. I really hope we can meet up with them again and we just might because they may have convinced us to move to Switzerland 🇨🇭.
+
+> P.S. Eléonore, if you are reading this, you and Quentin better come visit us in the UK while we are here!
+
+![IMG_4031](IMG_4031.jpg)
+
+> Left to right: Quentin, Eléonore, Grant, and Leah
