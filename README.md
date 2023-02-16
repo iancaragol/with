@@ -73,7 +73,7 @@ Add the video to the page bundle (alongside the `.md` file and images) and then 
 or
 
 ```bash
-{{< video src="some-cool-video" width="600px" >}}
+{{< video src="some-cool-video" height="600px" width="600px" autoplay="true" loop="true" muted="true" >}}
 ```
 
 > To learn more about the theme that provides video support, check out the [hugo-video](https://github.com/martignoni/hugo-video) repository
