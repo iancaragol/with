@@ -40,6 +40,10 @@ Apashe with a full brass ensemble was majestic 🎺.
 
 > One of the countless mosh pits being opened up
 
+{{< video src="apashe" >}}
+
+> Video from the show
+
 The audience for Apashe was... **wild**. It was a constant mosh pit of dancing, jumping, and partying. It was a totally different scene from when I saw him the last two times in the US. I was honestly amazing that the crowd managed to have such high energy and then *maintain* it for the entire show. After being up front for only 45 minutes we had to get water and sit down (we felt old haha).
 
 Once Apashe was over, we started to head back to our AirBnb but it was still pretty early so we popped into a restaurant on a street corner for some dessert. We had a glass of wine and some really tasty creme brûlée 🍷.

@@ -4,7 +4,7 @@
 baseURL: https://blog.birki.io/
 languageCode: en-us
 title: blog
-theme: PaperMod
+theme: [hugo-video, PaperMod]
 
 paginate: 15
 enableEmoji: true
