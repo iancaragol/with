@@ -55,3 +55,25 @@ Content goes here!
 This site uses the [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme
 
 For more details on configuration, see the [features](https://github.com/adityatelange/hugo-PaperMod/wiki/Features) page on the theme's wiki
+
+## Video Support 📹
+
+This site also supports embedded videos with the following extensions:
+
+- `.mp4` / `.m4v`
+- `.webm`
+- `.ogv`
+
+Add the video to the page bundle (alongside the `.md` file and images) and then you can reference the file without its extension like so:
+
+```bash
+{{< video src="some-cool-video" >}}
+```
+
+or
+
+```bash
+{{< video src="some-cool-video" width="600px" >}}
+```
+
+> To learn more about the theme that provides video support, check out the [hugo-video](https://github.com/martignoni/hugo-video) repository
