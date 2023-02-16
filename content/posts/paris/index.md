@@ -171,3 +171,17 @@ Meeting Eléonore and her partner was honestly one of the highlights of the trip
 ![IMG_4031](IMG_4031.jpg)
 
 > Left to right: Quentin, Eléonore, Grant, and Leah
+
+### Monday
+
+We got up fairly early Monday morning to head to the train station on our way back to London.
+
+![IMG_1417](IMG_1417.jpg)
+
+> The sun coming through our windows
+
+On our way to the train station, we stopped by an excellent pastry shop that Leah's friend Moira had suggested 🥐.
+
+![IMG_5688](IMG_5688.jpg)
+
+We loaded up on pastries and it was a great way to end our weekend trip to Paris!
