@@ -3,7 +3,7 @@
 
 baseURL: https://blog.birki.io/
 languageCode: en-us
-title: blog
+title: 📖 blog
 theme: [hugo-video, PaperMod]
 
 paginate: 15
