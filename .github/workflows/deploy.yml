@@ -56,8 +56,7 @@ jobs:
 
       - name: build with hugo
         run: |
-          hugo \
-            --buildDrafts --gc --verbose \
+          hugo --gc --verbose \
             --baseURL ${{ steps.pages.outputs.base_url }}
 
       - name: upload artifact
