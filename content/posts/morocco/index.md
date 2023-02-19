@@ -98,4 +98,33 @@ Overall, our sentiment on Casablanca was that it was a bit of a mess and not a p
 
 ### Sunday 2/19
 
-TODO
+On Sunday we slept in until 10am. We were both really not looking forward to getting up and having to leave the comfort of our AirBnb. Casablanca was just so chaotic and it didn't feel like there was much to do. We would also be checking out and would have to carry around all our bags for the day.
+
+The night before, we had done some research and discovered that the best thing to do in Casablanca was to visit the **Hassan II** mosque of Casablanca. So we set out with all of our packs to the mosque via taxi.
+
+We booked a tour for noon and then popped into a cafe to fuel up on coffee and pancakes before heading back for our tour.
+
+![IMG_5749](IMG_5749.jpg)
+
+> The cafe which bestowed pancakes upon of rumbling bellies
+
+To our knowledge, this is one of the few mosques you can actually tour in Morocco as a non-muslim since they are usually quite strict on who can enter and you must have a tour.
+
+The mosque tour actually helped put us back on track with traveling as we really enjoyed it. While it wasn't "historic" in terms of age (constructed in 1993) it was extremely impressive by its design. The entire building was garnished in very intricate Islamic carvings. You could stare into many of the designs and be mesmerized.
+
+![DSC03599](DSC03599.jpg)
+
+> One of the countless designs on the ceiling of the mosque
+
+Some photos we took of the mosque:
+
+![]
+
+![IMG_5751](IMG_5751.jpg)
+
+> Behind the scenes of Leah's photo shoot
+
+
+![IMG_5758](IMG_5758.jpg)
+
+> Catching the train back to Marrakech
