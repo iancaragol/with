@@ -118,13 +118,38 @@ The mosque tour actually helped put us back on track with traveling as we really
 
 Some photos we took of the mosque:
 
-![]
+![DSC03595](DSC03595.jpg)
+
+> The ceiling behind the main entrance
+
+![DSC03602](DSC03602.jpg)
+
+> The main room of prayer in the mosque
+
+![DSC03726](DSC03726.jpg)
+
+> The mosque from the outside
+
+![DSC03717](DSC03717.jpg)
+
+> Leah doing a mini photo shoot
 
 ![IMG_5751](IMG_5751.jpg)
 
 > Behind the scenes of Leah's photo shoot
 
+![DSC03761](DSC03761.jpg)
+
+> Grant doing a photo shoot
+
+The mosque was really quite beautiful and we both thought it helped turn our rough stay in Casablanca back around!
+
+After the mosque we pretty much just hung out, got some food, read books, and then caught our train back to Marrakech 🚋. We booked a traditional riad for the night and were very excited to see what it's all about!
 
 ![IMG_5758](IMG_5758.jpg)
 
 > Catching the train back to Marrakech
+
+### Monday 2/20
+
+TODO
