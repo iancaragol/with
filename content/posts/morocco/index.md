@@ -94,7 +94,7 @@ We walked down the street a bit and ended up in a fairly nice restaurant and got
 
 Overall, our sentiment on Casablanca was that it was a bit of a mess and not a place one should go if you're looking to relax or see sights.
 
-> I am writing this section as we are sitting in the AirBnb after the day in Casablanca and we are both very excited to be leaving tomorrow morning 🙃.
+> I am writing this section as we are sitting in the AirBnb after the day in Casablanca and we are both very excited to be leaving tomorrow evening 🙃.
 
 ### Sunday 2/19
 
