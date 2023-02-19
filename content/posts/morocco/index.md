@@ -1,7 +1,7 @@
 ---
 title: "Morocco"
 date: 2023-02-17T15:50:00-00:00
-draft: true
+draft: false
 cover:
   image: "DSC03717.jpg"
 ---
@@ -152,4 +152,4 @@ After the mosque we pretty much just hung out, got some food, read books, and th
 
 ### Monday 2/20
 
-TODO
+Coming soon...
