@@ -64,6 +64,14 @@ We prompted left the medina and began to walk back to our AirBnb to asses the cu
 
 > Walking around Casablanca there were many stray cats taking a snooze on scooters and the roofs of cars
 
+![IMG_5738](IMG_5738.jpg)
+
+> A typical side street with vendors in Casablanca
+
+![IMG_5740](IMG_5740.jpg)
+
+> A home in Casablanca doing laundry day
+
 ---
 
 #### Trip Adjustment
@@ -77,6 +85,10 @@ We had been in Morocco for about 16 hours at this point and realized we were in 
 After our "trip adjustment pow-wow", we headed over to the "fancy" area of Casablanca to get some food and escape from the chaos of the inner city. Our first stop was the beach to check out the Atlantic ocean. Getting close up to the water it was rather nice to look out and just hear the waves wash out the sound of the city. On our way back to the main road, we encountered a pretty angry dog chained to a broken railing. The dog saw us, started barking, and leap towards Leah and I. We both saw that it pulled right away from the fence and both the dog and the broken piece of chained fence started coming towards us. We both turned around and went full sprint down the steps. A bunch of locals laughed at us but we didn't find the dogs teeth too comical in the moment.
 
 We tried another set of steps that didn't have any angry dogs and found ourselves in front of a "Four Seasons" hotel. We figured *why not* and basically snuck into the Four Seasons and sat down in the restaurant. We took one look at the menu and promptly left when we saw the prices 😂.
+
+![IMG_1465](IMG_1465.jpg)
+
+> The view from the cafe at the Four Seasons (that we snuck into)
 
 We walked down the street a bit and ended up in a fairly nice restaurant and got some pasta, a smoothie, and a nice pizza. After our dinner, we found one of the few places in the city that served alcohol nearby and went for a few drinks to ease our nerves from the chaotic day.
 
