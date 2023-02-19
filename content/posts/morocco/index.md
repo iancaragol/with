@@ -32,11 +32,19 @@ Saturday was another early morning that started with travel. Our AirBnb was inte
 
 > I managed to get at least one surprise right at last! 😂
 
+![IMG_1457](IMG_1457.jpg)
+
+> Grant reading on the train
+
 We managed to get off at the wrong train station coming into Casablanca and this was honestly foreshadowing for our time in Casablanca. We managed to get back on the train just before it left after we looked at our phones and realized we were in the wrong place. After getting back on the train, I had realized that I had rolled my suitcase through an enormous pile of wet poop (all over my shoes as well... delightful).
 
 Soon we had arrived in Casablanca (at the correct stop) and made our way out of a train station. As Leah laughed, I rolled my luggage through a sprinkler outside.
 
 We took a taxi to our AirBnb and then went into a nearby cafe while we waited for the cleaner to finish so we could drop off our bags.
+
+![IMG_5734](IMG_5734.jpg)
+
+> Leah in the taxi on our way to our AirBnb
 
 Casablanca was **chaotic**... 😬
 
@@ -51,6 +59,10 @@ While planning this trip I had done some research around medinas and had a wildl
 The medina we visited was full of shops containing knock-off Nike shoes, fake luxury bags, and shampoo. We went into one shop that looked like it had spices but the most interesting thing we found was what we believed to be "prostate stimulating powder".
 
 We prompted left the medina and began to walk back to our AirBnb to asses the current situation that was Morocco.
+
+![IMG_5741](IMG_5741.jpg)
+
+> Walking around Casablanca there were many stray cats taking a snooze on scooters and the roofs of cars
 
 ---
 
