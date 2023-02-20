@@ -150,6 +150,118 @@ After the mosque we pretty much just hung out, got some food, read books, and th
 
 > Catching the train back to Marrakech
 
+We got into Marrakech fairly late and had a light snack at our riad. It was wonderful! We were now feeling like we were in the Morocco that we had read so much about. The riad had travelers from all over, was garnished in fine rugs, tiles, and friendly hosts. Leah booked this riad for us only hours before and it was a great choice!
+
 ### Monday 2/20
 
-Coming soon...
+The day before we had also made another slight adjustment to our trip. We originally had a "group tour" into the Sahara desert for three days. Upon consideration with Leah, we changed it to a "private tour" with our own dedicated driver. The driver arrived at our riad at 9:00am so we only had time for a quick coffee and a crepe before hitting the road.
+
+![IMG_5769](IMG_5769.jpg)
+
+> Walking to our car with Mohammad (seen on the very right)
+
+Our trip with Mohammad would be a three day journey through the high Atlas mountains, through many Berber small villages, and into the Sahara desert.
+
+As we left Marrakech and entered the Atlas mountains, the view quickly changed from old city streets to beautiful mountains with deep red soil.
+
+![IMG_5770](IMG_5770.jpg)
+
+The roads were starting to get cold, windy, and very narrow so we made a quick stop for some mint tea to warm up.
+
+Soon after, we were on a steep mountain pass and got out to take a few photos. Leah and I nearly blew over from the wind gusts which must have been 70mph+.
+
+![IMG_5772](IMG_5772.jpg)
+
+> The view from the incredibly windy summit
+
+As we continued on, we passed through countless Berber villages. We would often see bundled up old women walking in the hills with herds of goats and sheep.
+
+Our driver turned onto a back road and we went off the beaten path before arriving at a small village where we would be visiting a hidden gem of Morocco - [Kasbah Telouet](https://en.wikipedia.org/wiki/Telouet_Kasbah). The Kasbah used to be a palace for the Glaoui family, a powerful Berber tribe along a caravan trade route. During its peak, the Glaoui family was more wealthy than the actual king of Morocco. We learned that during this time salt was incredibly valuable. In fact, the traders living at the Kasbah would trade one kilogram of their salt for a kilogram of gold. The Kasbah is in a very remote area and is now only accessible by local guides (such as the one we had). There were guards at the edge of the village as well.
+
+> A "Kasbah" is a type of palace or fortress that was built in the desert. They were often built by the Berber tribes and were used as a place to store their wealth and as a place to stay during their travels.
+
+From the outside, the Kasbah looks fairly run down from erosion and the elements; but the inside is absolutely stunning.
+
+![DSC03773](DSC03773.jpg)
+
+> The outer walls of the Kasbah and a corner guard tower
+
+![DSC03777](DSC03777.jpg)
+
+> The inside of the Kasbah with our Kasbah guide - He could speak English, French, Spanish, and Arabic. He was born in the smaller Kasbah next door and still lives there with his wife today
+
+![DSC03780](DSC03780.jpg)
+
+> Inside of a main gathering room of the Kasbah
+
+![DSC03785](DSC03785.jpg)
+
+> Intricate cedar and plaster carvings on the ceiling
+
+![DSC03797](DSC03797.jpg)
+
+> Looking into the main gathering room from the dinning room
+
+![DSC03800](DSC03800.jpg)
+
+> Me and Leah on the roof of the Kasbah
+
+![DSC03801](DSC03801.jpg)
+
+> Looking down into one of the many courtyards from the roof
+
+The Kasbah was one of our favorite stops on the first day of our trip and the fact that we went with the more expensive "private guide" already felt like it was worth every single penny.
+
+After the Kasbah, we walked into a small dining room nearby to have some lunch. We had lamb tajine and more mint tea. The tajine was delicious and we wished that we hadn't split just one.
+
+![IMG_5777](IMG_5777.jpg)
+
+> Incredibly flavorful lamb tajine
+
+After lunch we continued our descent down the Atlas mountains. Our driver made a quick off-road detour to a nice panoramic view of the mountains and a village below.
+
+![DSC03811](DSC03811.jpg)
+
+> Leah at the panoramic view
+
+![IMG_5782](IMG_5782.jpg)
+
+> G+L
+
+![IMG_5780](IMG_5780.jpg)
+
+> Our car, the driver/guide Mohammad, Leah, and the mountains
+
+![IMG_5788](IMG_5788.jpg)
+
+> Leah in the back seat
+
+As we drove even further down the mountains there started to be even more villages, almost no wind, and a lot less snow.
+
+![DSC03803](DSC03803.jpg)
+
+> A small Berber village placed on the edge of a river with small farm plots - Yes, nearly all these homes are inhabited
+
+![DSC03805](DSC03805.jpg)
+
+> An oasis of green crops with villages surrounding it
+
+After our long and very narrow descent out of the mountains, we arrived at a small caravan village. It had another Kasbah positioned on the top of a butte and our driver stopped to let us explore. He hung out in the car while we spent about an hour checking the area out.
+
+This small village was equally vibrant and full of colors.
+
+![DSC03816](DSC03816.jpg)
+
+> The inner streets of the Kasbah on the hill
+
+![DSC03817](DSC03817.jpg)
+
+> Leah on the very top of the hill, looking out over the village
+
+![DSC03823](DSC03823.jpg)
+
+> Leah on a stroll down the steps
+
+![DSC03841](DSC03841.jpg)
+
+> White dromedaries by the river - The dromedary is a camel with "one hump", also known as the Arabian camel
