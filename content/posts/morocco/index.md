@@ -265,3 +265,9 @@ This small village was equally vibrant and full of colors.
 ![DSC03841](DSC03841.jpg)
 
 > White dromedaries by the river - The dromedary is a camel with "one hump", also known as the Arabian camel
+
+This was our last stop until our driver dropped us off at our riad for the night. When we arrived at the riad we both felt very sleepy from the car ride so Leah did the classic "time to read a book" and proceeded to fall asleep next to me as I edited photos (for this blog). We had a lovely dinner of chicken tajine and went to bed early as our driver would be there at sun rise to begin our journey into the Sahara desert! 🐪
+
+### Tuesday 2/21
+
+Coming soon...
