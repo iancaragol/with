@@ -276,4 +276,16 @@ This was our last stop until our driver dropped us off at our riad for the night
 
 We had our alarms set for 7:00am but they were not needed as the riad we right next to a mosque. We awoke promptly at 6:45am to the sound of Muslim prayers being broadcast over load speakers and people praying from the tops of nearby buildings. It was still quite dark outside and rather cold but we managed to force ourselves downstairs for some coffee and bread with jam. Our driver, Mohammad, met us outside after breakfast and we were off on our way to the Sahara desert!
 
+The landscape quickly started turning from sharp and rocky to quick and sandy as we began our journey.
+
+![DSC03843](DSC03843.jpg)
+
+> View from the road of the landscape
+
+We made a quick stop at a town centered in an oasis at a local police station that had a good panoramic view.
+
+![DSC03847](DSC03847.jpg)
+
+> G + L in the oasis
+
 
