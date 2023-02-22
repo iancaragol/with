@@ -326,7 +326,9 @@ After our lunch, we continued our drive even further into the desert. It started
 
 > The nomads and their camels which they ride around with as they let them graze on what they can find
 
+![DSC03858](DSC03858.jpg)
 
+> The nomad's Arabian camels 🐪
 
 ### Wednesday 2/22
 
