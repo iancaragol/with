@@ -307,3 +307,11 @@ After a few more hours of driving, we stopped at a small town that was known for
 After obtaining our pottery, we set off to our last stop before the roads ended and our real adventure began. We stopped at [M'Hamid](https://en.wikipedia.org/wiki/M%27Hamid_El_Ghizlane) which is the last real civilization before entering the Sahara. Mohammad is actually from this town and you would know right away as we started to enter it. He was rolling down his window and greeting just about every single person we saw. If we were not on a short time schedule, it could have taken us days to pass through the town as just about everyone recognized him and wanted to say hello. We stopped at a small building and picked up a "picnic" style lunch from one of his friends (or possibly family members) before we left the town behind.
 
 The roads turned to dirt and were *rough*. As Mohammad said "this is the massage" and it certainly was some form of massage on the back (not sure if a good one ha). We stopped under one of the few trees we could find to eat our picnic lunch after checking out some wandering Arabian camels. Even though the desert seemed completely empty we were not alone though. There were plenty of desert beetles that came to visit us and enjoy some of our rice (they were very kind).
+
+![IMG_5819](IMG_5819.jpg)
+
+> Leah and Mohammad having lunch
+
+![IMG_5817](IMG_5817.jpg)
+
+> The view of our road out into the desert
