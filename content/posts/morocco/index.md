@@ -330,6 +330,26 @@ After our lunch, we continued our drive even further into the desert. It started
 
 > The nomad's Arabian camels 🐪
 
+Shortly after stopping by and saying hello to the nomads, we approached the dunes. Even from afar they were stunning.
+
+Our 4x4 Toyota drifted up the dunes as we blasted a mix of Arabian pop music and Katy Perry. Before we knew it, we had arrived at our fancy desert camp 🏕️.
+
+> To put it simply, this camp was **remote**... From the highest point in the camp, you could look out in all directions and see nothing but sand and desert. There was no service, electricity, food, or water. The only supplies at the camp was the tea and dinner that was brought in for our stay that night. It was so peaceful and beautiful this way. No distractions, just the desert...
+> ![IMG_5828](IMG_5828.jpg)
+> My GPS dot, somewhere near the border of Morocco and Algeria before it lost connection. The "green flag" is Marrakech
+
+Leah and I were the first travelers to arrive at our small camp that afternoon so we drank tea with the hosts while we waited for the hot afternoon sun to set a little. The hosts were incredibly friendly and most likely grew up nearby in the desert. There were four of them and they all spoke several languages that they learned from speaking with other travelers. Even though the main tent that we were relaxing in was hot, it felt good to get out of the sun as I got a sun burn within only minutes of being outside.
+
+After about an hour, about a dozen other travelers showed up at the camp to spend the night. Some of the travelers were from Spain and France.
+
+We all gathered together around 5:30pm to embark on our camel ride towards the largest sand dune of [Erg Chigaga](https://en.wikipedia.org/wiki/Erg_Chigaga).
+
+> Erg Chigaga is the largest, most remote, and untouched erg (sand dune area) of Morocco.
+
+There were two packs of camels each lead by one of our hosts. Leah and I were in the very back of the second pack each on our own camel. The camels did not have names but instead went by their colors. We promptly named Leah's camel "Carl" because it looked like it should be named Carl.
+
+We set off on our camels towards the massive dune ahead of us and it was a majestic experience. It was one of those moments where you really don't feel like you are on Earth at all and instead are on some foreign planet. It was truly National Geographic material 📸.
+
 ### Wednesday 2/22
 
 Coming soon...
