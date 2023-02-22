@@ -350,6 +350,46 @@ There were two packs of camels each lead by one of our hosts. Leah and I were in
 
 We set off on our camels towards the massive dune ahead of us and it was a majestic experience. It was one of those moments where you really don't feel like you are on Earth at all and instead are on some foreign planet. It was truly National Geographic material 📸.
 
+![DSC03877](DSC03877.jpg)
+
+> Starting our camel ride towards the largest dune
+
+![DSC03885](DSC03885.jpg)
+
+> The camel train
+
+![DSC03891](DSC03891.jpg)
+
+> G + L on their camels (Leah is on Carl)
+
+![DSC03902](DSC03902.jpg)
+
+> Leah looking out over the dunes
+
+![DSC03906](DSC03906.jpg)
+
+> National Geographic material... With the largest dune in the background
+
+![DSC03912](DSC03912.jpg)
+
+> A desert beetle in the dunes
+
+![DSC03921](DSC03921.jpg)
+
+> Sand dunes for as far as the eye can see
+
+![DSC03925](DSC03925.jpg)
+
+> Popped the big question! She said yes! 🎉💍
+
+![DSC03943](DSC03943.jpg)
+
+> Leah with the 💍
+
+![DSC03959](DSC03959.jpg)
+
+> G + L - Now engaged! 🥳
+
 ### Wednesday 2/22
 
 Coming soon...
