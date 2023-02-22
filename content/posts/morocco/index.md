@@ -268,6 +268,12 @@ This small village was equally vibrant and full of colors.
 
 This was our last stop until our driver dropped us off at our riad for the night. When we arrived at the riad we both felt very sleepy from the car ride so Leah did the classic "time to read a book" and proceeded to fall asleep next to me as I edited photos (for this blog). We had a lovely dinner of chicken tajine and went to bed early as our driver would be there at sun rise to begin our journey into the Sahara desert! 🐪
 
+![IMG_5808](IMG_5808.jpg)
+
+> The view from the first floor of our riad
+
 ### Tuesday 2/21
 
-Coming soon...
+We had our alarms set for 7:00am but they were not needed as the riad we right next to a mosque. We awoke promptly at 6:45am to the sound of Muslim prayers being broadcast over load speakers and people praying from the tops of nearby buildings. It was still quite dark outside and rather cold but we managed to force ourselves downstairs for some coffee and bread with jam. Our driver, Mohammad, met us outside after breakfast and we were off on our way to the Sahara desert!
+
+
