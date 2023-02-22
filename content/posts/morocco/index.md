@@ -315,3 +315,11 @@ The roads turned to dirt and were *rough*. As Mohammad said "this is the massage
 ![IMG_5817](IMG_5817.jpg)
 
 > The view of our road out into the desert
+
+### Wednesday 2/22
+
+Coming soon...
+
+![IMG_5855](IMG_5855.jpg)
+
+> Our flat tire dilemma
