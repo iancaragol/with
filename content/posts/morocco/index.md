@@ -316,6 +316,18 @@ The roads turned to dirt and were *rough*. As Mohammad said "this is the massage
 
 > The view of our road out into the desert
 
+After our lunch, we continued our drive even further into the desert. It started to feel like we were on another planet - perhaps Mars? There was just sand, rocks, and desert for as far as the eye could see. The thing that impressed me the most here was Mohammad's navigation skills. There were no marking what-so-ever and no other human being to be found. There were a few tire tracks here and there but they went in all different directions and we only followed them when they had conveniently paved the way in the sand. Mohammad didn't have a map or a GPS, he simply knew the desert like the back of his hand. He said he grew up just walking around this very desert with his friends and sometimes they had bikes to explore. After an hour or so of driving (time didn't feel real) we stumbled across some nomads and of course Mohammad knew them all by name.
+
+![IMG_5824](IMG_5824.jpg)
+
+> A nomad "camp" where they would stay to avoid the blazing sun
+
+![DSC03853](DSC03853.jpg)
+
+> The nomads and their camels which they ride around with as they let them graze on what they can find
+
+
+
 ### Wednesday 2/22
 
 Coming soon...
