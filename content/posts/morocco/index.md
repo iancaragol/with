@@ -406,8 +406,30 @@ Leah and I were so thrilled and my heart was beating like mad after I asked her.
 
 ### Wednesday 2/22
 
-Coming soon...
+We were awoken at about 4:00am to the sound of rain on the top of our tent. That's right, rain in the Sahara... We weren't sure if we would get hit by a flash flood or something of the sorts as we knew rain wasn't exactly a common occurrence out here. We investigated outside for a bit and it was a really gentle light rain so we went back to bed. We woke up a few hours later to get some coffee and bread for breakfast before setting off back on our way to Marrakech with Mohamad. He slept in the camp with us last night so we was there after breakfast ready to drive us back.
+
+We had to drive a different way out of the desert because the road we came in on was too dangerous to drive even from a little bit of rain. Areas in the desert that have a lot of clay become just as slippery as ice when they get wet so we had to drive south instead. Along our drive, we were going quite fast and actually hit a patch of clay. Our completely spun out and did a 360 spin on the wet clay. It was honestly pretty startling since we would have flipped if the clay suddenly turned back to sand while we were sideways. We continued driving out of the desert and had to stick to really rocky terrain as the wet sand proved to be troublesome. It was extremely rocky and I kept thinking "I hope this doesn't give us a flat tire"...
+
+After about 3 hours of driving we were finally on paved roads again and heading back towards Marrakech.
+
+We drove for several hours back up into the High Atlas mountains.
+
+Mohammad had to take a quick stop on the side of the road to pee so we all got out to stretch our legs. When we did, a man hanging out on the side of the road started shouting and pointing at the car to Mohammad. We did indeed have a flat tire...
+
+Thankfully, the people of Morocco are some of the most friendly and supportive that we have come across in all our travels. Another man stopped and we all helped change the tire together like a stranded desert pit crew.
 
 ![IMG_5855](IMG_5855.jpg)
 
 > Our flat tire dilemma
+
+After changing our tire, we were back on the road again. We only made one stop of snacks and Mohammad had some tea while we stopped. The entire rest of the day was spent driving as Erg Chigaga is quite a ways from Marrakech.
+
+We arrived in Marrakech in the late evening and our riad wasn't quite yet ready so we had Mohammad drop us off at a cafe where we tried camel burgers which were interesting.
+
+After we finished our dinner, we got all checked into our private riad. I kind of went all out on this place when I booked it intentionally. It was incredibly fancy and way overkill compared to the places Leah and I usually stay. This place could easily sleep 10+ people and was by far the most lavish AirBnb we had ever booked. I had this riad booked for the entire rest of our stay in Morocco and there were more bedrooms than we had nights in it 😆.
+
+The riad had a terrace on the ground floor in the center that looked up at all the rooms above. The terrace also had a small pool and was surrounded by flowers and different plants. The main staircase in the riad went all the way up to the different floors and the roof which had a day bed with curtains, and seating area for about 20 people looking out over Marrakech. It was way overkill but quite wonderful.
+
+### Thursday 2/23
+
+TODO
