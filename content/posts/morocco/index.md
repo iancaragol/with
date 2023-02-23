@@ -388,6 +388,26 @@ I found a really scenic stop on top of the dune with a great back drop and we we
 
 I setup our camera on my backpack and framed Leah in the shot. I told her it was in video mode and we would just take still photos out of the video. We tried a few poses for the camera and the wind just kept blowing us over as we laughed. I told her I had one more shot we should take. I got down on one knee, took the ring out of my pocket, and asked Leah to marry me... **she said yes**!
 
+![still1](still1.jpg)
+
+> Staging some couple photos
+
+![still2](still2.jpg)
+
+![still3](still3.jpg)
+
+![still4](still4.jpg)
+
+> Asking the question!
+
+![still5](still5.jpg)
+
+![still6](still6.jpg)
+
+![still7](still7.jpg)
+
+> She was so excited!
+
 ![DSC03925](DSC03925.jpg)
 
 > Popped the big question! She said yes! 🎉💍
