@@ -374,9 +374,19 @@ We set off on our camels towards the massive dune ahead of us and it was a majes
 
 > A desert beetle in the dunes
 
+We soon arrived at the base of the largest sand dune in Erg Chigaga. The group dismounted their camels and we all set off in different directions to summit the dune. Leah and I set off on our own path on the side of the dune while most people went straight up it. It was quite the workout to get to the top but the views were absolutely worth it.
+
 ![DSC03921](DSC03921.jpg)
 
 > Sand dunes for as far as the eye can see
+
+Leah and I sat upon the top of the dune and watched the sun slowly set over the desert and as it did the dunes turned a deeper shade of orange. It was pretty windy at the very top of the dune and we had sand in our teeth, eyebrows, hair, and just about half the Sahara in our shoes. We were covered in sand but didn't even mind as the views were too stunning to be bothered.
+
+As the sun set behind most of the clouds, a few members of our group started to slowly head back down. I told Leah I wanted to get a few "couple photos" on the back side of the dune together but I had other plans in mind... there as a ring in my pocket 💍.
+
+I found a really scenic stop on top of the dune with a great back drop and we were away from the group. It was just us, the wind, and a whole lot of sand.
+
+I setup our camera on my backpack and framed Leah in the shot. I told her it was in video mode and we would just take still photos out of the video. We tried a few poses for the camera and the wind just kept blowing us over as we laughed. I told her I had one more shot we should take. I got down on one knee, took the ring out of my pocket, and asked Leah to marry me... **she said yes**!
 
 ![DSC03925](DSC03925.jpg)
 
@@ -389,6 +399,10 @@ We set off on our camels towards the massive dune ahead of us and it was a majes
 ![DSC03959](DSC03959.jpg)
 
 > G + L - Now engaged! 🥳
+
+Tada! The big surprise of my "surprise" trip has been revealed!
+
+Leah and I were so thrilled and my heart was beating like mad after I asked her. We had a mini race down the dune to catch up with our group and laughed with excitement the whole way down. We hopped back on our camels and literally rode into the sun set on our way back to camp.
 
 ### Wednesday 2/22
 
