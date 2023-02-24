@@ -493,3 +493,13 @@ The food we made at the cooking class was the best food we had in Morocco so far
 After our cooking class, we checked out the [Badi Palace](https://en.wikipedia.org/wiki/El_Badi_Palace) as it was just around the corner. We didn't spend too long here as all the signs were in either Arabic or French but it still had some beautiful tiles and Islamic architecture.
 
 > I decided on this day that my new favorite style of architecture was the Islamic style in Morocco. This style is so very intricate, detailed, and colorful. For a long time my favorite style was renaissance but the designs in Morocco certainly have that beat now. A lot of Islamic architecture follows a common (and beautiful) design pattern for doorways. First, you have colorful tile patterns on the floor which extend onto the doorway. From there, you have finely detailed plaster carvings which extend upwards. Finally, the top of the doorway is designed with intricately carved cedar. It is truly art 🎨.
+
+### Friday 2/24
+
+![IMG_5981](IMG_5981.jpg)
+
+> A street vendor selling various sweets in the Marrakech medina
+
+![IMG_5982](IMG_5982.jpg)
+
+> Leah on the potter's wheel
