@@ -494,12 +494,84 @@ After our cooking class, we checked out the [Badi Palace](https://en.wikipedia.o
 
 > I decided on this day that my new favorite style of architecture was the Islamic style in Morocco. This style is so very intricate, detailed, and colorful. For a long time my favorite style was renaissance but the designs in Morocco certainly have that beat now. A lot of Islamic architecture follows a common (and beautiful) design pattern for doorways. First, you have colorful tile patterns on the floor which extend onto the doorway. From there, you have finely detailed plaster carvings which extend upwards. Finally, the top of the doorway is designed with intricately carved cedar. It is truly art 🎨.
 
+After checking out the Badi Palace, we began our journey into the medina of Marrakech.
+
+> A [medina](https://en.wikipedia.org/wiki/Medina_quarter) is a historical district in a number of North African cities, often corresponding to an old walled city. The medina in Marrakech is full of vibrant shops where you can buy rugs, leather goods, spices, and almost anything else you can imagine.
+
+The medina was actually quite chaotic and I only managed to get a few photos when there was enough space to raise my camera up without being plowed over by a scooter.
+
+![DSC03971](DSC03971.jpg)
+
+![DSC03976](DSC03976.jpg)
+
+> The streets of the medina (with a break in the crowd)
+
+![DSC03979](DSC03979.jpg)
+
+> One of the many shops containing tons of lamps
+
+After wandering the streets of the medina for a while, we wanted a break from the crowds. We popped into [Le Jardin Secret](https://www.lejardinsecretmarrakech.com/en/) which is a "not so secret" garden in the middle of the medina. It had two sections; one full of exotic plants, and another full of local plants.
+
+![DSC03961](DSC03961.jpg)
+
+> A fountain in the center of the "secret garden"
+
+![DSC03963](DSC03963.jpg)
+
+> Leah next to some pretty green doors in the "secret garden"
+
+After hanging out in the garden for a bit, we decided to walk back as we were getting quite hungry. On our walk, we passed a KFC and thought "why not" and picked up some chicken to snack on in our riad.
+
 ### Friday 2/24
+
+Long before we left for this trip, I had planned to propose to Leah and really wanted some couple photos of the two of us after I asked the big question. I found a local photographer online and booked him way in advance to get our photos taken. Leah and I take pictures of each other all the time but really struggle with taking our own "couples photos" so I figured it would be a good idea to have someone with more experience take charge.
+
+We got up before the sun was up and met our photographer Lyes (a local to Marrakech originally from Fez) at the [Koutoubia Mosque](https://en.wikipedia.org/wiki/Kutubiyya_Mosque) for our sunrise couples photos. It was raining which we learned is rather rare for Marrakech. This didn't stop us though from getting some stunning photos.
+
+> ⚠️ **insert photos here** ⚠️
+
+Lyes was incredibly nice and a very talented photographer. After our session, we went back to our AirBnb to get changed into dry clothes, put jackets on, and head back into the medina for further exploring.
 
 ![IMG_5981](IMG_5981.jpg)
 
 > A street vendor selling various sweets in the Marrakech medina
 
+![DSC03982](DSC03982.jpg)
+
+> One of the few fully outdoor (and open) sections of the medina
+
+![DSC03983](DSC03983.jpg)
+
+> An outdoor rug shop
+
+![DSC03984](DSC03984.jpg)
+
+> One of the many streets of the medina
+
+![DSC03985](DSC03985.jpg)
+
+> So many bags of colorful things and spices
+
+![DSC03988](DSC03988.jpg)
+
+> In contrast to color, an honest photo of what a closed down medina street looks like
+
+![DSC03990](DSC03990.jpg)
+
+> Another shops selling lamps
+
+After checking out even more of the many winding streets of the medina, we hopped in a taxi to head over to our scheduled pottery class that day.
+
+Leah and I each made a few pieces of pottery and decorated them. We tried out using a potters wheel and failed miserably 😂. It was quite fun and always interesting to try a new activity, especially when in a new place.
+
+> We learned that all the clay and materials from the class came from the souks (shops) in the medina. If you live in Marrakech, you could buy nearly everything you need in the medina. Whether you need toilet paper, clay, food, light bulbs, or fine art, its all in the medina. In fact, Leah and I have yet to come across a grocery store, or any chain store for that matter. Its all locally owned shops filled floor to ceiling with various products.
+
 ![IMG_5982](IMG_5982.jpg)
 
 > Leah on the potter's wheel
+
+After our pottery class, we grabbed a taxi to head back into the medina to try a really nice restaurant that our photographer from the morning suggested called [Dar Cherifa](https://en.wikipedia.org/wiki/Dar_Cherifa). It is one of the oldest well preserved homes in Marrakech from the 16th century that has now been turned into a cafe and art gallery. We split some delicious lemon chicken tajine and enjoyed the space we were in while we ate. It was honestly one of the best indoor spaces for a restaurant I have ever seen and there was only about 8 people in the whole restaurant.
+
+![DSC03991](DSC03991.jpg)
+
+> The view from our table at Dar Cherifa
