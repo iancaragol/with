@@ -452,4 +452,39 @@ The riad had a terrace on the ground floor in the center that looked up at all t
 
 ### Thursday 2/23
 
-TODO
+The private riad we were staying in is owned by a French couple and they have a dedicated person who lives nearby to prepare breakfast for the guest everyday. We woke up to the smell of coffee downstairs so we went down to the terrace floor to enjoy some wonderful pancakes, jams, bread, honey, tea, orange juice, eggs, fresh fruit, and coffee. It was a delightful breakfast to start our day!
+
+![IMG_5978](IMG_5978.jpg)
+
+> The amazing breakfast spread
+
+Right after breakfast we set off to a Moroccan cooking class that I had booked long in advance. We met outside a pharmacy next to the old palace in Marrakech and walked to a local produce stand to pick out fresh vegetables. The group all had baskets and we collected food for 18 people. It only cost 65 MAD or $6.5 USD for all the vegetables which was incredibly cheap. The vendor used several stones with numbers on them to price the produce by weight. For the smaller vegetables he used a spark plug to weigh them.
+
+![IMG_5859](IMG_5859.jpg)
+
+> Leah picking out some veggies
+
+After we obtained our vegetables, we went to the butcher to get a live chicken which wasn't "alive" for very long after we picked it out. It was kind of sad but perhaps it was a more sustainable way to get chicken compared to industrial farming back in the US.
+
+We walked to the home/kitchen where we would be cooking with our host and it was a lovely riad style home with lots of Moroccan tiles. We started out learning how to make proper Moroccan mint tea and then we started preparing our food!
+
+![IMG_5978](IMG_5978.jpg)
+
+> Preparing our food
+
+We cooked several dishes:
+
+- Chicken tajine
+- Lamb tajine
+- Kefta balls
+- Tomato salad
+- Eggplant salad
+
+The chicken tajine was more on the savory side and had so much flavor. The lamb tajine was sweeter and had figs but was equally delicious. Oddly, one of our favorites was the Kefta meatballs even though it was just an appetizer.
+
+We will absolutely be cooking tajine when we are back home because it was really easy to make and was incredibly flavorful.
+
+The food we made at the cooking class was the best food we had in Morocco so far and was totally worth it!
+
+
+
