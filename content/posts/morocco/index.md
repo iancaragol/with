@@ -575,3 +575,15 @@ After our pottery class, we grabbed a taxi to head back into the medina to try a
 ![DSC03991](DSC03991.jpg)
 
 > The view from our table at Dar Cherifa
+
+Dar Cherifa was really close to one of the few rooftop bars in Marrakech that actually serves alcohol so we decided to check it out for a drink.
+
+> It should be noted that [91% of Moroccan men and 97% of Moroccan women](https://www.moroccoworldnews.com/2017/12/237096/alcohol-3rd-drugs-morocco-onda) report that they do not drink alcohol at all. This is due to religious reasons in Islam stating that one should not cause harm to the body. Given this, the bartenders likely have no idea what the drink tastes like that they are mixing.
+
+The drinks that Leah and I got from the rooftop bar were brutal. I have had drinks made by my friends who were intentionally trying to get me hammered be more tame. My drink actually made me cough it was so strong. Without exaggerating, our drinks must of had at least 5 shots in each (Gin & Tonic + Daiquiri).
+
+After slowly drinking (and coughing) our strong beverages, we walked back to our riad. There was a few young boys playing soccer (football) in front of our door so I joined them for a bit and then we gave them some cookies. It was another wonderful day in Marrakech and we were already starting to dread our flight back to London in a few days as we really didn't want to leave Morocco.
+
+### Saturday 2/25
+
+TODO
