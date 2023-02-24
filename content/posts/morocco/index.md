@@ -450,6 +450,10 @@ After we finished our dinner, we got all checked into our private riad. I kind o
 
 The riad had a terrace on the ground floor in the center that looked up at all the rooms above. The terrace also had a small pool and was surrounded by flowers and different plants. The main staircase in the riad went all the way up to the different floors and the roof which had a day bed with curtains, and seating area for about 20 people looking out over Marrakech. It was way overkill but quite wonderful.
 
+![IMG_5856](IMG_5856.jpg)
+
+> The view from the rooftop terrace of our riad
+
 ### Thursday 2/23
 
 The private riad we were staying in is owned by a French couple and they have a dedicated person who lives nearby to prepare breakfast for the guest everyday. We woke up to the smell of coffee downstairs so we went down to the terrace floor to enjoy some wonderful pancakes, jams, bread, honey, tea, orange juice, eggs, fresh fruit, and coffee. It was a delightful breakfast to start our day!
@@ -468,7 +472,7 @@ After we obtained our vegetables, we went to the butcher to get a live chicken w
 
 We walked to the home/kitchen where we would be cooking with our host and it was a lovely riad style home with lots of Moroccan tiles. We started out learning how to make proper Moroccan mint tea and then we started preparing our food!
 
-![IMG_5978](IMG_5978.jpg)
+![IMG_5860](IMG_5860.jpg)
 
 > Preparing our food
 
@@ -486,5 +490,6 @@ We will absolutely be cooking tajine when we are back home because it was really
 
 The food we made at the cooking class was the best food we had in Morocco so far and was totally worth it!
 
+After our cooking class, we checked out the [Badi Palace](https://en.wikipedia.org/wiki/El_Badi_Palace) as it was just around the corner. We didn't spend too long here as all the signs were in either Arabic or French but it still had some beautiful tiles and Islamic architecture.
 
-
+> I decided on this day that my new favorite style of architecture was the Islamic style in Morocco. This style is so very intricate, detailed, and colorful. For a long time my favorite style was renaissance but the designs in Morocco certainly have that beat now. A lot of Islamic architecture follows a common (and beautiful) design pattern for doorways. First, you have colorful tile patterns on the floor which extend onto the doorway. From there, you have finely detailed plaster carvings which extend upwards. Finally, the top of the doorway is designed with intricately carved cedar. It is truly art 🎨.
