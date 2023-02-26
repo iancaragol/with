@@ -670,4 +670,12 @@ Sunday was the day of our flight back to London. We awoke to the smell of coffee
 
 ## Conclusion
 
-TODO
+The start of our trip in Morocco was a rough one. Casablanca was really not grooving with us and at the start of the trip we were really second guessing if this trip was a giant mistake. However, that turned around for us so quickly when we went to the High Atlas mountains, the Sahara, and Marrakech. The days that followed Casablanca totally changed our perspective on the country of Morocco.
+
+The natural landscapes of the Atlas mountains and the Sahara are something that photos will just never do justice. It was beautiful and was constantly taking our breath away. We were so grateful we had enough time in Morocco to take the time to explore the desert. It was one of the few places where you really do feel like you are on another planet.
+
+We also fell in love with the streets and Islamic architecture of Morocco. The streets of Marrakech are like a vibrant maze of people, scooters, street vendors, and beautiful archways. Everywhere you looked there was some detailed design to admire that was so intricate you could get lost in it just like the streets you were walking on.
+
+The culture and people of Morocco were also something we had never experienced before. Everyone was so kind, friendly, and caring for each other. We never once felt unsafe and really it was quite the opposite from feeling unsafe. We felt as if everyone we met would gladly extend a helping hand to us should we have needed it. People all around us would wave, laugh, and greet each other with smiles. The country of Morocco has a very tightly woven norm of friendship and family. People knew each other from all over and once they became friends, they stayed friends and always said hello when then bumped into each other later on.
+
+The people, landscapes, and memories of Morocco have forever earned a place in our hearts. ❤️ 🇲🇦
