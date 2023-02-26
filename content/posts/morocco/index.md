@@ -26,6 +26,8 @@ We took the train from London to Gatwick Airport and then took off to Marrakech.
 
 When we arrived in Marrakech it was pretty late so we just took a taxi to our AirBnb, got some food at a nearby restaurant, and then went to bed.
 
+## Casablanca
+
 ### Saturday 2/18
 
 Saturday was another early morning that started with travel. Our AirBnb was intentionally right across the street from the main train station in Marrakech since I had booked us train tickets to Casablanca. Last night at dinner, Leah keep guessing where we were going and Casablanca was not a single one of her guesses so she was completely surprised when we got on the train.
@@ -152,6 +154,8 @@ After the mosque we pretty much just hung out, got some food, read books, and th
 
 We got into Marrakech fairly late and had a light snack at our riad. It was wonderful! We were now feeling like we were in the Morocco that we had read so much about. The riad had travelers from all over, was garnished in fine rugs, tiles, and friendly hosts. Leah booked this riad for us only hours before and it was a great choice!
 
+## High Atlas Mountains
+
 ### Monday 2/20
 
 The day before we had also made another slight adjustment to our trip. We originally had a "group tour" into the Sahara desert for three days. Upon consideration with Leah, we changed it to a "private tour" with our own dedicated driver. The driver arrived at our riad at 9:00am so we only had time for a quick coffee and a crepe before hitting the road.
@@ -271,6 +275,8 @@ This was our last stop until our driver dropped us off at our riad for the night
 ![IMG_5808](IMG_5808.jpg)
 
 > The view from the first floor of our riad
+
+## The Sahara Desert
 
 ### Tuesday 2/21
 
@@ -454,6 +460,8 @@ The riad had a terrace on the ground floor in the center that looked up at all t
 
 > The view from the rooftop terrace of our riad
 
+## Marrakech
+
 ### Thursday 2/23
 
 The private riad we were staying in is owned by a French couple and they have a dedicated person who lives nearby to prepare breakfast for the guest everyday. We woke up to the smell of coffee downstairs so we went down to the terrace floor to enjoy some wonderful pancakes, jams, bread, honey, tea, orange juice, eggs, fresh fruit, and coffee. It was a delightful breakfast to start our day!
@@ -585,5 +593,81 @@ The drinks that Leah and I got from the rooftop bar were brutal. I have had drin
 After slowly drinking (and coughing) our strong beverages, we walked back to our riad. There was a few young boys playing soccer (football) in front of our door so I joined them for a bit and then we gave them some cookies. It was another wonderful day in Marrakech and we were already starting to dread our flight back to London in a few days as we really didn't want to leave Morocco.
 
 ### Saturday 2/25
+
+Saturday was our last full day in Morocco before our flight back to London. When planning this trip, I wanted our last day to be a relaxing one and spoil ourselves a bit. I booked a traditional Hammam and Massage day for Leah and I. Before we left for the trip, I did a bunch of research to try and find the best hammam spa in Marrakech and boy did the place I book meet that criteria!
+
+The spa was located just on the edge of the medina in Marrakech tucked into a side street.
+
+![IMG_5990](IMG_5990.jpg)
+
+> The entrance to Les Bains d'Orient spa
+
+For about $150 USD per person, we got a full 3 hour spa treatment that was one of the most spoiled things we have ever done. The spa day started with a hammam black soap scrub in a 55C steam room. At the end of the hammam they lathered us in argan oil which was delightful. After the hammam, they gave us cups of tea with cookies before we began on massage. The massage was different from a sport massage and was more on the Swedish or relaxing side I would say. It was equally incredible and must have been at least 1.5 hours (I might have fallen asleep so hard to tell the time). After our massages, they setup copper bathtubs on the roof that were full of rose milk and rose pedals. I made myself a crown/helmet out of soap bubbles and Leah was laughing so hard at me she was crying. The staff saw me and laughed equally as hard.
+
+After seriously spoiling ourselves, we strolled around the medina and got coffee to wake ourselves back up.
+
+Our next stop was the [Ibn Youssef School]() to marvel at some more Islamic architecture.
+
+![DSC03992](DSC03992.jpg)
+
+> Windows looking into the courtyard of the Ibn Youssef school
+
+![DSC03996](DSC03996.jpg)
+
+![DSC04004](DSC04004.jpg)
+
+> The courtyard captured from one of the windows
+
+![DSC04006](DSC04006.jpg)
+
+> Floor tiling inside of the school
+
+![DSC04043](DSC04043.jpg)
+
+> The view through a skylight in the school
+
+![DSC04044](DSC04044.jpg)
+
+> The colorful streets of the medina just after exiting the Ibn Youssef school
+
+After checking out the Ibn Youssef school, we went for a bite to eat at a nearby rooftop cafe called [Nomad](). This spot was suggested to us because of the really tasty food, and it was quite good.
+
+![DSC04048](DSC04048.jpg)
+
+> Leah admiring the rooftop view
+
+I got some delicious tajine with braised beef and Leah got a very flavorful lamb burger.
+
+![DSC04049](DSC04049.jpg)
+
+> The view from the rooftop looking down into the medina
+
+After lunch, we set off on a mission. Leah really wanted a Moroccan rug. However, there was no way that we were going to have room to bring back and entire rug so instead we settled on a pillow case.
+
+![DSC04051](DSC04051.jpg)
+
+> Back to the streets of the medina to find some Moroccan pillow cases
+
+After getting lost a few times, we managed to find a large shop selling rugs that would also convert rugs into pillow cases! We managed to buy two for $15 USD which was a pretty good deal.
+
+![DSC04055](DSC04055.jpg)
+
+> A stack of pillowcases we looked through for the perfect one
+
+After our pillow case success, we headed back to enjoy the afternoon from the roof of our riad as the sun was out and it was quite lovely.
+
+Leah once again did the classic "read a book" move which promptly lead to her falling asleep on the roof. I hung out next to her and edited photos while she cat napped in the sun.
+
+![IMG_5995](IMG_5995.jpg)
+
+> The view from our riad's roof
+
+We had a pretty late lunch that was quite heavy and really weren't feeling another meal for dinner. I set off to a nearby corner store and we had paprika Pringles for dinner and watched Netflix. It was a cozy and relaxing night in which was our first in Morocco but it felt well deserved after a busy and exciting week of travels.
+
+### Sunday 2/26
+
+Sunday was the day of our flight back to London. We awoke to the smell of coffee downstairs and really didn't want to get out of bed because that meant it was time to leave. We enjoyed one last nice Moroccan breakfast of fresh juice, jam, coffee, mint tea, and pancakes before waving goodbye to Morocco from our taxi.
+
+## Conclusion
 
 TODO
