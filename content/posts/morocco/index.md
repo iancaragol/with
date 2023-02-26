@@ -14,7 +14,7 @@ Before my next trip out to London, I started planning another "surprise trip" fo
 
 However, the trip did not remain a full surprise for long as I'm terrible at keeping secrets and Leah is a sneaky detective. While we were in [Paris](/posts/paris) (just a week before the trip) waiting for the Metro, there was a massive "Visit Morocco" poster on the wall. Leah just looked at the poster and went *"hmmmm"*. I'm pretty sure my laugh gave it all away.
 
-## Marrakech
+## Landing in Marrakech
 
 ### Friday 2/17
 
@@ -600,13 +600,13 @@ The spa was located just on the edge of the medina in Marrakech tucked into a si
 
 ![IMG_5990](IMG_5990.jpg)
 
-> The entrance to Les Bains d'Orient spa
+> The entrance to [Les Bains d'Orient](https://goo.gl/maps/nns3LN9dbdm2mF746) spa
 
 For about $150 USD per person, we got a full 3 hour spa treatment that was one of the most spoiled things we have ever done. The spa day started with a hammam black soap scrub in a 55C steam room. At the end of the hammam they lathered us in argan oil which was delightful. After the hammam, they gave us cups of tea with cookies before we began on massage. The massage was different from a sport massage and was more on the Swedish or relaxing side I would say. It was equally incredible and must have been at least 1.5 hours (I might have fallen asleep so hard to tell the time). After our massages, they setup copper bathtubs on the roof that were full of rose milk and rose pedals. I made myself a crown/helmet out of soap bubbles and Leah was laughing so hard at me she was crying. The staff saw me and laughed equally as hard.
 
 After seriously spoiling ourselves, we strolled around the medina and got coffee to wake ourselves back up.
 
-Our next stop was the [Ibn Youssef School]() to marvel at some more Islamic architecture.
+Our next stop was the [Ibn Youssef School](https://goo.gl/maps/vUEorn1x6xkfapG59) to marvel at some more Islamic architecture.
 
 ![DSC03992](DSC03992.jpg)
 
@@ -630,7 +630,7 @@ Our next stop was the [Ibn Youssef School]() to marvel at some more Islamic arch
 
 > The colorful streets of the medina just after exiting the Ibn Youssef school
 
-After checking out the Ibn Youssef school, we went for a bite to eat at a nearby rooftop cafe called [Nomad](). This spot was suggested to us because of the really tasty food, and it was quite good.
+After checking out the Ibn Youssef school, we went for a bite to eat at a nearby rooftop cafe called [Nomad](https://goo.gl/maps/pNqH28KWniuSRYGa7). This spot was suggested to us because of the really tasty food, and it was quite good.
 
 ![DSC04048](DSC04048.jpg)
 
