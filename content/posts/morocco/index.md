@@ -536,7 +536,25 @@ Long before we left for this trip, I had planned to propose to Leah and really w
 
 We got up before the sun was up and met our photographer Lyes (a local to Marrakech originally from Fez) at the [Koutoubia Mosque](https://en.wikipedia.org/wiki/Kutubiyya_Mosque) for our sunrise couples photos. It was raining which we learned is rather rare for Marrakech. This didn't stop us though from getting some stunning photos.
 
-> ⚠️ **insert photos here** ⚠️
+![DSC04128](DSC04128.jpg)
+
+> G+L in front of a red Moroccan door
+
+![DSC04186](DSC04186.jpg)
+
+> G+L on a quiet street in the medina
+
+![DSC04194](DSC04194.jpg)
+
+> G+L in a very narrow street
+
+![DSC04143](DSC04143.jpg)
+
+> Grant by the large red door
+
+![DSC04181](DSC04181.jpg)
+
+> G+L in front of the Koutoubia Mosque doing a spin
 
 Lyes was incredibly nice and a very talented photographer. After our session, we went back to our AirBnb to get changed into dry clothes, put jackets on, and head back into the medina for further exploring.
 
