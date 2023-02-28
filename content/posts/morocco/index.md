@@ -426,6 +426,8 @@ I setup our camera on my backpack and framed Leah in the shot. I told her it was
 
 > G + L - Now engaged! 🥳
 
+{{< video src="engagement-compressed" >}}
+
 Tada! The big surprise of my "surprise" trip has been revealed!
 
 Leah and I were so thrilled and my heart was beating like mad after I asked her. We had a mini race down the dune to catch up with our group and laughed with excitement the whole way down. We hopped back on our camels and literally rode into the sun set on our way back to camp.
