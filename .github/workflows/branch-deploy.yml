@@ -100,10 +100,11 @@ jobs:
     needs: [trigger, build, deploy]
     runs-on: ubuntu-latest
     # run even on failures
-    if: ${{ always() && needs.deploy.result != 'skipped' }}
+    if: ${{ always() }}
 
     steps:
       - name: Create a deployment status
+        if: ${{ needs.build.result != 'skipped' && needs.deploy.result != 'skipped' && needs.trigger.continue != 'false' }}
         run: |
           gh api \
             --method POST \
