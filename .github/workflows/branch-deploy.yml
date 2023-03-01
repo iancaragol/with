@@ -15,7 +15,6 @@ permissions:
   id-token: write
 
 jobs:
-
   # branch-deploy trigger job
   trigger:
     if: ${{ github.event.issue.pull_request }} # only run on pull request comments
@@ -42,7 +41,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - run: exit 1
 
       # Checkout your projects repository based on the ref provided by the branch-deploy step
@@ -100,17 +98,30 @@ jobs:
     needs: [trigger, build, deploy]
     runs-on: ubuntu-latest
     # run even on failures
-    if: ${{ always() }}
+    if: ${{ always() && needs.trigger.continue != 'false' }}
 
     steps:
+      # if a previous step failed, set a variable to use in the status
+      - name: set failure status
+        id: deploy-status
+        if: ${{ needs.trigger.result == 'failure' || needs.build.result == 'failure' || needs.deploy.result == 'failure' }}
+        run: |
+          echo "DEPLOY_STATUS=failure" >> $GITHUB_OUTPUT
+
+      - name: set success status
+        id: deploy-status
+        if: ${{ needs.trigger.result == 'success' && needs.build.result == 'success' && needs.deploy.result == 'success' }}
+        run: |
+          echo "DEPLOY_STATUS=success" >> $GITHUB_OUTPUT
+
       - name: Create a deployment status
-        if: ${{ needs.trigger.continue != 'false' }}
+        env:
+          GH_REPO: ${{ github.repository }}
+          GH_TOKEN: ${{ github.token }}
+          DEPLOY_STATUS: ${{ steps.deploy-status.outputs.DEPLOY_STATUS }}
         run: |
           gh api \
             --method POST \
             repos/{owner}/{repo}/deployments/${{ needs.trigger.outputs.deployment_id }}/statuses \
             -f environment='${{ needs.trigger.outputs.environment }}' \
-            -f state='${{ (needs.trigger.result == 'success' && 'success') || 'failure' }}'
-        env:
-          GH_REPO: ${{ github.repository }}
-          GH_TOKEN: ${{ github.token }}
+            -f state='${DEPLOY_STATUS}'
