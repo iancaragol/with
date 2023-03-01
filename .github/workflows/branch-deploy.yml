@@ -108,18 +108,16 @@ jobs:
         run: |
           echo "DEPLOY_STATUS=failure" >> $GITHUB_OUTPUT
 
-      - name: set success status
-        id: deploy-status
-        if: ${{ needs.trigger.result == 'success' && needs.build.result == 'success' && needs.deploy.result == 'success' }}
-        run: |
-          echo "DEPLOY_STATUS=success" >> $GITHUB_OUTPUT
-
       - name: Create a deployment status
         env:
           GH_REPO: ${{ github.repository }}
           GH_TOKEN: ${{ github.token }}
           DEPLOY_STATUS: ${{ steps.deploy-status.outputs.DEPLOY_STATUS }}
         run: |
+          if [ -z "${DEPLOY_STATUS}" ]; then
+            DEPLOY_STATUS="success"
+          fi
+
           gh api \
             --method POST \
             repos/{owner}/{repo}/deployments/${{ needs.trigger.outputs.deployment_id }}/statuses \
