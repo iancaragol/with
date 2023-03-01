@@ -59,6 +59,9 @@ jobs:
           hugo --gc --verbose \
             --baseURL ${{ steps.pages.outputs.base_url }}
 
+      - name: write build version
+        run: echo ${GITHUB_SHA} > ./public/version.txt
+
       - name: upload artifact
         uses: actions/upload-pages-artifact@253fd476ed429e83b7aae64a92a75b4ceb1a17cf # pin@v1.0.7
         with:

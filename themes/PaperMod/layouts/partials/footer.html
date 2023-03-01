@@ -10,6 +10,8 @@
         Made with ❤️ by Grant Birki
     </span>
     <br>
+    <span id="version"></span>
+    <br>
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
@@ -27,6 +29,39 @@
 {{- end }}
 
 {{- partial "extend_footer.html" . }}
+
+<script>
+    // a script to set the version number at the footer
+    const version = document.getElementById("version");
+
+    // format the 'version' text in a markdown style code block like on github
+    version.style.fontFamily = "monospace";
+    version.style.fontSize = "0.8em";
+    version.style.padding = "0.5em";
+    version.style.borderRadius = "3px";
+
+    if (document.body.className.includes("dark")) {
+        // if we are in dark mode
+        version.style.backgroundColor = "rgba(46, 46, 51)";
+    } else {
+        // if we are in light mode
+        version.style.backgroundColor = "rgba(27,31,35,0.05)";
+    }
+
+    // a hack to determine if we are in development mode
+    if (window.location.href.includes("localhost")) {
+        version.innerHTML = "dev";
+    } else {
+        // we are in production mode
+        fetch("/version.txt")
+            .then(response => response.text())
+            .then(text => {
+                // truncate the version number to 7 characters
+                text = text.substring(0, 7);
+                version.innerHTML = text;
+            });
+    }
+</script>
 
 <script>
     let menu = document.getElementById('menu')
