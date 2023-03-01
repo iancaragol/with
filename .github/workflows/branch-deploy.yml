@@ -96,7 +96,7 @@ jobs:
     needs: [trigger, build, deploy]
     runs-on: ubuntu-latest
     # run even on failures
-    if: ${{ always() }}
+    if: ${{ always() && needs.trigger.output.continue == 'true' }}
 
     steps:
       # if a previous step failed, set a variable to use in the status
@@ -107,7 +107,6 @@ jobs:
           echo "DEPLOY_STATUS=failure" >> $GITHUB_OUTPUT
 
       - name: Create a deployment status
-        if: ${{ needs.trigger.continue != 'false' }}
         env:
           GH_REPO: ${{ github.repository }}
           GH_TOKEN: ${{ github.token }}
