@@ -104,7 +104,7 @@ jobs:
 
     steps:
       - name: Create a deployment status
-        if: ${{ needs.build.result != 'skipped' && needs.deploy.result != 'skipped' && needs.trigger.continue != 'false' }}
+        if: ${{ needs.trigger.continue != 'false' }}
         run: |
           gh api \
             --method POST \
