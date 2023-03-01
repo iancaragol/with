@@ -15,6 +15,8 @@ permissions:
   id-token: write
 
 jobs:
+
+  # branch-deploy trigger job
   trigger:
     if: ${{ github.event.issue.pull_request }} # only run on pull request comments
     runs-on: ubuntu-latest
@@ -33,6 +35,7 @@ jobs:
           skip_completing: "true"
           admins: "GrantBirki"
 
+  # build the site with hugo
   build:
     needs: trigger
     if: ${{ needs.trigger.outputs.continue == 'true' }}
@@ -75,6 +78,7 @@ jobs:
         with:
           path: ./public
 
+  # deploy to GitHub Pages
   deploy:
     needs: [trigger, build]
     if: ${{ needs.trigger.outputs.continue == 'true' }}
@@ -88,19 +92,22 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@20a4baa1095bad40ba7d6ca0d9abbc220b76603f # pin@v1.2.3
 
+  # update the deployment result
   result:
     needs: [trigger, build, deploy]
-    if: ${{ needs.deploy.result != 'skipped' }}
     runs-on: ubuntu-latest
+    # run even on failures
+    if: ${{ always() }}
 
     steps:
       - name: Create a deployment status
+        if: ${{ needs.deploy.result != 'skipped' }}
         run: |
           gh api \
             --method POST \
-            repos/{owner}/{repo}/deployments/${{ needs.build.outputs.deployment_id }}/statuses \
-            -f environment='${{ needs.build.outputs.environment }}' \
-            -f state='${{ (needs.deploy.result == 'success' && 'success') || 'failure' }}'
+            repos/{owner}/{repo}/deployments/${{ needs.trigger.outputs.deployment_id }}/statuses \
+            -f environment='${{ needs.trigger.outputs.environment }}' \
+            -f state='${{ (needs.trigger.result == 'success' && 'success') || 'failure' }}'
         env:
           GH_REPO: ${{ github.repository }}
           GH_TOKEN: ${{ github.token }}
