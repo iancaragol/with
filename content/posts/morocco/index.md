@@ -60,7 +60,7 @@ While planning this trip I had done some research around medinas and had a wildl
 
 The medina we visited was full of shops containing knock-off Nike shoes, fake luxury bags, and shampoo. We went into one shop that looked like it had spices but the most interesting thing we found was what we believed to be "prostate stimulating powder".
 
-We prompted left the medina and began to walk back to our AirBnb to asses the current situation that was Morocco.
+We promptly left the medina and began to walk back to our AirBnb to asses the current situation that was Morocco.
 
 ![IMG_5741](IMG_5741.jpg)
 
