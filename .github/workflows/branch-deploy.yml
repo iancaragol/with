@@ -122,4 +122,4 @@ jobs:
             --method POST \
             repos/{owner}/{repo}/deployments/${{ needs.trigger.outputs.deployment_id }}/statuses \
             -f environment='${{ needs.trigger.outputs.environment }}' \
-            -f state='${DEPLOY_STATUS}'
+            -f state=${DEPLOY_STATUS}
