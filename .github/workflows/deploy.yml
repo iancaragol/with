@@ -37,7 +37,7 @@ jobs:
       - name: set hugo version
         id: hugo-version
         run: |
-          HUGO_VERSION=$(cat ./hugo-version)
+          HUGO_VERSION=$(cat .hugo-version)
           echo "HUGO_VERSION=${HUGO_VERSION}" >> $GITHUB_ENV
 
       - name: install hugo cli
