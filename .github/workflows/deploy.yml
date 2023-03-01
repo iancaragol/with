@@ -31,6 +31,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: checkout
+        uses: actions/checkout@ac593985615ec2ede58e132d2e21d2b1cbd6127c # pin@v3.3.0
+
       - name: set hugo version
         id: hugo-version
         run: |
@@ -43,9 +46,6 @@ jobs:
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-
-      - name: checkout
-        uses: actions/checkout@ac593985615ec2ede58e132d2e21d2b1cbd6127c # pin@v3.3.0
 
       - name: setup pages
         id: pages
