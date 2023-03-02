@@ -174,7 +174,7 @@ jobs:
         if: ${{ steps.deploy-status.outputs.DEPLOY_STATUS != 'failure' }}
         uses: peter-evans/create-or-update-comment@67dcc547d311b736a8e6c5c236542148a47adc3d # pin@v2.1.1
         with:
-          issue-number: ${{ github.event.number }}
+          issue-number: ${{ github.event.issue.number }}
           body: |
             ### Deployment Results ✅
 
@@ -187,7 +187,7 @@ jobs:
         if: ${{ steps.deploy-status.outputs.DEPLOY_STATUS == 'failure' }}
         uses: peter-evans/create-or-update-comment@67dcc547d311b736a8e6c5c236542148a47adc3d # pin@v2.1.1
         with:
-          issue-number: ${{ github.event.number }}
+          issue-number: ${{ github.event.issue.number }}
           body: |
             ### Deployment Results ❌
 
