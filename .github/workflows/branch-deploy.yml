@@ -14,6 +14,7 @@ permissions:
   pages: write
   id-token: write
 
+# set an environment variable for use in the jobs pointing to my blog
 env:
   blog_url: https://blog.birki.io
 
@@ -55,9 +56,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
-      - run: exit 1 # testing
-
       # checkout the project's repository based on the ref provided by the branch-deploy step
       - name: checkout
         uses: actions/checkout@ac593985615ec2ede58e132d2e21d2b1cbd6127c # pin@v3.3.0
