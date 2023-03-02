@@ -6,6 +6,8 @@ on:
       - "images/**"
       - "LICENSE"
       - "README.md"
+      - ".github/workflows/**"
+      - ".gitignore"
     branches:
       - main
   workflow_dispatch:
