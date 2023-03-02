@@ -141,7 +141,7 @@ jobs:
         run: |
           gh api \
             --method DELETE \
-            repos/{owner}/{repo}/issues/comments/${{ steps.find-comment.outputs.comment-id }}/reactions/eyes
+            repos/{owner}/{repo}/issues/comments/${{ needs.trigger.outputs.comment_id }}/reactions/eyes
 
       - name: rocket reaction
         if: ${{ steps.deploy-status.outputs.DEPLOY_STATUS != 'failure' }}
