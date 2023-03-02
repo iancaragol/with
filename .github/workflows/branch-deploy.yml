@@ -27,7 +27,7 @@ jobs:
       ref: ${{ steps.branch-deploy.outputs.ref }}
 
     steps:
-      - uses: github/branch-deploy@v4.4.0
+      - uses: github/branch-deploy@v4.4.1
         id: branch-deploy
         with:
           trigger: ".deploy"
