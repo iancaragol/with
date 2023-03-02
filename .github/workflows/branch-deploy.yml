@@ -136,6 +136,7 @@ jobs:
 
       - name: remove eyes reaction
         env:
+          GH_REPO: ${{ github.repository }}
           GH_TOKEN: ${{ github.token }}
         run: |
           gh api \
