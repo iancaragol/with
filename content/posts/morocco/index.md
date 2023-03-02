@@ -24,7 +24,7 @@ We took the train from London to Gatwick Airport and then took off to Marrakech.
 
 ✈️
 
-When we arrived in Marrakech it was pretty late so we just took a taxi to our AirBnb, got some food at a nearby restaurant, and then went to bed.
+When we arrived in Marrakech it was pretty late so we took a taxi to our AirBnb, got some food at a nearby restaurant, and then went to bed.
 
 ## Casablanca
 
