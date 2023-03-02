@@ -14,6 +14,9 @@ permissions:
   pages: write
   id-token: write
 
+env:
+  blog_url: https://blog.birki.io
+
 jobs:
   # branch-deploy trigger job
   trigger:
@@ -180,7 +183,7 @@ jobs:
 
             **${{ needs.trigger.outputs.actor_handle }}** successfully deployed branch `${{ needs.trigger.outputs.ref }}` to **${{ needs.trigger.outputs.environment }}**
 
-            [View Live Deployment](${{ steps.deployment.outputs.page_url }})
+            > [View Live Deployment](${{ env.blog_url }}) :link:
 
       # if the deployment was not successful, add a 'failure' comment
       - name: failure comment
