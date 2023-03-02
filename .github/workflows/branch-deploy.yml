@@ -18,8 +18,9 @@ jobs:
   # branch-deploy trigger job
   trigger:
     if: # only run on pull request comments and valid triggers
-      ${{ github.event.issue.pull_request && (contains(github.event.comment.body,
-      '.deploy') || contains(github.event.comment.body, '.lock') ||
+      ${{ github.event.issue.pull_request &&
+      (contains(github.event.comment.body, '.deploy') ||
+      contains(github.event.comment.body, '.lock') ||
       contains(github.event.comment.body, '.wcid') ||
       contains(github.event.comment.body, '.unlock')) }}
     runs-on: ubuntu-latest
@@ -29,6 +30,7 @@ jobs:
       deployment_id: ${{ steps.branch-deploy.outputs.deployment_id }}
       environment: ${{ steps.branch-deploy.outputs.environment }}
       ref: ${{ steps.branch-deploy.outputs.ref }}
+      comment_body: ${{ steps.branch-deploy.outputs.comment_body }}
 
     steps:
       - uses: github/branch-deploy@d1820170681a61752f174f5384507f9ae7e2646a # pin@v4.4.1
@@ -131,3 +133,27 @@ jobs:
             repos/{owner}/{repo}/deployments/${{ needs.trigger.outputs.deployment_id }}/statuses \
             -f environment='${{ needs.trigger.outputs.environment }}' \
             -f state=${DEPLOY_STATUS}
+
+      - name: Find Comment
+        uses: peter-evans/find-comment@034abe94d3191f9c89d870519735beae326f2bdb # pin@v2.3.0
+        id: find-comment
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body-includes: ${{ needs.trigger.outputs.comment_body }}
+          direction: last
+
+      - name: rocket reaction
+        if: ${{ steps.find-comment.outputs.comment-id != 0 &&
+          steps.deploy-status.outputs.DEPLOY_STATUS != 'failure' }}
+        uses: GrantBirki/comment@1e9986de26cf23e6c4350276234c91705c540fef # pin@v2.0.3
+        with:
+          comment-id: ${{ steps.find-comment.outputs.comment-id }}
+          reactions: rocket
+
+      - name: failure reaction
+        if: ${{ steps.find-comment.outputs.comment-id != 0 &&
+          steps.deploy-status.outputs.DEPLOY_STATUS == 'failure' }}
+        uses: GrantBirki/comment@1e9986de26cf23e6c4350276234c91705c540fef # pin@v2.0.3
+        with:
+          comment-id: ${{ steps.find-comment.outputs.comment-id }}
+          reactions: "-1"
