@@ -147,6 +147,7 @@ jobs:
           steps.deploy-status.outputs.DEPLOY_STATUS != 'failure' }}
         uses: GrantBirki/comment@1e9986de26cf23e6c4350276234c91705c540fef # pin@v2.0.3
         with:
+          edit-mode: replace
           comment-id: ${{ steps.find-comment.outputs.comment-id }}
           reactions: rocket
 
@@ -155,5 +156,6 @@ jobs:
           steps.deploy-status.outputs.DEPLOY_STATUS == 'failure' }}
         uses: GrantBirki/comment@1e9986de26cf23e6c4350276234c91705c540fef # pin@v2.0.3
         with:
+          edit-mode: replace
           comment-id: ${{ steps.find-comment.outputs.comment-id }}
           reactions: "-1"
