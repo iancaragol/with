@@ -31,9 +31,10 @@ jobs:
       environment: ${{ steps.branch-deploy.outputs.environment }}
       ref: ${{ steps.branch-deploy.outputs.ref }}
       comment_id: ${{ steps.branch-deploy.outputs.comment_id }}
+      initial_reaction_id: ${{ steps.branch-deploy.outputs.initial_reaction_id }}
 
     steps:
-      - uses: github/branch-deploy@d1820170681a61752f174f5384507f9ae7e2646a # pin@v4.4.1
+      - uses: github/branch-deploy@v4.5.0
         id: branch-deploy
         with:
           trigger: ".deploy"
@@ -141,7 +142,7 @@ jobs:
         run: |
           gh api \
             --method DELETE \
-            repos/{owner}/{repo}/issues/comments/${{ needs.trigger.outputs.comment_id }}/reactions/eyes
+            repos/{owner}/{repo}/issues/comments/${{ needs.trigger.outputs.comment_id }}/reactions/${{ needs.trigger.outputs.initial_reaction_id }}
 
       - name: rocket reaction
         if: ${{ steps.deploy-status.outputs.DEPLOY_STATUS != 'failure' }}
