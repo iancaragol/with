@@ -32,6 +32,7 @@ jobs:
       ref: ${{ steps.branch-deploy.outputs.ref }}
       comment_id: ${{ steps.branch-deploy.outputs.comment_id }}
       initial_reaction_id: ${{ steps.branch-deploy.outputs.initial_reaction_id }}
+      actor_handle: ${{ steps.branch-deploy.outputs.actor_handle }}
 
     steps:
       # execute the branch-deploy action
@@ -167,3 +168,25 @@ jobs:
         with:
           comment-id: ${{ needs.trigger.outputs.comment_id }}
           reactions: "-1"
+
+      # if the deployment was successful, add a 'success' comment
+      - name: success comment
+        if: ${{ steps.deploy-status.outputs.DEPLOY_STATUS != 'failure' }}
+        uses: GrantBirki/comment@1e9986de26cf23e6c4350276234c91705c540fef # pin@v2.0.3
+        with:
+          body: |
+            ### Deployment Results ✅
+
+            **${{ needs.trigger.outputs.actor_handle }}** successfully deployed branch `${{ needs.trigger.outputs.ref }}` to **${{ needs.trigger.outputs.environment }}**
+
+            [View Live Deployment](${{ steps.deployment.outputs.page_url }})
+
+      # if the deployment was not successful, add a 'failure' comment
+      - name: failure comment
+        if: ${{ steps.deploy-status.outputs.DEPLOY_STATUS == 'failure' }}
+        uses: GrantBirki/comment@1e9986de26cf23e6c4350276234c91705c540fef # pin@v2.0.3
+        with:
+          body: |
+            ### Deployment Results ❌
+
+            **${{ needs.trigger.outputs.actor_handle }}** had a failure when deploying `${{ needs.trigger.outputs.ref }}` to **${{ needs.trigger.outputs.environment }}**
