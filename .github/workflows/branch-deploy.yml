@@ -34,7 +34,7 @@ jobs:
       initial_reaction_id: ${{ steps.branch-deploy.outputs.initial_reaction_id }}
 
     steps:
-      - uses: github/branch-deploy@v4.5.0
+      - uses: github/branch-deploy@0c7c257959c8dd8adf5a3ce27724f6e3711db08b # pin@v4.5.0
         id: branch-deploy
         with:
           trigger: ".deploy"
