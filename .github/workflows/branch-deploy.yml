@@ -40,7 +40,7 @@ jobs:
 
     steps:
       # execute the branch-deploy action
-      - uses: github/branch-deploy@0c7c257959c8dd8adf5a3ce27724f6e3711db08b # pin@v4.5.0
+      - uses: github/branch-deploy@v4.6.0
         id: branch-deploy
         with:
           trigger: ".deploy"
