@@ -46,7 +46,7 @@ Leah came home to visit while on Winter break from her master program at Kings C
 
 ![IMG_4959](IMG_4959.jpg)
 
-> G + L on a hike on the Flat Irons
+> G + L on a hike in the Flat Irons (Boulder, CO)
 
 Soon after Leah got there, we flew out to Arizona to see my brother Brooks graduate from GCU. Leah surprised Brooks and he had no idea she was coming to visit!
 
