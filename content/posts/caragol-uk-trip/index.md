@@ -14,7 +14,7 @@ While Leah and I were in the UK, Leah's family came over to visit us and do a wh
 
 We started the trip off by exploring Ireland for several days. Our first stop was to meet Michelle, Ian, and Steve in Dublin. The greater Caragol family flew from Denver ➡️ Dublin, and Leah and I flew from London ➡️ Dublin.
 
-We started off our travels in Dublin by walking for *many* miles up and down the canal. We got some very tasty food, checked out a museum, and then walked through a district with a bunch of vibrant pubs.
+We started off our travels in Dublin by walking for *many* miles up and down the canal. We got some very tasty food, checked out a museum, and then walked through a district with a bunch of vibrant pubs 🍺.
 
 ![IMG_2021](IMG_2021.jpg)
 
