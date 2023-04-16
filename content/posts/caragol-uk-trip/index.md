@@ -140,3 +140,47 @@ The Isle of Man was wonderful and really took us by surprise. We managed to chec
 ![IMG_6168](IMG_6168.jpg)
 
 > The steam train we rode through the countryside
+
+![IMG_2374](IMG_2374.jpg)
+
+> Grant next to the steam train
+
+### Liverpool, England 🇬🇧
+
+After our last day in the Isle of Man, we went off to bed as we had a *very* early alarm set to leave the Isle of Man. We got up around 5am to head to the ferry terminal to catch our boat to Liverpool. The ferry was exceptionally busy and lively as there was a popular horse race in Liverpool that afternoon, so many people on the island were heading to Liverpool to join in on the festivities. The bar opened on the boat at 7:30am and it seemed like nearly everyone on board was in line to get a pint of beer. I felt very out of place asking for "two coffees" when the lads behind me were ordering "two pints of Corona".
+
+Liverpool by day felt like a modern "working city". It had monumental buildings, and a lot of people walking around (the sun was out). We explored the city for a bit by visiting a few museums, an art gallery, and learning about a "famous toilet".
+
+However, Liverpool by night was a completely different story. The city was buzzing with people out on their "hen" and "stag" parties. We went to a comedy show that night and had a lot of good laughs. After exiting the comedy show onto the streets of Liverpool, we were immediately surrounded by people who were... rather intoxicated. We played a nice game of "count the vomit" as we strolled around the town.
+
+We found the "[famous toilet](https://www.theguardian.com/artanddesign/2020/feb/07/liverpool-pub-with-spectacular-loos-becomes-first-to-be-grade-i-listed)", met a "pissed" lad while observing it who had excellent US geography knowledge, and become Steve's new best friend. We enjoyed a pint at the famous toilet pub as well while we were there:
+
+![IMG_6177](IMG_6177.jpg)
+
+> Having a pint at the famous toilet pub ([Philharmonic Dining Room](https://en.wikipedia.org/wiki/Philharmonic_Dining_Rooms))
+
+Our next day in Liverpool, Ian had found a really cool tunnel tour that we all went on. It was called the [Williamson Tunnels](https://en.wikipedia.org/wiki/Williamson_Tunnels) and it was excavated by a team of volunteers a few years back and uncovered a mysterious tunnel system underneath Liverpool. Our guide was one of the original volunteers for the project and she was incredible insightful and happy to show us around. The tunnels were massive and we learned that an immense amount of work went into excavating them and there is still a lot more passage ways to be discovered.
+
+### Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+
+After our tunnel tour, we hopped in the rental car that we just picked up, and made our way to [Llangollen, Wales](https://en.wikipedia.org/wiki/Llangollen). When we got to Llangollen, we stopped for some food and then hopped on an old steam train that left right from the center of the town and went up into the countryside. It was an incredibly scenic ride with tunnels, fields of sheep, green pastures, and river crossings. The train was a very wholesome experience and we all enjoyed it.
+
+![IMG_6180](IMG_6180.jpg)
+
+> The steam train we rode through the countryside
+
+![IMG_6185](IMG_6185.jpg)
+
+> Michelle and Ian by the steam train locomotive
+
+![IMG_6191](IMG_6191.jpg)
+
+> Another view of the steam train
+
+After the steam train ride, we enjoyed a pint of beer at the old Mill pub next to the river
+
+![IMG_6195](IMG_6195.jpg)
+
+Leah had to hang back at the hostel during our afternoon adventures as she was grinding through a 4,000 page paper for her Masters degree. She is currently sitting next to me still going on the paper as I write this. She is a machine. 👩‍🎓
+
+![IMG_6197](IMG_6197.jpg)
