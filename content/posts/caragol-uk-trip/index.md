@@ -32,7 +32,7 @@ After checking out Dublin, we hopped on a train and headed to the coastal town o
 
 Malahide had a super unique model train museum and we had a great time exploring it. I was personally very entertained with all the little yellow chicks that were hidden throughout the museum (it was close to Easter and I'm easily amused 🐥).
 
-Our next day in Malahide, we visited the Malahide Castle on a tour, and the castle grounds. The castle was built in the 12th century and was a home to the Talbot family for over 800 years. The castle was very well preserved and had a lot of interesting history. There was also a butterfly garden on the grounds which was a nice suprise 🦋.
+Our next day in Malahide, we visited the Malahide Castle on a tour, and the castle grounds. The castle was built in the 12th century and was a home to the Talbot family for over 800 years. The castle was very well preserved and had a lot of interesting history. There was also a butterfly garden on the grounds which was a nice surprise 🦋.
 
 ![IMG_2047](IMG_2047.jpg)
 
@@ -46,7 +46,7 @@ After checking out the castle, we picked up our bags from the hotel, and headed 
 
 ### Belfast, Northern Ireland 🇬🇧
 
-After getting off the bus in Belfast, we walked to meetup with Lizzie and her son Dominic. Steve met Lizzie in his 20s when backpacking around Austrailia and they've been great friends ever since. Lizzie and Dominic drove us to their home in the countryside, about 20 minutes outside of Belfast. We stayed in their (quite large) home which was seated ontop of a beautiful hill surrounded by green pastures. We stayed at the house with Lizzie, Alex (her husband), Dominic (Lizzie's son), and Rebecca (Lizzie's daughter who was in town).
+After getting off the bus in Belfast, we walked to meetup with Lizzie and her son Dominic. Steve met Lizzie in his 20s when backpacking around Australia and they've been great friends ever since. Lizzie and Dominic drove us to their home in the countryside, about 20 minutes outside of Belfast. We stayed in their (quite large) home which was seated on-top of a beautiful hill surrounded by green pastures. We stayed at the house with Lizzie, Alex (her husband), Dominic (Lizzie's son), and Rebecca (Lizzie's daughter who was in town).
 
 Lizzie's family had a bunch of activities planned for us to keep us busy (and boy were we busy). Here's a quick rundown of what we did:
 
@@ -90,3 +90,53 @@ Photos from the Boat Cruise by Alex:
 ![IMG_2](IMG_2.jpg)
 
 > The wall of rain we went through on our boat cruise
+
+### Isle of Man 🇮🇲
+
+On our last day in Belfast, Alex drove us to the ferry terminal so we could catch our boat to the [Isle of Man](https://en.wikipedia.org/wiki/Isle_of_Man).
+
+It was a three hour ride, and a rough one too. I had to sit next to the window and focus on the horizon the entire ride to stave off my sea-sickness. The last 45 minutes of the boat ride were the roughest. The wave were so big, we were like a cork bobbing up and down in the ocean. Even though the ferry was quite large, a few of the waves sent equipment flying around the kitchen area near our seats. It kind of got fun at the end but I'm glad it didn't last much longer or the Caragol crew would have been dragging me out of the bathroom when we got to port.
+
+The Isle of Man was wonderful and really took us by surprise. We managed to checkout quite a bit during our quick stay:
+
+- Explored the [Castle Rushen](https://goo.gl/maps/y1KPLxoQHTVVnFdX8)
+- Took photos at the [Peel Castle](https://goo.gl/maps/sjRt2heW27Kd616V8) and found a beach of pure sea shells
+- Stumbled upon a stock car race that was a wild community event with plenty of car wrecks
+- Went Gorge Walking on the Northern coast of the island
+- Road on a steam train through the countryside
+
+![IMG_1](IMG_1.jpg)
+
+> The views of the sea from the Peel Castle
+
+![IMG_6130](IMG_6130.jpg)
+
+> Ian at the base of the Castle Rushen
+
+![IMG_6132](IMG_6132.jpg)
+
+> Another view of the Castle Rushen's exterior
+
+![IMG_6137](IMG_6137.jpg)
+
+> The view of a bay next to the Peel Castle
+
+![IMG_6134](IMG_6134.jpg)
+
+> A beach of pure sea shells next to the Peel Castle
+
+![IMG_6145](IMG_6145.jpg)
+
+> Leah on-top of the cliffs by the Peel Castle
+
+![IMG_6153](IMG_6153.jpg)
+
+> Ian on-top of the cliffs by the Peel Castle
+
+![IMG_6155](IMG_6155.jpg)
+
+> Ian on-top of the cliffs by the Peel Castle (again)
+
+![IMG_6168](IMG_6168.jpg)
+
+> The steam train we rode through the countryside
