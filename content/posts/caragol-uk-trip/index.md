@@ -46,6 +46,47 @@ After checking out the castle, we picked up our bags from the hotel, and headed 
 
 ### Belfast, Northern Ireland 🇬🇧
 
+After getting off the bus in Belfast, we walked to meetup with Lizzie and her son Dominic. Steve met Lizzie in his 20s when backpacking around Austrailia and they've been great friends ever since. Lizzie and Dominic drove us to their home in the countryside, about 20 minutes outside of Belfast. We stayed in their (quite large) home which was seated ontop of a beautiful hill surrounded by green pastures. We stayed at the house with Lizzie, Alex (her husband), Dominic (Lizzie's son), and Rebecca (Lizzie's daughter who was in town).
+
+Lizzie's family had a bunch of activities planned for us to keep us busy (and boy were we busy). Here's a quick rundown of what we did:
+
+- Hiked through [Hare's Gap](https://goo.gl/maps/sW9tRpowuQ4Xy8ca6) near [Newcastle](https://goo.gl/maps/FbmYABeQ2bx62U8m7)
+- Had an excellent tour of the Titanic Museum with Lizzie as our unofficial tour guide. She had a lot of family that was either directly or indirectly involved with the Titanic.
+- Another excellent tour by car with Lizzie of Belfast and the history behind the [Troubles](https://en.wikipedia.org/wiki/Troubles). We got to see the [Peace Wall](https://en.wikipedia.org/wiki/Peace_lines) which felt like a modern day Berlin Wall in a way.
+- Got a boat tour (with dolphin sightings!) by Alex. We stopped for lunch along the way and got some really tasty food.
+
+Photos from Hare's Gap:
+
+![IMG_2065](IMG_2065.jpg)
+
+> Starting the hike of Hare's Gap
+
+![IMG_2067](IMG_2067.jpg)
+
+> Ascending the mountain towards the rain and winds
+
 {{< video src="IMG_8961" >}}
 
-> Grant doing a dance in the wind
+> Grant doing a dance in the wind and getting blasted by rain
+
+![IMG_2068](IMG_2068.jpg)
+
+> Grant by one of the stone walls on the hike
+
+![IMG_6117](IMG_6117.jpg)
+
+> The Caragol / Lizzie crew surviving the winds and rain on the hike
+
+Photos from the Boat Cruise by Alex:
+
+![IMG_6121](IMG_6121.jpg)
+
+> Rebecca with an "uncountable" number of jackets on
+
+![IMG_6125](IMG_6125.jpg)
+
+> Michelle after getting soaked by the rain
+
+![IMG_2](IMG_2.jpg)
+
+> The wall of rain we went through on our boat cruise
