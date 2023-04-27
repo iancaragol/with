@@ -184,3 +184,23 @@ After the steam train ride, we enjoyed a pint of beer at the old Mill pub next t
 Leah had to hang back at the hostel during our afternoon adventures as she was grinding through a 4,000 page paper for her Masters degree. She is currently sitting next to me still going on the paper as I write this. She is a machine. 👩‍🎓
 
 ![IMG_6197](IMG_6197.jpg)
+
+The next day we rode bikes all around Llangollen and explored the aqueducts and canals.
+
+![IMG_6198](IMG_6198.jpg)
+
+I found a nice place for a "whippy" as well while the rest of the gang was shopping
+
+![IMG_6204](IMG_6204.jpg)
+
+> Whippy is soft-serve ice cream 🍦
+
+The next day was a really exciting one. We moved further down the country side in Wales towards a region known as "Snowdon". The Caragols said we would be doing ziplining and something about a "cave". I guess I didn't pay too much attention to what this activity would entail but it was extremely cool!
+
+The cave and zipline were actually a combo activity. We would be on a zipline and Via Ferrata course that was built into an old slate mine. It was a blast!
+
+![IMG_6212](IMG_6212.jpg)
+
+![IMG_6214](IMG_6214.jpg)
+
+![IMG_6217](IMG_6217.jpg)
