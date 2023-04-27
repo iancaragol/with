@@ -204,3 +204,13 @@ The cave and zipline were actually a combo activity. We would be on a zipline an
 ![IMG_6214](IMG_6214.jpg)
 
 ![IMG_6217](IMG_6217.jpg)
+
+After our cave adventure we checked out the old slate mine museum which is now a UNESCO world heritage site.
+
+To wrap up our day we had some delicious pizza in a small town which was actually some of the best food we had in the UK so far (most food was sadly rather "English").
+
+![IMG_6207](IMG_6207.jpg)
+
+> G + L outside near the pizza place
+
+
