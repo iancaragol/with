@@ -236,3 +236,8 @@ After the Abby, we all went to a really unique book store that Leah, Ian, and Mi
 On our way out of Bath we made a final stop at the Crescent which is an old georgian style building that is now a hotel.
 
 
+![IMG_6273](IMG_6273.jpg)
+
+![IMG_6278](IMG_6278.jpg)
+
+![IMG_6285](IMG_6285.jpg)
