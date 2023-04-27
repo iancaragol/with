@@ -195,7 +195,7 @@ I found a nice place for a "whippy" as well while the rest of the gang was shopp
 
 > Whippy is soft-serve ice cream 🍦
 
-The next day was a really exciting one. We moved further down the country side in Wales towards a region known as "Snowdon". The Caragols said we would be doing ziplining and something about a "cave". I guess I didn't pay too much attention to what this activity would entail but it was extremely cool!
+The next day was a really exciting one. We moved further down the country side in Wales towards a region known as "Snowdon". The Caragols said we would be doing zip lining and something about a "cave". I guess I didn't pay too much attention to what this activity would entail but it was extremely cool!
 
 The cave and zipline were actually a combo activity. We would be on a zipline and Via Ferrata course that was built into an old slate mine. It was a blast!
 
@@ -235,9 +235,24 @@ After the Abby, we all went to a really unique book store that Leah, Ian, and Mi
 
 On our way out of Bath we made a final stop at the Crescent which is an old georgian style building that is now a hotel.
 
+After we got back to London, the Caragol's got a hotel in central London and Leah/Grant headed back to Leah's apartment in Clapham. Steve and Ian did a lot of museum touring the next few days while Leah and Michelle went wedding dress shopping 😱.
+
+One night in London, I had put together a plan for a "night out" with Leah's family and their friend Dominic from earlier in our trip (Ireland). It consisted of going to a comedy show, then mini golf at a place called "Junkyard".
+
+That was where our planned evening ended but Ian and Dominic were ready for a night out now so we went out to listen to some classic "UK Drum and Bass" at a nightclub called XOYO.
 
 ![IMG_6273](IMG_6273.jpg)
 
+> A DJ at XOYO
+
+On our last day of the family trip, Leah gave her family a tour of her campus (King College London) and then we met up with Monica's friends from Saudi Arabia for dinner. We had about 10x more food than we could eat but it was delicious.
+
 ![IMG_6278](IMG_6278.jpg)
 
+> Leah and her family at King's College London
+
 ![IMG_6285](IMG_6285.jpg)
+
+> The "last supper" with the Caragol's
+
+The whole trip from start to finish was an absolute blast! Leah and I were so happy to have her family come visit us and we were both sad to see them go. It was a nice escape from the city of London (that we had spent a lot of time in) and a good break for Leah from her quite rigorous Masters program.
