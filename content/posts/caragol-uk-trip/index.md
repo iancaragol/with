@@ -218,3 +218,21 @@ Another highlight on our trip in Wales was going to visit an island called [Skom
 ![DSC04075_LR](DSC04075_LR.jpg)
 
 ![DSC04086_LR](DSC04086_LR.jpg)
+
+### London 🇬🇧
+
+After our journey through Wales, we hopped on the train to go back to London. On our way back, we made a part day detour in Bath.
+
+Leah and Ian checked out the Roman bath house (I had already seen it in 2015) so Michelle, Steve, and I went to checkout the Bath Abby right next door.
+
+![IMG_6236](IMG_6236.jpg)
+
+> Inside of the Bath Abby
+
+![IMG_2546](IMG_2546.jpg)
+
+After the Abby, we all went to a really unique book store that Leah, Ian, and Michelle enjoyed.
+
+On our way out of Bath we made a final stop at the Crescent which is an old georgian style building that is now a hotel.
+
+
