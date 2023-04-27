@@ -213,4 +213,8 @@ To wrap up our day we had some delicious pizza in a small town which was actuall
 
 > G + L outside near the pizza place
 
+Another highlight on our trip in Wales was going to visit an island called [Skomer](https://en.wikipedia.org/wiki/Skomer) which had all sorts of different birds and wildlife. We took a boat out to the island and spent the day exploring. We saw puffins, seals, and a lot of other birds. It was a really cool experience.
 
+![DSC04075_LR](DSC04075_LR.jpg)
+
+![DSC04086_LR](DSC04086_LR.jpg)
