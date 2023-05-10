@@ -76,7 +76,7 @@ Here are some photos from our first few days in Taipei!
 
 > The *Taipei 101* as seen from the top of a hill we hiked up nearby
 
-The last photo seen above was taking from the top of Elephant Hill in Taipei. It was extremely scenic and had panoramic views of the whole city. On our way back down, the sun was setting and I wanted to fly my drone before it got dark. I found an empty parking lot and launched my drone. I took a few shots before panning the drone camera straight downwards to the city streets. As soon as I did so, I was looking at what would be my favorite drone picture I have ever captured. I call it, "**X Marks the Spot**"
+The last photo seen above was taking from the top of Elephant Hill in Taipei. It was extremely scenic and had panoramic views of the whole city. On our way back down, the sun was setting and I wanted to fly my drone before it got dark. I found an empty parking lot and launched my drone. I took a few shots before panning the drone camera straight downwards to the city streets. As soon as I did so, I was looking at what would be my favorite drone picture I have ever captured. I call it, "**X Marks the Spot**".
 
 ![DJI_0273_LR](DJI_0273_LR.jpg)
 
