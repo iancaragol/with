@@ -110,44 +110,88 @@ After Taipei, we hopped on a set of local passenger trains that took us along th
 
 > The river from above via drone
 
+We wrapped up our time in the Taroko area and headed back to the town we were staying at. The next day, we attended a wonderful cooking course where we learned how to make Taiwanese "Three Cup Chicken" and we still make the same recipe to date! We often cook it for our friends and family on special occasions or if we are missing Taiwan.
+
 ### Kaoshiung
+
+After exploring the Taroko area, we hopped back on the passenger train which took us through South Taiwan and further on to the other side of the island where we stopped at Kaoshiung. In Kaoshiung we ate **a lot** of food at street markets, explored temples, and cruised around on scooters. The city of Kaoshiung is known for having many great artists and creative sights so we took plenty of photos along the way.
 
 ![IMG_1691_LR-2](IMG_1691_LR-2.jpg)
 
+> Grant on the side of a canal in the heart of Kaoshiung
+
 ![IMG_1788_LR](IMG_1788_LR.jpg)
+
+> Intricate carvings in a template with a dragon
 
 ![IMG_1830_LR-3](IMG_1830_LR-3.jpg)
 
+> Leah taking a stroll through some bubbles in the sun
+
 ![IMG_1842_LR](IMG_1842_LR.jpg)
+
+> Grant (AKA "King Bubbles")
 
 ![IMG_1908_LR](IMG_1908_LR.jpg)
 
+> Yummy toasted potato swirls from a street market
+
 ![IMG_1927_LR](IMG_1927_LR.jpg)
+
+> Leah on the edge of a boat heading back from the side of the island where we drove scooters
 
 ![IMG_1939_LR](IMG_1939_LR.jpg)
 
+> A massive Buddha at one of the temples we visited
+
 ![IMG_2040_LR](IMG_2040_LR.jpg)
+
+> Leah strolling through the temple hallways
 
 ![IMG_2066_LR](IMG_2066_LR.jpg)
 
-![IMG_2087_LR](IMG_2087_LR.jpg)
-
-![IMG_2104_LR](IMG_2104_LR.jpg)
-
-![DJI_0342_LR](DJI_0342_LR.jpg)
-
-![DJI_0344_LR](DJI_0344_LR.jpg)
-
-![DJI_0345_LR](DJI_0345_LR.jpg)
+> Leah overlooking the temple
 
 ![DJI_0361_LR-2](DJI_0361_LR-2.jpg)
 
+> The temple from above via drone
+
+![IMG_2104_LR](IMG_2104_LR.jpg)
+
+> One of the central metro stations in Kaoshiung that is really stunning
+
+![DJI_0342_LR](DJI_0342_LR.jpg)
+
+> A view from the drone of the streets we scooter'd around
+
+![DJI_0344_LR](DJI_0344_LR.jpg)
+
+> Another drone shot of the streets
+
+![DJI_0345_LR](DJI_0345_LR.jpg)
+
+> A small lighthouse and island we walked around for a quick scooter break
+
 ![DJI_0372_LR](DJI_0372_LR.jpg)
+
+> Two adjoining temples on a pond. You enter one through a tiger and exit through the mouth of a dragon
 
 ![DJI_0374_LR](DJI_0374_LR.jpg)
 
+> The backside of the tiger and dragon temples
+
 ![DJI_0381_LR](DJI_0381_LR.jpg)
+
+> A top down shot of another temple on the pond
 
 ![DJI_0385_LR](DJI_0385_LR.jpg)
 
+> A close up (via drone) of the path that extends outwards onto the pond
+
+![IMG_2087_LR](IMG_2087_LR.jpg)
+
+> The temple at night surrounded by lilies
+
 ![DJI_0402_LR-2.jpg](DJI_0402_LR-2.jpg)
+
+> A really stunning drone shot I captured at dusk of the temple on the water
