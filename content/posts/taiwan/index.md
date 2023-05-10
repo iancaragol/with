@@ -109,3 +109,45 @@ After Taipei, we hopped on a set of local passenger trains that took us along th
 ![DJI_0282_LR-2](DJI_0282_LR-2.jpg)
 
 > The river from above via drone
+
+### Kaoshiung
+
+![IMG_1691_LR-2](IMG_1691_LR-2.jpg)
+
+![IMG_1788_LR](IMG_1788_LR.jpg)
+
+![IMG_1830_LR-3](IMG_1830_LR-3.jpg)
+
+![IMG_1842_LR](IMG_1842_LR.jpg)
+
+![IMG_1908_LR](IMG_1908_LR.jpg)
+
+![IMG_1927_LR](IMG_1927_LR.jpg)
+
+![IMG_1939_LR](IMG_1939_LR.jpg)
+
+![IMG_2040_LR](IMG_2040_LR.jpg)
+
+![IMG_2066_LR](IMG_2066_LR.jpg)
+
+![IMG_2087_LR](IMG_2087_LR.jpg)
+
+![IMG_2104_LR](IMG_2104_LR.jpg)
+
+![DJI_0342_LR](DJI_0342_LR.jpg)
+
+![DJI_0344_LR](DJI_0344_LR.jpg)
+
+![DJI_0345_LR](DJI_0345_LR.jpg)
+
+![DJI_0361_LR-2](DJI_0361_LR-2.jpg)
+
+![DJI_0372_LR](DJI_0372_LR.jpg)
+
+![DJI_0374_LR](DJI_0374_LR.jpg)
+
+![DJI_0381_LR](DJI_0381_LR.jpg)
+
+![DJI_0385_LR](DJI_0385_LR.jpg)
+
+![DJI_0402_LR-2.jpg](DJI_0402_LR-2.jpg)
