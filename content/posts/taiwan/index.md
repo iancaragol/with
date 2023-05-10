@@ -81,3 +81,31 @@ The last photo seen above was taking from the top of Elephant Hill in Taipei. It
 ![DJI_0273_LR](DJI_0273_LR.jpg)
 
 > "X Marks the Spot"
+
+### Taroko
+
+After Taipei, we hopped on a set of local passenger trains that took us along the beautiful East cost of Taiwan towards Taroko National Park. The park looked stunning and about a month for we left, I actually reached out to the Government of Taiwan to request permission to fly my drone in the park (which they approved!). We stayed in a small town just a short ways from the entrance of Taroko National Park. When we first arrived, we spent the evening strolling through the night markets, getting mango ice cream, and watching kids rollerblade through a speed course of orange cones. The Caragol's family came here just a few years before and had highly suggested getting a private driver to take us through the park so we could stop wherever we like. We hired the exact same driver that Leah's family did in fact!
+
+![IMG_1497_LR](IMG_1497_LR.jpg)
+
+> A set of tunnels that the train took us through along the coast
+
+![IMG_1515_LR](IMG_1515_LR.jpg)
+
+> The East coast of Taiwan
+
+![IMG_1531_LR](IMG_1531_LR.jpg)
+
+> The entrance to the park which we drove through. After entering, we were given helmets that had to be worn at all times when outside due to falling rocks
+
+![IMG_1590_LR](IMG_1590_LR.jpg)
+
+> The river that cuts through the park
+
+![IMG_1600_LR](IMG_1600_LR.jpg)
+
+> Another shot of the river
+
+![DJI_0282_LR-2](DJI_0282_LR-2.jpg)
+
+> The river from above via drone
