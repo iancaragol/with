@@ -55,3 +55,23 @@ Here are some photos from our first few days in Taipei!
 ![IMG_1372_LR](IMG_1372_LR.jpg)
 
 > The market at night
+
+![IMG_1394_LR](IMG_1394_LR.jpg)
+
+> A museum full of a mix of history from Taiwan and China. We learned that China is really pushing to take (claim, steal?) a lot of the pieces here - not too pleasant
+
+![IMG_1438_LR](IMG_1438_LR.jpg)
+
+> Leah looking at the window of a gondola that took us up into the hills of Taipei
+
+![IMG_1445_LR](IMG_1445_LR.jpg)
+
+> A shot from the window of the gondola
+
+![DJI_0262_LR](DJI_0262_LR.jpg)
+
+> A drone shot I got of the hills where the gondola dropped us off
+
+![IMG_1456_LR](IMG_1456_LR.jpg)
+
+> The *Taipei 101* as seen from the top of a hill we hiked up nearby
