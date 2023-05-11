@@ -267,3 +267,11 @@ Our next day in Jiufeng, we explored some of the old mines and the traditional T
 ![IMG_2242_LR](IMG_2242_LR.jpg)
 
 > Some exquisite dumplings we got in the markets of Jiufeng
+
+### Conclusion
+
+Writing this blog post years later and looking back on this trip, I still think it was one of the best trips Leah and I have done to date (writing this in 2023 now). The scenery in Taiwan was just stunning and the night markets are something I could honestly never get bored of. There is just an endless supply of unique and delicious foods in the night markets and so many vibrant smells, tastes, and sights.
+
+The people of Taiwan were also incredibly friendly, caring, and respectful of each other. Even among the chaos in the busy streets of Taipei, it felt like there was a great sense of order and organization. Even years later, I still often find myself saying "I miss Taiwan" and it is largely due to just how fun and easy it was to travel in a place that might have seemed so foreign at face value.
+
+❤️🇹🇼
