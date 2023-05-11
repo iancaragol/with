@@ -196,7 +196,7 @@ After exploring the Taroko area, we hopped back on the passenger train which too
 
 > A really stunning drone shot I captured at dusk of the temple on the water
 
-### Jiufeng 🏮
+### Jiufen 🏮
 
 After our stay in Kaoshiung, we hopped on an ultra-fast train that brought us back into the Taipei region.
 
@@ -204,9 +204,9 @@ After our stay in Kaoshiung, we hopped on an ultra-fast train that brought us ba
 
 > The ultra-fast train that took us back to Taipei
 
-Once in the Taipei region, Leah and I checked out a small section of North Taipei called Beutiu. This region is known for having a lot of natural hot springs so we spent the afternoon soaking in one and sipping green tea.
+Once in the Taipei region, Leah and I checked out a small section of North Taipei called [Beitou](https://en.wikipedia.org/wiki/Beitou_District). This region is known for having a lot of natural hot springs so we spent the afternoon soaking in one and sipping green tea.
 
-Our next destination on our trip was Jiufeng which is a small village in the hills outside of Taipei. It used to be the home of many miners but is now a fairly quiet place visited mostly by travelers. The rumor is that Jiufeng was the inspiration behind the setting in "Spirited Away".
+Our next destination on our trip was [Jiufen](https://en.wikipedia.org/wiki/Jiufen) which is a small village in the hills outside of Taipei. It used to be the home of many miners but is now a fairly quiet place visited mostly by travelers. The rumor is that Jiufen was the inspiration behind the setting in "Spirited Away".
 
 ![IMG_2141_LR](IMG_2141_LR.jpg)
 
@@ -218,7 +218,7 @@ Our next destination on our trip was Jiufeng which is a small village in the hil
 
 ![IMG_2168_LR](IMG_2168_LR.jpg)
 
-> Lanterns over one of the central streets of Jiufeng
+> Lanterns over one of the central streets of Jiufen
 
 ![IMG_2174_LR](IMG_2174_LR.jpg)
 
@@ -228,11 +228,11 @@ Our next destination on our trip was Jiufeng which is a small village in the hil
 
 > Leah posing on a street with lanterns above 🏮
 
-After Leah and I had food from a street vendor in the alleys of Jiufeng, we went back to our AirBnb. I had the idea of waiting until the night got quite late and then to go out and explore the streets alone. I waited until about midnight and grabbed my camera. I started wandering around the streets alone and it was a truly magical experience. There wasn't as single soul around, except maybe that of the "Spirited Away" ghosts. Here are some of the shots I captured while exploring the empty alleys of Jiufeng:
+After Leah and I had food from a street vendor in the alleys of Jiufen, we went back to our AirBnb. I had the idea of waiting until the night got quite late and then to go out and explore the streets alone. I waited until about midnight and grabbed my camera. I started wandering around the streets alone and it was a truly magical experience. There wasn't as single soul around, except maybe that of the "Spirited Away" ghosts. Here are some of the shots I captured while exploring the empty alleys of Jiufen:
 
 ![IMG_2183_LR](IMG_2183_LR.jpg)
 
-> The empty alleys near the famous old tea house in Jiufeng
+> The empty alleys near the famous old tea house in Jiufen
 
 ![IMG_2187_LR](IMG_2187_LR.jpg)
 
@@ -246,7 +246,7 @@ After Leah and I had food from a street vendor in the alleys of Jiufeng, we went
 
 ![IMG_2215_LR](IMG_2215_LR.jpg)
 
-Our next day in Jiufeng, we explored some of the old mines and the traditional Taiwanese houses that the miners would have lived in. It was a very rainy and moody day in the mountains but a really scenic one too!
+Our next day in Jiufen, we explored some of the old mines and the traditional Taiwanese houses that the miners would have lived in. It was a very rainy and moody day in the mountains but a really scenic one too!
 
 ![IMG_2218_LR](IMG_2218_LR.jpg)
 
@@ -266,7 +266,7 @@ Our next day in Jiufeng, we explored some of the old mines and the traditional T
 
 ![IMG_2242_LR](IMG_2242_LR.jpg)
 
-> Some exquisite dumplings we got in the markets of Jiufeng
+> Some exquisite dumplings we got in the markets of Jiufen
 
 ### Drone Video
 
@@ -274,7 +274,7 @@ During this trip, I flew my drone extensively in many of the places that we went
 
 ![taiwan-drone-video-cover](taiwan-drone-video-cover.jpg)
 
-YouTube Link: [Taiwan in 4k by Drone]()
+YouTube Link: [Taiwan in 4k by Drone](https://www.youtube.com/watch?v=suC0ZBLptBU)
 
 ### Conclusion
 
