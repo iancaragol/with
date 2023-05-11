@@ -268,6 +268,10 @@ Our next day in Jiufeng, we explored some of the old mines and the traditional T
 
 > Some exquisite dumplings we got in the markets of Jiufeng
 
+### Drone Video
+
+![taiwan-drone-video-cover](taiwan-drone-video-cover.jpg)
+
 ### Conclusion
 
 Writing this blog post years later and looking back on this trip, I still think it was one of the best trips Leah and I have done to date (writing this in 2023 now). The scenery in Taiwan was just stunning and the night markets are something I could honestly never get bored of. There is just an endless supply of unique and delicious foods in the night markets and so many vibrant smells, tastes, and sights.
