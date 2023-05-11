@@ -270,7 +270,11 @@ Our next day in Jiufeng, we explored some of the old mines and the traditional T
 
 ### Drone Video
 
+During this trip, I flew my drone extensively in many of the places that we went too. It took me many months after the trip of editing, but I completed the *Taiwan Drone Video* and I was extremely excited with how it turned out!
+
 ![taiwan-drone-video-cover](taiwan-drone-video-cover.jpg)
+
+YouTube Link: [Taiwan in 4k by Drone]()
 
 ### Conclusion
 
