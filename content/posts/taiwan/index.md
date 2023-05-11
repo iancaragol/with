@@ -208,23 +208,41 @@ Once in the Taipei region, Leah and I checked out a small section of North Taipe
 
 Our next destination on our trip was Jiufeng which is a small village in the hills outside of Taipei. It used to be the home of many miners but is now a fairly quiet place visited mostly by travelers. The rumor is that Jiufeng was the inspiration behind the setting in "Spirited Away".
 
-![DSC01362_LR-2](DSC01362_LR-2.jpg)
-
 ![IMG_2141_LR](IMG_2141_LR.jpg)
+
+> The view from a street near our AirBnb
 
 ![IMG_2144_LR](IMG_2144_LR.jpg)
 
+> The finest "toasted brown sugar boba tea" we have ever consumed
+
 ![IMG_2168_LR](IMG_2168_LR.jpg)
+
+> Lanterns over one of the central streets of Jiufeng
 
 ![IMG_2174_LR](IMG_2174_LR.jpg)
 
+> Another shot of the lanterns
+
+![DSC01362_LR-2](DSC01362_LR-2.jpg)
+
+> Leah posing on a street with lanterns above 🏮
+
+After Leah and I had food from a street vendor in the alleys of Jiufeng, we went back to our AirBnb. I had the idea of waiting until the night got quite late and then to go out and explore the streets alone. I waited until about midnight and grabbed my camera. I started wandering around the streets alone and it was a truly magical experience. There wasn't as single soul around, except maybe that of the "Spirited Away" ghosts. Here are some of the shots I captured while exploring the empty alleys of Jiufeng:
+
 ![IMG_2183_LR](IMG_2183_LR.jpg)
+
+> The empty alleys near the famous old tea house in Jiufeng
 
 ![IMG_2187_LR](IMG_2187_LR.jpg)
 
 ![IMG_2203_LR](IMG_2203_LR.jpg)
 
+> The closed up street vendors with their vibrant orange tarps extending above. Even though I was alone, it felt like there may have been some spirits floating around here 👻
+
 ![IMG_2206_LR](IMG_2206_LR.jpg)
+
+> This shot had a light on above that looked like the sun coming through from a long-exposure shot. There wasn't any sun at midnight though 🤷
 
 ![IMG_2215_LR](IMG_2215_LR.jpg)
 
