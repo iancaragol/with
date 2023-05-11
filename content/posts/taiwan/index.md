@@ -195,3 +195,51 @@ After exploring the Taroko area, we hopped back on the passenger train which too
 ![DJI_0402_LR-2.jpg](DJI_0402_LR-2.jpg)
 
 > A really stunning drone shot I captured at dusk of the temple on the water
+
+### Jiufeng 🏮
+
+After our stay in Kaoshiung, we hopped on an ultra-fast train that brought us back into the Taipei region.
+
+![IMG_2113_LR](IMG_2113_LR.jpg)
+
+> The ultra-fast train that took us back to Taipei
+
+Once in the Taipei region, Leah and I checked out a small section of North Taipei called Beutiu. This region is known for having a lot of natural hot springs so we spent the afternoon soaking in one and sipping green tea.
+
+Our next destination on our trip was Jiufeng which is a small village in the hills outside of Taipei. It used to be the home of many miners but is now a fairly quiet place visited mostly by travelers. The rumor is that Jiufeng was the inspiration behind the setting in "Spirited Away".
+
+![DSC01362_LR-2](DSC01362_LR-2.jpg)
+
+![IMG_2141_LR](IMG_2141_LR.jpg)
+
+![IMG_2144_LR](IMG_2144_LR.jpg)
+
+![IMG_2168_LR](IMG_2168_LR.jpg)
+
+![IMG_2174_LR](IMG_2174_LR.jpg)
+
+![IMG_2183_LR](IMG_2183_LR.jpg)
+
+![IMG_2187_LR](IMG_2187_LR.jpg)
+
+![IMG_2203_LR](IMG_2203_LR.jpg)
+
+![IMG_2206_LR](IMG_2206_LR.jpg)
+
+![IMG_2215_LR](IMG_2215_LR.jpg)
+
+![IMG_2218_LR](IMG_2218_LR.jpg)
+
+![IMG_2223_LR](IMG_2223_LR.jpg)
+
+![IMG_2224_LR](IMG_2224_LR.jpg)
+
+![IMG_2226_LR](IMG_2226_LR.jpg)
+
+![IMG_2232_LR](IMG_2232_LR.jpg)
+
+![IMG_2234_LR](IMG_2234_LR.jpg)
+
+![IMG_2238_LR](IMG_2238_LR.jpg)
+
+![IMG_2242_LR](IMG_2242_LR.jpg)
