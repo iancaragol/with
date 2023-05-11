@@ -112,13 +112,13 @@ After Taipei, we hopped on a set of local passenger trains that took us along th
 
 We wrapped up our time in the Taroko area and headed back to the town we were staying at. The next day, we attended a wonderful cooking course where we learned how to make Taiwanese "Three Cup Chicken" and we still make the same recipe to date! We often cook it for our friends and family on special occasions or if we are missing Taiwan.
 
-### Kaoshiung
+### Kaohsiung
 
-After exploring the Taroko area, we hopped back on the passenger train which took us through South Taiwan and further on to the other side of the island where we stopped at Kaoshiung. In Kaoshiung we ate **a lot** of food at street markets, explored temples, and cruised around on scooters. The city of Kaoshiung is known for having many great artists and creative sights so we took plenty of photos along the way.
+After exploring the Taroko area, we hopped back on the passenger train which took us through South Taiwan and further on to the other side of the island where we stopped at Kaohsiung. In Kaohsiung we ate **a lot** of food at street markets, explored temples, and cruised around on scooters. The city of Kaohsiung is known for having many great artists and creative sights so we took plenty of photos along the way.
 
 ![IMG_1691_LR-2](IMG_1691_LR-2.jpg)
 
-> Grant on the side of a canal in the heart of Kaoshiung
+> Grant on the side of a canal in the heart of Kaohsiung
 
 ![IMG_1788_LR](IMG_1788_LR.jpg)
 
@@ -158,7 +158,7 @@ After exploring the Taroko area, we hopped back on the passenger train which too
 
 ![IMG_2104_LR](IMG_2104_LR.jpg)
 
-> One of the central metro stations in Kaoshiung that is really stunning
+> One of the central metro stations in Kaohsiung that is really stunning
 
 ![DJI_0342_LR](DJI_0342_LR.jpg)
 
@@ -198,7 +198,7 @@ After exploring the Taroko area, we hopped back on the passenger train which too
 
 ### Jiufen 🏮
 
-After our stay in Kaoshiung, we hopped on an ultra-fast train that brought us back into the Taipei region.
+After our stay in Kaohsiung, we hopped on an ultra-fast train that brought us back into the Taipei region.
 
 ![IMG_2113_LR](IMG_2113_LR.jpg)
 
@@ -206,7 +206,7 @@ After our stay in Kaoshiung, we hopped on an ultra-fast train that brought us ba
 
 Once in the Taipei region, Leah and I checked out a small section of North Taipei called [Beitou](https://en.wikipedia.org/wiki/Beitou_District). This region is known for having a lot of natural hot springs so we spent the afternoon soaking in one and sipping green tea.
 
-Our next destination on our trip was [Jiufen](https://en.wikipedia.org/wiki/Jiufen) which is a small village in the hills outside of Taipei. It used to be the home of many miners but is now a fairly quiet place visited mostly by travelers. The rumor is that Jiufen was the inspiration behind the setting in "Spirited Away".
+Our next destination on our trip was [Jiufen](https://en.wikipedia.org/wiki/Jiufen) which is a small village in the hills outside of Taipei. It used to be the home of many miners but is now a fairly quiet place visited mostly by travelers. The rumor is that Jiufen was the inspiration behind the setting in "[Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away)".
 
 ![IMG_2141_LR](IMG_2141_LR.jpg)
 
