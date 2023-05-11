@@ -246,6 +246,8 @@ After Leah and I had food from a street vendor in the alleys of Jiufeng, we went
 
 ![IMG_2215_LR](IMG_2215_LR.jpg)
 
+Our next day in Jiufeng, we explored some of the old mines and the traditional Taiwanese houses that the miners would have lived in. It was a very rainy and moody day in the mountains but a really scenic one too!
+
 ![IMG_2218_LR](IMG_2218_LR.jpg)
 
 ![IMG_2223_LR](IMG_2223_LR.jpg)
@@ -260,4 +262,8 @@ After Leah and I had food from a street vendor in the alleys of Jiufeng, we went
 
 ![IMG_2238_LR](IMG_2238_LR.jpg)
 
+> A shot from the balcony of our AirBnb after our day exploring the mining areas
+
 ![IMG_2242_LR](IMG_2242_LR.jpg)
+
+> Some exquisite dumplings we got in the markets of Jiufeng
