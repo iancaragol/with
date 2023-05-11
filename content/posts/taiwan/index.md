@@ -24,8 +24,6 @@ Just like that, we had plane tickets booked for our first trip together in Asia.
 
 We flew from Seattle -> Vancouver -> Taipei. The flight was the longest I had ever done at the time but fortunately for me, I had recently gotten into "Game of Thrones" and binged an entire season on the flight so time flew right on by. Before we knew it, we were on the group in Taipei. We got in fairly late so we just hopped on the metro and went towards our AirBnb which happened to be a *very* small bedroom inside of a Taiwanese family's garage.
 
-TODO: add video here
-
 The next day we woke up at about 5am due to the jet lag. As soon as I woke up, I remember waking Leah up and telling here "lets go, lets go!". I was super excited to see Taiwan and didn't even care that it was 5am. I sharply remember my first feelings when I stepped outside to see the streets of Taipei with the sunrise. It wasn't even culture shock but more "culture amazement". My jaw was on the floor the whole morning stroll and Leah kept laughing at me and how stunned I was to be in Asia. The only thing that knocked my jaw back into place was the first whiff of "stinky tofu" when we got into the city center. I remember it caused a shock of physical pain all throughout my body when the first whiff hit me. Throughout the trip I would come to love stinky tofu but only for the flavor as the smell would make your stomach due a back-flip.
 
 Here are some photos from our first few days in Taipei!
@@ -84,7 +82,7 @@ The last photo seen above was taking from the top of Elephant Hill in Taipei. It
 
 ### Taroko
 
-After Taipei, we hopped on a set of local passenger trains that took us along the beautiful East cost of Taiwan towards Taroko National Park. The park looked stunning and about a month for we left, I actually reached out to the Government of Taiwan to request permission to fly my drone in the park (which they approved!). We stayed in a small town just a short ways from the entrance of Taroko National Park. When we first arrived, we spent the evening strolling through the night markets, getting mango ice cream, and watching kids rollerblade through a speed course of orange cones. The Caragol's family came here just a few years before and had highly suggested getting a private driver to take us through the park so we could stop wherever we like. We hired the exact same driver that Leah's family did in fact!
+After Taipei, we hopped on a set of local passenger trains that took us along the beautiful East cost of Taiwan towards [Taroko National Park](https://en.wikipedia.org/wiki/Taroko_National_Park). The park looked stunning and about a month for we left, I actually reached out to the Government of Taiwan to request permission to fly my drone in the park (which they approved!). We stayed in a small town just a short ways from the entrance of Taroko National Park. When we first arrived, we spent the evening strolling through the night markets, getting mango ice cream, and watching kids rollerblade through a speed course of orange cones. The Caragol's family came here just a few years before and had highly suggested getting a private driver to take us through the park so we could stop wherever we like. We hired the exact same driver that Leah's family did in fact!
 
 ![IMG_1497_LR](IMG_1497_LR.jpg)
 
