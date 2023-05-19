@@ -18,6 +18,10 @@ cover:
 
 > Leah posing in the street after the King's Coronation
 
+![IMG_6324](IMG_6324.jpg)
+
+> Joe and Brooks standing in front of Tower Bridge in London
+
 ### TODO TOWN
 
 ![DSC04183](DSC04183.jpg)
