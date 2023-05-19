@@ -8,6 +8,21 @@ cover:
 
 ## Greek Islands 🇬🇷
 
+![IMG_6416](IMG_6416.png)
+
+> Our flight map showing the re-route to Venice, Italy
+
+![IMG_5224](IMG_5224.jpg)
+
+> Our first night in Santorini playing "Kings in the Corners"
+
+![IMG_3023](IMG_3023.jpg)
+
+> Leaving Santorini for Naxos
+
+
+### Naxos
+
 ![DSC04270](DSC04270.jpg)
 ![DSC04273](DSC04273.jpg)
 ![DSC04292](DSC04292.jpg)
@@ -25,6 +40,48 @@ cover:
 ![DSC04383](DSC04383.jpg)
 ![DSC04393](DSC04393.jpg)
 ![DSC04396](DSC04396.jpg)
+![IMG_3052](IMG_3052.jpg)
+![IMG_3043](IMG_3043.jpg)
+![IMG_3031](IMG_3031.jpg)
+![IMG_3039](IMG_3039.jpg)
+
+### Paros
+
+![IMG_120](IMG_120.jpg)
+![IMG_121](IMG_121.jpg)
+![IMG_3102](IMG_3102.jpg)
+![IMG_3149](IMG_3149.jpg)
+![IMG_3156](IMG_3156.jpg)
+![IMG_3187](IMG_3187.jpg)
+![IMG_6364](IMG_6364.jpg)
+![IMG_5661](IMG_5661.jpg)
+![IMG_3135](IMG_3135.jpg)
+![IMG_3090](IMG_3090.jpg)
+![IMG_3089](IMG_3089.jpg)
+
+
+![IMG_6379](IMG_6379.jpg)
+
+> Our pool at night lit up with star lights all along the bottom 🌟
+
+![IMG_6380](IMG_6380.jpg)
+
+> Another shot of the pool from above
+
+![IMG_6391](IMG_6391.jpg)
+
+> Betsy at the golden beach on the island of Paros
+
+![IMG_5506](IMG_5506.jpg)
+
+> G + L at the ferry terminal
+
+![IMG_6407](IMG_6407.jpg)
+
+> Leaving on the ferry from Paros to Santorini
+
+### Santorini
+
 ![DSC04452](DSC04452.jpg)
 ![DSC04454](DSC04454.jpg)
 ![DSC04457](DSC04457.jpg)
@@ -39,34 +96,13 @@ cover:
 ![DSC04581](DSC04581.jpg)
 ![DSC04632](DSC04632.jpg)
 ![DSC04633](DSC04633.jpg)
-![IMG_120](IMG_120.jpg)
-![IMG_121](IMG_121.jpg)
-![IMG_3023](IMG_3023.jpg)
-![IMG_3031](IMG_3031.jpg)
-![IMG_3039](IMG_3039.jpg)
-![IMG_3043](IMG_3043.jpg)
-![IMG_3052](IMG_3052.jpg)
-![IMG_3089](IMG_3089.jpg)
-![IMG_3090](IMG_3090.jpg)
-![IMG_3102](IMG_3102.jpg)
-![IMG_3135](IMG_3135.jpg)
-![IMG_3149](IMG_3149.jpg)
-![IMG_3156](IMG_3156.jpg)
-![IMG_3187](IMG_3187.jpg)
+![IMG_6516](IMG_6516.jpg)
+![IMG_6423](IMG_6423.jpg)
+![IMG_6410](IMG_6410.jpg)
 ![IMG_3265](IMG_3265.jpg)
 ![IMG_3283](IMG_3283.jpg)
 ![IMG_3300](IMG_3300.jpg)
+
 ![IMG_3307](IMG_3307.jpg)
-![IMG_5224](IMG_5224.jpg)
-![IMG_5506](IMG_5506.jpg)
-![IMG_5661](IMG_5661.jpg)
-![IMG_6324](IMG_6324.jpg)
-![IMG_6364](IMG_6364.jpg)
-![IMG_6379](IMG_6379.jpg)
-![IMG_6380](IMG_6380.jpg)
-![IMG_6391](IMG_6391.jpg)
-![IMG_6407](IMG_6407.jpg)
-![IMG_6410](IMG_6410.jpg)
-![IMG_6416](IMG_6416.png)
-![IMG_6423](IMG_6423.jpg)
-![IMG_6516](IMG_6516.jpg)
+
+> Betsy and Joe with their Coffee + Baileys on our last night in the Greek Islands
