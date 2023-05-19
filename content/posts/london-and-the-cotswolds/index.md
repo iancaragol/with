@@ -1,0 +1,39 @@
+---
+title: "London and the Cotswolds"
+date: 2023-05-06T00:00:00-00:00
+draft: false
+cover:
+  image: "DSC04501.jpg"
+---
+
+## London and the Cotswolds 🇬🇧
+
+![DSC04183](DSC04183.jpg)
+![DSC04191](DSC04191.jpg)
+![DSC04192](DSC04192.jpg)
+![DSC04197](DSC04197.jpg)
+![DSC04199](DSC04199.jpg)
+![DSC04200](DSC04200.jpg)
+![DSC04211](DSC04211.jpg)
+![DSC04212](DSC04212.jpg)
+![DSC04213](DSC04213.jpg)
+![DSC04214](DSC04214.jpg)
+![DSC04225](DSC04225.jpg)
+![DSC04230](DSC04230.jpg)
+![DSC04232](DSC04232.jpg)
+![DSC04244](DSC04244.jpg)
+![DSC04253](DSC04253.jpg)
+![DSC04261](DSC04261.jpg)
+![IMG_2864](IMG_2864.jpg)
+![IMG_2907](IMG_2907.jpg)
+![IMG_2927](IMG_2927.jpg)
+![IMG_2937](IMG_2937.jpg)
+![IMG_2949](IMG_2949.jpg)
+![IMG_2963](IMG_2963.jpg)
+![IMG_2964](IMG_2964.jpg)
+![IMG_2985](IMG_2985.jpg)
+![IMG_2990](IMG_2990.jpg)
+![IMG_2998](IMG_2998.jpg)
+![IMG_3003](IMG_3003.jpg)
+![IMG_6342](IMG_6342.jpg)
+![IMG_6345](IMG_6345.jpg)
