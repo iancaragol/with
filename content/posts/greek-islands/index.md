@@ -20,34 +20,76 @@ cover:
 
 > Leaving Santorini for Naxos
 
-
 ### Naxos
 
 ![DSC04270](DSC04270.jpg)
+
+> Leah taking a stroll in an alley in Naxos
+
 ![DSC04273](DSC04273.jpg)
+
+> Betsy on the same stroll as Leah
+
 ![DSC04292](DSC04292.jpg)
+
 ![DSC04293](DSC04293.jpg)
+
+> A floral entryway to a small store
+
+![IMG_3043](IMG_3043.jpg)
+
+> One of the countless alley ways with shops lining the corodoor in Naxos
+
 ![DSC04294](DSC04294.jpg)
+
+> A restaurant's seating area that was getting setup for the evening of dinners ahead
+
 ![DSC04303](DSC04303.jpg)
+
+> Joe looking out at the sea in Naxos
+
 ![DSC04308](DSC04308.jpg)
+
+> Leah looking cute
+
 ![DSC04312](DSC04312.jpg)
+
 ![DSC04316](DSC04316.jpg)
+
+> Betsy and Joe coming down the steps of our apartment on our way to dinner
+
 ![DSC04323](DSC04323.jpg)
+
+> Candid shot of Betsy walking to dinner
+
+We hiked up to the TODO temple to catch the sunset and take some pictures.
+
 ![DSC04329](DSC04329.jpg)
+
+> Brooks looking majestic
+
 ![DSC04343](DSC04343.jpg)
 ![DSC04357](DSC04357.jpg)
 ![DSC04376](DSC04376.jpg)
 ![DSC04383](DSC04383.jpg)
 ![DSC04393](DSC04393.jpg)
+
+> The view looking back towards Naxos from the temple
+
 ![DSC04396](DSC04396.jpg)
 ![IMG_3052](IMG_3052.jpg)
-![IMG_3043](IMG_3043.jpg)
+
+> The chicken gyros we got were on $3.50 and they were amazing
+
 ![IMG_3031](IMG_3031.jpg)
 ![IMG_3039](IMG_3039.jpg)
 
 ### Paros
 
 ![IMG_120](IMG_120.jpg)
+
+> One of the many cats of the Greek Islands taking a snooze 🐱
+
 ![IMG_121](IMG_121.jpg)
 ![IMG_3102](IMG_3102.jpg)
 ![IMG_3149](IMG_3149.jpg)
@@ -58,7 +100,6 @@ cover:
 ![IMG_3135](IMG_3135.jpg)
 ![IMG_3090](IMG_3090.jpg)
 ![IMG_3089](IMG_3089.jpg)
-
 
 ![IMG_6379](IMG_6379.jpg)
 
@@ -93,6 +134,9 @@ cover:
 ![DSC04508](DSC04508.jpg)
 ![DSC04532](DSC04532.jpg)
 ![DSC04533](DSC04533.jpg)
+
+> A stunning view of the sunset and caldera from our house in Santorini
+
 ![DSC04581](DSC04581.jpg)
 ![DSC04632](DSC04632.jpg)
 ![DSC04633](DSC04633.jpg)
