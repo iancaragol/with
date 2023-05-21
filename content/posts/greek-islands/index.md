@@ -20,6 +20,10 @@ More than halfway through our flight from London to Santorini, we felt the plane
 
 We got into Santorini around dinner time and had an amazing dinner on-top of a large hill near our AirBnb. We went back to our place after dinner and played some card games before heading off to bed.
 
+![IMG_121](IMG_121.jpg)
+
+> The outside of our AirBnb in Santorini
+
 ![IMG_5224](IMG_5224.jpg)
 
 > Our first night in Santorini playing "Kings in the Corners"
@@ -101,20 +105,46 @@ We hiked up to the Temple of Apollo to catch the sunset and take some pictures.
 
 ### Paros
 
+Our next stop in the Greek Islands was Paros. My mom had done some searching on YouTube (go Betsy!) and found a super nice boutique hotel for us to stay at. After this stay, we pretty much determined that boutique hotels are our new favorite was to travel. The hotel was called "Hotel Senia" and it was amazing. It came with a wonder breakfast each day, tasty coffee, and a great pool with a few of the sea.
+
+![IMG_3102](IMG_3102.jpg)
+
+> The view from our room at Hotel Senia out the front door
+
 ![IMG_120](IMG_120.jpg)
 
-> One of the many cats of the Greek Islands taking a snooze 🐱
+> One of the many cats of the Greek Islands taking a snooze near our room 🐱
 
-![IMG_121](IMG_121.jpg)
-![IMG_3102](IMG_3102.jpg)
+Paros had some really great beaches so we spent a lot of time laying in the sun and soaking up some rays. We had a rental car for two of our days there so we did a lot of driving around the island and checking out the different beaches and a few different towns.
+
 ![IMG_3149](IMG_3149.jpg)
+
+> Grant, Betsy, and Brooks at the beach
+
+![IMG_6391](IMG_6391.jpg)
+
+> Betsy at the golden beach on the island of Paros
+
+We did a lot of exploring beyond just the beach of Paros as well! Here are some pictures from our adventures.
+
 ![IMG_3156](IMG_3156.jpg)
+
+> G + L near one of the harbors with lots of eateries near our hotel
+
 ![IMG_3187](IMG_3187.jpg)
+
+> One of the many amazing dishes we had in Greece
+
 ![IMG_6364](IMG_6364.jpg)
 ![IMG_5661](IMG_5661.jpg)
+
+> Leah in an old "fort" on the island of Paros
+
 ![IMG_3135](IMG_3135.jpg)
 ![IMG_3090](IMG_3090.jpg)
 ![IMG_3089](IMG_3089.jpg)
+
+Our boutique hotel had a really stunning view during the day, but when we returned at night, it was equally amazing. The pool in the main area was all lit up with star lights and all the neighboring towns on different parts of the island were all lit up as well. 🌟
 
 ![IMG_6379](IMG_6379.jpg)
 
@@ -124,9 +154,7 @@ We hiked up to the Temple of Apollo to catch the sunset and take some pictures.
 
 > Another shot of the pool from above
 
-![IMG_6391](IMG_6391.jpg)
-
-> Betsy at the golden beach on the island of Paros
+Our last stop in the Greek Islands was to head back to Santorini for a few days before heading back to London. We took another ferry back to Santorini to get there. The ferries were **huge** and were almost like a small-scale cruise ship. They had many different restaurants, cafes, bars, and tons of in/outdoor seating.
 
 ![IMG_5506](IMG_5506.jpg)
 
