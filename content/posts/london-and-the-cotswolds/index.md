@@ -138,6 +138,8 @@ After the tower and bunker we went into the town of Broadway. It was an adorable
 
 ### Oxford
 
+Since we had a bit of rental car snafu, we had to return our car in Oxford instead of Bath. This ended up being a blessing in disguise because we got to spend a few hours in Oxford which was a treat for my family. I even happened to stumble across a GitHub meetup with some coworkers and had lunch with them!
+
 ![IMG_2985](IMG_2985.jpg)
 
 > Brooks in Oxford
@@ -160,4 +162,6 @@ After the tower and bunker we went into the town of Broadway. It was an adorable
 
 > Grant (me) happened to meetup with some coworkers at the GitHub office in Oxford for lunch
 
-[Greek Islands](/posts/greek-islands)
+My family had an amazing time in the UK. We saw many of the classic sights and also got to explore great places in the Cotswolds. Personally, I was just so excited to get to see how happy my family was doing an international trip together. Both Leah and I were constantly surprised by just how great of travelers my family was on their first big trip overseas. It seemed like the universe certainly aligned in our favor with the King's Coronation taking place while we were all there as well! I am so grateful for the opportunity to travel with my family and I hope we get to do it again soon!
+
+The "Birkinbine EU Trip" continues on in the [Greek Islands](/posts/greek-islands) post!
