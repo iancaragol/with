@@ -24,13 +24,13 @@ We took the train from London to Gatwick Airport and then took off to Marrakech.
 
 ✈️
 
-When we arrived in Marrakech it was pretty late so we took a taxi to our AirBnb, got some food at a nearby restaurant, and then went to bed.
+When we arrived in Marrakech it was pretty late so we took a taxi to our Airbnb, got some food at a nearby restaurant, and then went to bed.
 
 ## Casablanca
 
 ### Saturday 2/18
 
-Saturday was another early morning that started with travel. Our AirBnb was intentionally right across the street from the main train station in Marrakech since I had booked us train tickets to Casablanca. Last night at dinner, Leah keep guessing where we were going and Casablanca was not a single one of her guesses so she was completely surprised when we got on the train.
+Saturday was another early morning that started with travel. Our Airbnb was intentionally right across the street from the main train station in Marrakech since I had booked us train tickets to Casablanca. Last night at dinner, Leah keep guessing where we were going and Casablanca was not a single one of her guesses so she was completely surprised when we got on the train.
 
 > I managed to get at least one surprise right at last! 😂
 
@@ -42,11 +42,11 @@ We managed to get off at the wrong train station coming into Casablanca and this
 
 Soon we had arrived in Casablanca (at the correct stop) and made our way out of a train station. As Leah laughed, I rolled my luggage through a sprinkler outside.
 
-We took a taxi to our AirBnb and then went into a nearby cafe while we waited for the cleaner to finish so we could drop off our bags.
+We took a taxi to our Airbnb and then went into a nearby cafe while we waited for the cleaner to finish so we could drop off our bags.
 
 ![IMG_5734](IMG_5734.jpg)
 
-> Leah in the taxi on our way to our AirBnb
+> Leah in the taxi on our way to our Airbnb
 
 Casablanca was **chaotic**... 😬
 
@@ -60,7 +60,7 @@ While planning this trip I had done some research around medinas and had a wildl
 
 The medina we visited was full of shops containing knock-off Nike shoes, fake luxury bags, and shampoo. We went into one shop that looked like it had spices but the most interesting thing we found was what we believed to be "prostate stimulating powder".
 
-We promptly left the medina and began to walk back to our AirBnb to asses the current situation that was Morocco.
+We promptly left the medina and began to walk back to our Airbnb to asses the current situation that was Morocco.
 
 ![IMG_5741](IMG_5741.jpg)
 
@@ -78,7 +78,7 @@ We promptly left the medina and began to walk back to our AirBnb to asses the cu
 
 #### Trip Adjustment
 
-> A brief note about our trip adjustments back at our AirBnb
+> A brief note about our trip adjustments back at our Airbnb
 
 We had been in Morocco for about 16 hours at this point and realized we were in a bit over our heads. Leah was anxious, I was borderline having a break down, and everything around us felt like chaos. So we had a quick chat and I decided to tell Leah all the details about the trip we had planned. It wasn't exactly as she had imagined and all of Morocco so far was not at all how I imagined it. So we planned together to find a place our of the chaos this afternoon and also look at the schedule for the rest of our trip later that night.
 
@@ -96,11 +96,11 @@ We walked down the street a bit and ended up in a fairly nice restaurant and got
 
 Overall, our sentiment on Casablanca was that it was a bit of a mess and not a place one should go if you're looking to relax or see sights.
 
-> I am writing this section as we are sitting in the AirBnb after the day in Casablanca and we are both very excited to be leaving tomorrow evening 🙃.
+> I am writing this section as we are sitting in the Airbnb after the day in Casablanca and we are both very excited to be leaving tomorrow evening 🙃.
 
 ### Sunday 2/19
 
-On Sunday we slept in until 10am. We were both really not looking forward to getting up and having to leave the comfort of our AirBnb. Casablanca was just so chaotic and it didn't feel like there was much to do. We would also be checking out and would have to carry around all our bags for the day.
+On Sunday we slept in until 10am. We were both really not looking forward to getting up and having to leave the comfort of our Airbnb. Casablanca was just so chaotic and it didn't feel like there was much to do. We would also be checking out and would have to carry around all our bags for the day.
 
 The night before, we had done some research and discovered that the best thing to do in Casablanca was to visit the **Hassan II** mosque of Casablanca. So we set out with all of our packs to the mosque via taxi.
 
@@ -454,7 +454,7 @@ After changing our tire, we were back on the road again. We only made one stop o
 
 We arrived in Marrakech in the late evening and our riad wasn't quite yet ready so we had Mohammad drop us off at a cafe where we tried camel burgers which were interesting.
 
-After we finished our dinner, we got all checked into our private riad. I kind of went all out on this place when I booked it intentionally. It was incredibly fancy and way overkill compared to the places Leah and I usually stay. This place could easily sleep 10+ people and was by far the most lavish AirBnb we had ever booked. I had this riad booked for the entire rest of our stay in Morocco and there were more bedrooms than we had nights in it 😆.
+After we finished our dinner, we got all checked into our private riad. I kind of went all out on this place when I booked it intentionally. It was incredibly fancy and way overkill compared to the places Leah and I usually stay. This place could easily sleep 10+ people and was by far the most lavish Airbnb we had ever booked. I had this riad booked for the entire rest of our stay in Morocco and there were more bedrooms than we had nights in it 😆.
 
 The riad had a terrace on the ground floor in the center that looked up at all the rooms above. The terrace also had a small pool and was surrounded by flowers and different plants. The main staircase in the riad went all the way up to the different floors and the roof which had a day bed with curtains, and seating area for about 20 people looking out over Marrakech. It was way overkill but quite wonderful.
 
@@ -558,7 +558,7 @@ We got up before the sun was up and met our photographer Lyes (a local to Marrak
 
 > G+L in front of the Koutoubia Mosque doing a spin
 
-Lyes was incredibly nice and a very talented photographer. After our session, we went back to our AirBnb to get changed into dry clothes, put jackets on, and head back into the medina for further exploring.
+Lyes was incredibly nice and a very talented photographer. After our session, we went back to our Airbnb to get changed into dry clothes, put jackets on, and head back into the medina for further exploring.
 
 ![IMG_5981](IMG_5981.jpg)
 

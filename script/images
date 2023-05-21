@@ -1,0 +1,45 @@
+#!/bin/bash
+
+# A helper script to generate markdown links for images in a directory
+# Collects all the filenames in a directory, formats them as markdown links...
+# ... and then puts them into a tmp markdown file for copy/paste
+# Syntax: script/images <blog_folder>
+# Example Usage: script/images paris
+
+POST_DIR="content/posts"
+OUTPUT_FILE="tmp/$1-images.md"
+
+echo "🔍 Scanning for all img file types in the $POST_DIR/$1/ directory"
+
+if [[ -d tmp/ ]]; then
+  echo "✅ the tmp/ dir already exists - OK"
+else
+  echo "✅ created the tmp/ directory - OK"
+  mkdir tmp/
+fi
+
+echo "ℹ️  Results will be saved to $OUTPUT_FILE"
+touch $OUTPUT_FILE
+
+for filename in "$POST_DIR/$1/"*; do
+  # remove the parent directory parts
+  image_name=$(echo $filename | sed "s#$POST_DIR/$1/##")
+
+  # Check to ensure the file is a valid image extension
+  if [[ "$image_name" =~ ^.*\.(jpg|png|jpeg|gif|JPG|PNG|JPEG|GIF)$ ]]; then
+    echo "📸 OK: $image_name"
+    image_name_short=$(echo $image_name | sed "s#\.jpg##")
+    image_name_short=$(echo $image_name_short | sed "s#\.png##")
+    image_name_short=$(echo $image_name_short | sed "s#\.jpeg##")
+    image_name_short=$(echo $image_name_short | sed "s#\.gif##")
+    image_name_short=$(echo $image_name_short | sed "s#\.JPG##")
+    image_name_short=$(echo $image_name_short | sed "s#\.PNG##")
+    image_name_short=$(echo $image_name_short | sed "s#\.JPEG##")
+    image_name_short=$(echo $image_name_short | sed "s#\.GIF##")
+    echo "![$image_name_short]($image_name)" >> $OUTPUT_FILE
+  else
+    echo "⏩ Skipping: $image_name"
+  fi
+done
+
+echo "✅ Done!"
