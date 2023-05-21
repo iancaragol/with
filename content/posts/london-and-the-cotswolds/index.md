@@ -14,6 +14,8 @@ The "Birkinbine EU Trip" would consist of three parts. First, we would explore L
 
 Let's begin!
 
+> P.S. Massive thank you to Leah for being a star tour guide and master-planner for a large portion of this trip! ❤️
+
 ### London
 
 Joe, Betsy, and Brooks flew direct from Denver to London and we met up with them at their hotel in the "Bank" district of downtown London. We had a few activities planned to keep them awake and stave off the jet lag from their long travel day.
@@ -120,7 +122,7 @@ The towns of "upper" and "lower" Slaughter were right next to Bourton-on-the-Wat
 
 Personally, I loved the town and area surrounding Broadway! This was our next stop along the trip the day following our time in Bourton-on-the-Water and Slaughter.
 
-Our first stop was the Broadway Tower which is a tower on top of a hill that overlooks the town of Broadway and the surrounding area. The best part of the tour (and one of the best tours I have done in the entire UK) was the old [nuclear bunker](https://broadwaytower.co.uk/nuclear-bunker/) that was built nearby the tower during the Cold War. The tour was lead by former members of the Royal Observer Corps who were stationed at the bunker during the Cold War. They were extremely knowledgeable and gave us a great tour of the bunker and the history of the Cold War in the UK. They were extremely knowledgeable and enthusiastic and I personally really enjoyed the tour!
+Our first stop was the Broadway Tower which is a tower on top of a hill that overlooks the town of Broadway and the surrounding area. The best part of the tour (and one of the best tours I have done in the entire UK) was the old [nuclear bunker](https://broadwaytower.co.uk/nuclear-bunker/) that was built nearby the tower during the Cold War. The tour was lead by former members of the Royal Observer Corps who were stationed at the bunker during the Cold War. They were extremely knowledgeable and gave us a great tour of the bunker and the history of the Cold War in the UK. They were also extremely enthusiastic and I personally really enjoyed the tour!
 
 After the nuclear bunker we checked out the tower which provided some pretty awesome view of the area.
 
