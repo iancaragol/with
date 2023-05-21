@@ -22,7 +22,7 @@ Just like that, we had plane tickets booked for our first trip together in Asia.
 
 ### Taipei
 
-We flew from Seattle -> Vancouver -> Taipei. The flight was the longest I had ever done at the time but fortunately for me, I had recently gotten into "Game of Thrones" and binged an entire season on the flight so time flew right on by. Before we knew it, we were on the group in Taipei. We got in fairly late so we just hopped on the metro and went towards our AirBnb which happened to be a *very* small bedroom inside of a Taiwanese family's garage.
+We flew from Seattle -> Vancouver -> Taipei. The flight was the longest I had ever done at the time but fortunately for me, I had recently gotten into "Game of Thrones" and binged an entire season on the flight so time flew right on by. Before we knew it, we were on the group in Taipei. We got in fairly late so we just hopped on the metro and went towards our Airbnb which happened to be a *very* small bedroom inside of a Taiwanese family's garage.
 
 The next day we woke up at about 5am due to the jet lag. As soon as I woke up, I remember waking Leah up and telling here "lets go, lets go!". I was super excited to see Taiwan and didn't even care that it was 5am. I sharply remember my first feelings when I stepped outside to see the streets of Taipei with the sunrise. It wasn't even culture shock but more "culture amazement". My jaw was on the floor the whole morning stroll and Leah kept laughing at me and how stunned I was to be in Asia. The only thing that knocked my jaw back into place was the first whiff of "stinky tofu" when we got into the city center. I remember it caused a shock of physical pain all throughout my body when the first whiff hit me. Throughout the trip I would come to love stinky tofu but only for the flavor as the smell would make your stomach due a back-flip.
 
@@ -208,7 +208,7 @@ Our next destination on our trip was [Jiufen](https://en.wikipedia.org/wiki/Jiuf
 
 ![IMG_2141_LR](IMG_2141_LR.jpg)
 
-> The view from a street near our AirBnb
+> The view from a street near our Airbnb
 
 ![IMG_2144_LR](IMG_2144_LR.jpg)
 
@@ -226,7 +226,7 @@ Our next destination on our trip was [Jiufen](https://en.wikipedia.org/wiki/Jiuf
 
 > Leah posing on a street with lanterns above 🏮
 
-After Leah and I had food from a street vendor in the alleys of Jiufen, we went back to our AirBnb. I had the idea of waiting until the night got quite late and then to go out and explore the streets alone. I waited until about midnight and grabbed my camera. I started wandering around the streets alone and it was a truly magical experience. There wasn't as single soul around, except maybe that of the "Spirited Away" ghosts. Here are some of the shots I captured while exploring the empty alleys of Jiufen:
+After Leah and I had food from a street vendor in the alleys of Jiufen, we went back to our Airbnb. I had the idea of waiting until the night got quite late and then to go out and explore the streets alone. I waited until about midnight and grabbed my camera. I started wandering around the streets alone and it was a truly magical experience. There wasn't as single soul around, except maybe that of the "Spirited Away" ghosts. Here are some of the shots I captured while exploring the empty alleys of Jiufen:
 
 ![IMG_2183_LR](IMG_2183_LR.jpg)
 
@@ -260,7 +260,7 @@ Our next day in Jiufen, we explored some of the old mines and the traditional Ta
 
 ![IMG_2238_LR](IMG_2238_LR.jpg)
 
-> A shot from the balcony of our AirBnb after our day exploring the mining areas
+> A shot from the balcony of our Airbnb after our day exploring the mining areas
 
 ![IMG_2242_LR](IMG_2242_LR.jpg)
 

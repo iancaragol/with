@@ -18,11 +18,11 @@ More than halfway through our flight from London to Santorini, we felt the plane
 
 > Our flight map showing the re-route to Venice, Italy
 
-We got into Santorini around dinner time and had an amazing dinner on-top of a large hill near our AirBnb. We went back to our place after dinner and played some card games before heading off to bed.
+We got into Santorini around dinner time and had an amazing dinner on-top of a large hill near our Airbnb. We went back to our place after dinner and played some card games before heading off to bed.
 
 ![IMG_121](IMG_121.jpg)
 
-> The outside of our AirBnb in Santorini
+> The outside of our Airbnb in Santorini
 
 ![IMG_5224](IMG_5224.jpg)
 
@@ -188,9 +188,9 @@ In Santorini, we spent a lot of our time exploring the streets up and down the c
 
 ![IMG_3300](IMG_3300.jpg)
 
-> The path leading to our AirBnB which can be seen slightly on the right
+> The path leading to our Airbnb which can be seen slightly on the right
 
-On our last "full" day in Santorini we decided to do the hike to Oia. The trail was the same one seen in the picture above (right in front of our AirBnB) and it would take us all the way to Oia along the edge of the caldera. The hike had some really stunning views and we were glad to be in Greece in May as it wasn't too hot yet to make the hike unbearable.
+On our last "full" day in Santorini we decided to do the hike to Oia. The trail was the same one seen in the picture above (right in front of our Airbnb) and it would take us all the way to Oia along the edge of the caldera. The hike had some really stunning views and we were glad to be in Greece in May as it wasn't too hot yet to make the hike unbearable.
 
 ![DSC04452](DSC04452.jpg)
 
@@ -230,7 +230,7 @@ The church was our last stopping point before we descended into Oia along the tr
 
 ![DSC04508](DSC04508.jpg)
 
-We took a taxi back to our AirBnB to catch the sunset from the roof of our house and get some pictures as well before going out to dinner.
+We took a taxi back to our Airbnb to catch the sunset from the roof of our house and get some pictures as well before going out to dinner.
 
 ![DSC04532](DSC04532.jpg)
 

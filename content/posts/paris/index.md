@@ -18,13 +18,13 @@ On Friday, Leah and I hoped on a train from London to Paris 🚆.
 
 > London St. Pancras to Paris Gare du Nord
 
-This train went underneath the English Channel and was only about 2 hours long. We arrived in Paris and took the metro to our AirBnb. On our way up to our AirBnb we had to wait for an elevator that was about the width of my shoulders which was quite comical. While waiting, we noticed a mirror and Leah decided that we needed to take a dancing video every time we were waiting for the elevator to arrive 💃.
+This train went underneath the English Channel and was only about 2 hours long. We arrived in Paris and took the metro to our Airbnb. On our way up to our Airbnb we had to wait for an elevator that was about the width of my shoulders which was quite comical. While waiting, we noticed a mirror and Leah decided that we needed to take a dancing video every time we were waiting for the elevator to arrive 💃.
 
 ![IMG_1423](IMG_1423.jpg)
 
 > G+L dancing while waiting for the elevator
 
-After getting all checked in to our AirBnb, we headed up the street to the Bataclan and got into quite the line for Apashe. I guess if you are an electronic artist *but* you blend it with **classical** music, the French show up in droves.
+After getting all checked in to our Airbnb, we headed up the street to the Bataclan and got into quite the line for Apashe. I guess if you are an electronic artist *but* you blend it with **classical** music, the French show up in droves.
 
 Apashe with a full brass ensemble was majestic 🎺.
 
@@ -46,7 +46,7 @@ Apashe with a full brass ensemble was majestic 🎺.
 
 The audience for Apashe was... **wild**. It was a constant mosh pit of dancing, jumping, and partying. It was a totally different scene from when I saw him the last two times in the US. I was honestly amazing that the crowd managed to have such high energy and then *maintain* it for the entire show. After being up front for only 45 minutes we had to get water and sit down (we felt old haha).
 
-Once Apashe was over, we started to head back to our AirBnb but it was still pretty early so we popped into a restaurant on a street corner for some dessert. We had a glass of wine and some really tasty creme brûlée 🍷.
+Once Apashe was over, we started to head back to our Airbnb but it was still pretty early so we popped into a restaurant on a street corner for some dessert. We had a glass of wine and some really tasty creme brûlée 🍷.
 
 ![IMG_1337](IMG_1337.jpg)
 
@@ -78,7 +78,7 @@ After breakfast, we took the metro over the *Musée d'Orsay* which is a museum t
 
 Museums tend to make Leah and I extremely tired so afterwards, we went to obtain more caffeine at another cafe (and cookies). At the cafe, we met two other US students who were studying abroad in Florence and visiting Paris for the weekend. We chatted with them for over an hour about traveling and they asked for all sorts of advice on places we had been.
 
-After our coffee break, we headed back to our AirBnb on the funky Paris metro.
+After our coffee break, we headed back to our Airbnb on the funky Paris metro.
 
 ![IMG_5658](IMG_5658.jpg)
 
@@ -158,7 +158,7 @@ Once we were done with the thrift stores, I found a cafe that was dedicated to c
 
 Since we were in the area, we wanted to check out the [Notre Dame Cathedral](https://goo.gl/maps/V9dCWWa5wnWZtPjT8). We had been there before, but we wanted to check it out in person since we had not seen it after the big fire that caused a lot of damage. It was surrounded by fences, the windows were mostly knocked out, and the top spires were still completed chared. It was honestly pretty grim still and we were glad we saw it while it looked really nice in 2017.
 
-After the Notre Dame, we headed back to the metro and stop by our AirBnb to change before going out to meet up with my coworker Eléonore for dinner!
+After the Notre Dame, we headed back to the metro and stop by our Airbnb to change before going out to meet up with my coworker Eléonore for dinner!
 
 ![IMG_5684](IMG_5684.jpg)
 
