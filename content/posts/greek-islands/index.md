@@ -166,30 +166,96 @@ Our last stop in the Greek Islands was to head back to Santorini for a few days 
 
 ### Santorini
 
+Our return to Santorini was our last stop in the Greek Islands. We started and ended our trip here since the airport was the easiest to fly in and out of. This time around, we had a whole house to ourselves just north of Thera. The house we had was wonderful and it might have been in a newly developed area because we did not have any direct neighbors next to us so it was a lot quieter than some of the other places we walked by which was quite nice.
+
+In Santorini, we spent a lot of our time exploring the streets up and down the caldera and eating plenty of delicious food!
+
+![IMG_3283](IMG_3283.jpg)
+
+> The side streets of Santorini
+
+![IMG_6423](IMG_6423.jpg)
+
+> Refreshing greek style yogurt with honey, banana, and strawberries
+
+![IMG_6410](IMG_6410.jpg)
+
+> Extremely flavorful Greek souvlaki style chicken
+
+![IMG_6516](IMG_6516.jpg)
+
+> Joe on the edge of a side street in Santorini
+
+![IMG_3300](IMG_3300.jpg)
+
+> The path leading to our AirBnB which can be seen slightly on the right
+
+On our last "full" day in Santorini we decided to do the hike to Oia. The trail was the same one seen in the picture above (right in front of our AirBnB) and it would take us all the way to Oia along the edge of the caldera. The hike had some really stunning views and we were glad to be in Greece in May as it wasn't too hot yet to make the hike unbearable.
+
 ![DSC04452](DSC04452.jpg)
+
+> Leah and Brooks mid-way through the hike
+
 ![DSC04454](DSC04454.jpg)
+
+> Betsy on the hike
+
+Joe set off on the hike a bit before us to go at his own pace and figured we would catch up to him along the way. It turns out, he was actually quite speedy and we didn't even manage to catch up with him until he stopped at a church on-top of a hill to soak in the views
+
 ![DSC04457](DSC04457.jpg)
+
+> Joe at the church on the hill
+
 ![DSC04461](DSC04461.jpg)
+
+> Leah at the church just before Oia (seen in the background)
+
 ![DSC04465](DSC04465.jpg)
-![DSC04474](DSC04474.jpg)
+
+> Betsy and Joe at the church
+
+The church was our last stopping point before we descended into Oia along the trail. Oia was a beautiful town with tons of shops, restaurants, bakeries, and winding streets. It was quite busy though for this reason so we had to carefully navigate our way though the sea of people. Here are some pics we captured while in Oia!
+
 ![DSC04491](DSC04491.jpg)
+
+> The path into Oia
+
+![DSC04474](DSC04474.jpg)
+
 ![DSC04501](DSC04501.jpg)
+
+> A "blue dome" church in Oia with the caldera in the background
+
+![IMG_3265](IMG_3265.jpg)
+
 ![DSC04508](DSC04508.jpg)
+
+We took a taxi back to our AirBnB to catch the sunset from the roof of our house and get some pictures as well before going out to dinner.
+
 ![DSC04532](DSC04532.jpg)
+
+> Brooks on the roof at sunset
+
 ![DSC04533](DSC04533.jpg)
 
 > A stunning view of the sunset and caldera from our house in Santorini
 
 ![DSC04581](DSC04581.jpg)
+
+> G + L striking their "pose" on the roof
+
 ![DSC04632](DSC04632.jpg)
+
+> Brooks looking at majestically over the caldera
+
 ![DSC04633](DSC04633.jpg)
-![IMG_6516](IMG_6516.jpg)
-![IMG_6423](IMG_6423.jpg)
-![IMG_6410](IMG_6410.jpg)
-![IMG_3265](IMG_3265.jpg)
-![IMG_3283](IMG_3283.jpg)
-![IMG_3300](IMG_3300.jpg)
+
+> Another shot of Brooks
+
+For our last night in the Greek Islands, we got a table at a near-by restaurant that looked over the caldera. The sun was just setting as we got our table on the roof. Shortly after the sun set, clouds rolled in and we were absorbed into the fog which was quite scenic in its own sense. Our meal was fantastic and it was a great way to celebrate our last night and reward our very hungry bellies after a long hike in the sun.
 
 ![IMG_3307](IMG_3307.jpg)
 
 > Betsy and Joe with their Coffee + Baileys on our last night in the Greek Islands
+
+We truly enjoyed every second we had in the Greek Islands together and it is a trip my family will certainly always remember. On our last day in Santorini, my dad said to me "*I think these islands are the most beautiful place in the world*" and that statement alone made the whole trip worth it ❤️. I am so grateful that my family got to experience this trip and see a new part of the world together!
