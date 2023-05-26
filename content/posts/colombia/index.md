@@ -208,37 +208,127 @@ We really enjoyed all the flora of Medellin (The City of Eternal Spring) so we s
 
 ### Guatape
 
+Our next stop on our journey in Colombia was Guatape. Guatape is a small area a few hours outside of Medellin and known for its extremely unique rock and water formations (you'll see pics below). We took the bus from Medellin to Guatape and this one was certainly a little more "rough around the edges". The thing that was unique about this bus is that it *did not stop* for its passengers. There was a guy who hung out the door of the bus looking for passengers. People would wave at him and the bus would simply *slow down a bit* as he pulled people onboard while driving past them. While this bus might have been a bit more sketchy, it would feel like luxury compared to one we would ride on later.
+
+We got into Guatape in the afternoon and dropped our bags off at our eco-hostel before exploring the streets of the town and grabbing some food.
+
 ![IMG_2831_LR](IMG_2831_LR.jpg)
+
+> Flowers hanging out the windows of houses on our walk into town
+
 ![IMG_2834_LR](IMG_2834_LR.jpg)
+
+> Pops of color everywhere we looked
+
 ![IMG_2836_LR](IMG_2836_LR.jpg)
+
+> A doggo who looked surprised to see visitors
+
 ![IMG_2837_LR](IMG_2837_LR.jpg)
+
+> A piece of artwork on the side of a house that depicted the main church in the town
+
 ![IMG_2842_LR](IMG_2842_LR.jpg)
-![IMG_2845_LR](IMG_2845_LR.jpg)
+
+> Leah and I getting food from a cafe owned by an older couple in the town. I think it cost $3 as seen on the table
+
 ![IMG_2847_LR](IMG_2847_LR.jpg)
+
+> A motorcycle parked in-front of a small pizza place. We would later go here for dinner and meet another man from Seattle who has been living in Guatape and working remotely
+
+After food, we walked into the center of the town which was just packed with all sorts of vibrant colors and people!
+
+We strolled the streets a bit more, got some dinner, and then headed back to our eco-hostel for the night. It was a wonderful place to stay and it overlooked a small coffee farm.
+
 ![IMG_2852_LR](IMG_2852_LR.jpg)
 ![IMG_2867_LR](IMG_2867_LR.jpg)
 ![IMG_2873_LR](IMG_2873_LR.jpg)
 ![IMG_2882_LR](IMG_2882_LR.jpg)
+
+---
+
+Our next day in Guatape, we set off early to climb TODO which is a huge "egg shaped" rock which has stellar views in all directions. You have to ascend a crisscross pattern of stairs all the way to the top and it is quite tiring.
+
 ![IMG_2889_LR](IMG_2889_LR.jpg)
+
+> Our taxi driver that took us from the town to TODO
+
+![IMG_3095_LR](IMG_3095_LR.jpg)
+
+> The view looking up TODO with the stairs we would be soon ascending
+
 ![IMG_2894_LR](IMG_2894_LR.jpg)
+
+> The "crisscross" stair pattern on our way up
+
 ![IMG_2895_LR](IMG_2895_LR.jpg)
+
+> A photo showing the sheer angle that the rock sticks up out of the ground
+
 ![IMG_2901_LR](IMG_2901_LR.jpg)
+
+> Leah taking a break partway up before her legs fall off
+
 ![IMG_2903_LR](IMG_2903_LR.jpg)
+
+> The view from the very top
+
 ![IMG_2910-HDR_LR](IMG_2910-HDR_LR.jpg)
 ![IMG_2947_LR](IMG_2947_LR.jpg)
+
+> Leah striking a pose at the top
+
 ![IMG_2961_LR](IMG_2961_LR.jpg)
 ![IMG_3060_LR](IMG_3060_LR.jpg)
+
+> G + L
+
 ![IMG_3066_LR](IMG_3066_LR.jpg)
+
+> The stairs going back down - I'm not sure if these pass any sort of safety inspections
+
 ![IMG_3078_LR](IMG_3078_LR.jpg)
+
+> Leah channeling her inner monkey 🐒
+
 ![IMG_3082_LR](IMG_3082_LR.jpg)
 ![IMG_3086_LR](IMG_3086_LR.jpg)
-![IMG_3095_LR](IMG_3095_LR.jpg)
 ![IMG_3100_LR](IMG_3100_LR.jpg)
+
+> These two dogs represented our moods after climbing all the stairs
+
 ![IMG_3111_LR](IMG_3111_LR.jpg)
+
+> A picture of the church in the town center on our way back
+
 ![IMG_3113_LR](IMG_3113_LR.jpg)
+
+> Two guys who really wanted me to take their picture. They also insisted I take shots with them but I gladly declined given the heat
+
+We walked back through the town and out the other side to get to our eco-hostel. It was a long and hot day in the sun so we went back to hangout in some hammocks for a bit.
+
 ![IMG_3118_LR](IMG_3118_LR.jpg)
+
+> A few houses on the path to our eco-hostel
+
 ![IMG_3121_LR](IMG_3121_LR.jpg)
+
+> G + L strolling back to our place
+
 ![IMG_3129_LR](IMG_3129_LR.jpg)
+
+> Arriving at the eco-hostel
+
+After hanging out for a bit we remembered that we didn't have any more bottles of water and I felt a bit iffy about the tap water at the eco-hostel. It was already dark and around 10pm but I figured we would need water before going to bed. The nearest shop with water was only about a 10 minute walk away so we figured *it would be fine*. We put on our shoes and began to stroll back down the path into town. About 2 minutes into our walk the sky begin to rapidly erupt with lightning. It was really beautiful but a bit concerning given it came out of absolutely no where. We got into the shop and bought a few bottles of water. As soon as we headed out of the shop I felt what may have been the largest drop of water land on me in my life. We both looked up to a sky of pure lightning and saw massive drops of rain coming down towards us. Leah yelled "RUN!" and we both started sprinting back down the path. Each raindrop was like getting swatted with a roll of newspaper and within seconds we were drenched. It was seriously the most intense rain I have ever been in. It was like the rainstorm in the first Jurassic park movie when they are trying to escape the island.
+
+We completely gave up on trying to be dry and jogged back to our hostel laughing and yelling in the rain while completely soaked.
+
+We ran out of water and went out to get some... and boy did we get some.
+
+---
+
+Our last day in Guatape we strolled through the town once more to checkout a few more side streets and get some tasty coffee before heading towards our next destination, Cartagena!
+
 ![IMG_3131_LR](IMG_3131_LR.jpg)
 ![IMG_3147_LR](IMG_3147_LR.jpg)
 ![IMG_3157_LR](IMG_3157_LR.jpg)
