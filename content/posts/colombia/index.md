@@ -119,24 +119,91 @@ On our last day, we took a funicular up the mountain range that rests against Bo
 
 ### Medellin
 
+We hopped on a bus and left Bogota to Medellin. While waiting for the bus, we were told an interesting bit of detail from other folks waiting for the same bus. Now, you should probably "fact-check" this information but this is what we were told...
+
+- Me: "Wow the busses are so cheap here! Just a few dollars to go all the way to Bogota to Medellin!"
+- Stranger: "Yes, that is because the busses are all operated by drug cartels and the government turns a blind eye because it provides affordable public transportation."
+- Me: 😮
+
+Now it should be noted that both my parents and Leah's parents were a bit concerned when we told them we were going to Colombia. Not too long ago (80s / 90s) Colombia was largely considered the "most dangerous place in the world" due to rampant violence from drug cartels and kidnappings. However, we read that it has since improved a lot in recent years and is very welcoming to travelers. Thankfully, we felt very safe so far on our trip so we hopped on the bus with smiles. Who knows if our bus was owned by drug cartels or not, but all the other passengers were welcoming and kind. We didn't check under our seats though as a precaution 🙈.
+
+While on our bus ride, Leah had found a small travel blog that suggested an experience I will truly never forget... paragliding! It was run by a local man named Marlon and he was extremely friendly. He picked us up right at our hostel in his van named "La Cheque". We learned that he has driven La Cheque all over South America and its his prized possession. Marlon drove us up a bunch of winding roads to a mountain top that overlooked all of Medellin. Without any wavers or safety talks, Leah and I were strapped into the paragliders with Marlon and his friend.
+
 ![IMG_2732_LR](IMG_2732_LR.jpg)
+
+> The view from the field where we strapped into our paragliders
+
 ![IMG_2740_LR](IMG_2740_LR.jpg)
+
+> Another shot of our take-off view with a few gliders seen in the distance
+
 ![IMG_2772_LR](IMG_2772_LR.jpg)
+
+> Up, up, and away! My feet dangling above the mountains of Medellin
+
 ![IMG_2776_LR](IMG_2776_LR.jpg)
+
+> Up in the air with all the other gliders
+
+Our gliding tour was supposed to be about 30 minutes long in the air for each of us. However, after the last photo seen above, Marlon said that we needed to get higher. How they do this in their gliders was by doing a "corkscrew spin" to gain lift. I lasted about 3 minutes in this manoeuver before I felt violently ill. I said "Marlon, I think I might be sick", and then promptly barfed all over myself, Marlon's pants, and the many cows down below us.
+
+Marlon went down to land and I ripped out of the harness and flopped down into the grass while everything was still spinning. I felt super bad that I blasted Marlon with my stomach contents and he felt really bad that I felt so ill. Leah landed shortly after and Marlon said he would take us to his favorite mountain coffee shop near by to cheer us up.
+
+It turns out the coffee shop was actually a coffee farm and we got to drink delicious coffee while looking out over the very trees it was recently harvested from!
+
 ![IMG_2781_LR](IMG_2781_LR.jpg)
 ![IMG_2785_LR](IMG_2785_LR.jpg)
 ![IMG_2791_LR](IMG_2791_LR.jpg)
+
+> Leah sitting on a bench outside the coffee farm
+
 ![IMG_2793_LR](IMG_2793_LR.jpg)
+
+> One of the many dog friends we met
+
 ![IMG_2797_LR](IMG_2797_LR.jpg)
+
+> Marlon's van "La Cheque"
+
 ![IMG_2800_LR](IMG_2800_LR.jpg)
+
+> Marlon driving us back into Medellin while blasting 2000s pop music
+
+---
+
+Later that day, we decided to checkout the gondola in the hills of Medellin. What is really interesting about this gondola, is that it is not for tourists to "soak in the scenic views" or to visit a great mountain top. Instead, it is a form of public transportation. It is relatively new and has been seen globally as quite innovative. The goal was to help people in lower income communities get into town better since they are located in the hills where it is not very walkable (especially for older residents). People use the gondola to get to work, go to doctors appointments, and bring home groceries. In Medellin, we also learned that the metro is source of great pride for its citizens. The keep it extremely clean and are quite proud of it as not too long ago it wasn't all that safe to take public transportation in the city.
+
 ![IMG_2808_LR](IMG_2808_LR.jpg)
+
+> A view looking down the path of the gondola
+
 ![IMG_2811_LR](IMG_2811_LR.jpg)
+
+> A view out the window of the gondola looking towards the communities it services
+
+We really enjoyed all the flora of Medellin (The City of Eternal Spring) so we strolled and checked out a lot more neighborhoods while we were there.
+
 ![IMG_2814_LR](IMG_2814_LR.jpg)
+
+> An area with botanical gardens that Leah really enjoyed
+
 ![IMG_2826_LR](IMG_2826_LR.jpg)
 ![IMG_3194_LR](IMG_3194_LR.jpg)
+
+> A shopping mall that was designed with tons of archways
+
 ![IMG_3197_LR](IMG_3197_LR.jpg)
+
+> A coffee shop where the price is determined by how politely you order
+
 ![IMG_3201_LR](IMG_3201_LR.jpg)
+
+> Another stop for iced coffee at Pergamino cafe - delicious
+
 ![IMG_3212_LR](IMG_3212_LR.jpg)
+
+> Residential buildings seated upon the hills of Medellin
+
 ![IMG_3218-HDR_LR](IMG_3218-HDR_LR.jpg)
 
 ### Guatape
