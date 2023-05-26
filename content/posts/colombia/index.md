@@ -367,6 +367,10 @@ We saw a single grove of trees with three very different animals 🐿️ 🦥 �
 
 We went back to our hostel afterwards as we had a big day ahead of us tomorrow as we had to figure out logistics for getting to the beach.
 
+---
+
+#### The Playa Blanca Story
+
 The beach we chose to go to was "Playa Blanca". It wasn't too far away but this wasn't a place you could just "plug into Google Maps" to get you there. We first started our journey by hopping on a local bus that took us down the coast. **Holy shit** was this bus a safety hazard... Now at this point, Leah and I had been traveling around Colombia for nearly 10 days and were feeling pretty comfortable, but boy was this bus a culture shock. This bus had a windshield, but there were no side windows left as they had all been smashed out. The seats were a various assortment of chairs that had been bolted to the floor or welded together. I think my chair was a beach chair and Leah's chair looked like it came from an airport. The driver's chair was literally pieces of bent metal and paracord wrapped around it to make a mesh net to sit on. It should go without saying, that this bus did not have seat belts. This bus had no apparent route or schedule but we were pretty sure it was going in the direction we wanted.
 
 We rode the bus for about an hour and a half before getting off with a two other woman who also looked like they were going to a beach. We found ourselves with all our gear standing on the side of a dirt road in the middle of no-where. At this point we probably realized we had messed up. The women who got off with us were nearby climbing into the back of a covered pickup truck. I shouted "Playa Blanca?!", they nodded, and so we dove into the back of the truck. We got lucky as they were going to the same beach and we managed to hitch a ride. No one spoke any English and they probably thought we were lunatics but we made it to the region where the beach was. However, you could only go so far in a car and you have to ride on dirt bikes the rest of the way. So we went from the trunk, to the back of two kid's dirt bikes (with all our gear), and rode on the trail until we popped out on the beach.
@@ -374,6 +378,12 @@ We rode the bus for about an hour and a half before getting off with a two other
 We were staying in a little shack on the beach that was quite nice. It was a straw shake with beds and that was it. No running water, a single lightbulb, and a towel. It was right on the beach and had an amazing view of the sunset. We saw in the beach, soaked up the sun, and had fresh fish from another shack nearby for dinner. After the sun had set, we hopped in a boat and drove up the coast with a few other people to checkout a lagoon that was full of bioluminescence capable plankton. It was one of those experiences where you feel like you're on another planet and something you never forget. As our boat drove into the lagoon, there was a glowing trail of neon blue in the water behind us. Once we got into the center of the lagoon, we hopped in the water and got to swim around under the moonlight. As you kicked your legs, moved your arms, or dragged your fingers through the water, a glowing blue trail would follow. Any movement activated the plankton and they let out a trail of light. It was honestly so incredible that words really won't do it any justice.
 
 The next day, we ran into a bit of a snafu trying to leave the beach. It turns out that since most of the beach doesn't have electricity, there are no ATMs. We had run out of money and didn't have anyway to pay for our dirt bike rides back to the pickup point. The teenagers could kind of understand what we were saying and suggested that they just take us all the way into town when they did a "cooler run" (for food) and we could go with them. They would even take us to an ATM. So a little while later, we were flying through the trees, and then on roadways on the back of two dirt bikes driven by teenagers with all our packs.
+
+We made it back into the city of Cartagena in once piece (surprisingly) and we gave the boys some cash for the ride.
+
+They were incredibly kind and willing to help us out when we got into a pickle. They didn't know us at all, we couldn't speak the same language, but they understood we were in trouble, and they went out of their way to give us help.
+
+Moments like these are really what I think traveling is all about. Whether its missing a train, getting off the bus at the wrong stop in the middle of nowhere / climbing into someones car, or running out of money and flying through the costal jungle on the back of some kid's dirt bike... travel is always an *adventure*. The best part of that adventure is when you inadvertent get yourself into *some shit* and you have to figure your way out either with your own cunning, the help of strangers, or a little bit of each 😉.
 
 ---
 
@@ -420,3 +430,7 @@ After strolling all up and down the old streets of Cartagena, we walked over to 
 ![IMG_3334_LR](IMG_3334_LR.jpg)
 ![IMG_3348_LR](IMG_3348_LR.jpg)
 ![IMG_3355_LR](IMG_3355_LR.jpg)
+
+### Conclusion
+
+Backpacking and traveling around Colombia was a whirlwind of adventure. The people, food, and vibrant colors all around were spectacular. Colombia has so much to offer and showed us a great time. So far, Colombia was our first country to visit in South America and we will certainly be returning in the future to see more of what this beautiful continent has to offer. 🇨🇴
