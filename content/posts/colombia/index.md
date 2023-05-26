@@ -339,22 +339,82 @@ Our last day in Guatape we strolled through the town once more to checkout a few
 
 ### Cartagena
 
+Our last stop in Colombia was Cartagena which is a costal city know for its beaches and sunny warm weather ☀️. When we first got into Cartagena we were hungry so we stopped by an empanada street vendor to grab a snack. Looking back on this, eating random meat pastries from a cart on the sidewalk might have not been the safest bet, but its what you do when traveling and we survived.
+
 ![IMG_3238_LR](IMG_3238_LR.jpg)
+
+> Street vendor with some tasty ham and cheese empanada
+
+After dropping off our bags, we strolled around Cartagena and saw so much diversity with the people, foods, and wildlife.
+
+We saw a single grove of trees with three very different animals 🐿️ 🦥 🐒.
+
 ![IMG_3240_LR](IMG_3240_LR.jpg)
+
+> A sloth hanging from a tree in the park 🦥
+
 ![IMG_3242_LR](IMG_3242_LR.jpg)
+
+> A deep red chipmunk / squirrel having a banana snack 🐿️
+
 ![IMG_3246_LR](IMG_3246_LR.jpg)
+
+> Some kind of monkey 🐒
+
 ![IMG_3248_LR](IMG_3248_LR.jpg)
+
+> Another sloth
+
+We went back to our hostel afterwards as we had a big day ahead of us tomorrow as we had to figure out logistics for getting to the beach.
+
+The beach we chose to go to was "Playa Blanca". It wasn't too far away but this wasn't a place you could just "plug into Google Maps" to get you there. We first started our journey by hopping on a local bus that took us down the coast. **Holy shit** was this bus a safety hazard... Now at this point, Leah and I had been traveling around Colombia for nearly 10 days and were feeling pretty comfortable, but boy was this bus a culture shock. This bus had a windshield, but there were no side windows left as they had all been smashed out. The seats were a various assortment of chairs that had been bolted to the floor or welded together. I think my chair was a beach chair and Leah's chair looked like it came from an airport. The driver's chair was literally pieces of bent metal and paracord wrapped around it to make a mesh net to sit on. It should go without saying, that this bus did not have seat belts. This bus had no apparent route or schedule but we were pretty sure it was going in the direction we wanted.
+
+We rode the bus for about an hour and a half before getting off with a two other woman who also looked like they were going to a beach. We found ourselves with all our gear standing on the side of a dirt road in the middle of no-where. At this point we probably realized we had messed up. The women who got off with us were nearby climbing into the back of a covered pickup truck. I shouted "Playa Blanca?!", they nodded, and so we dove into the back of the truck. We got lucky as they were going to the same beach and we managed to hitch a ride. No one spoke any English and they probably thought we were lunatics but we made it to the region where the beach was. However, you could only go so far in a car and you have to ride on dirt bikes the rest of the way. So we went from the trunk, to the back of two kid's dirt bikes (with all our gear), and rode on the trail until we popped out on the beach.
+
+We were staying in a little shack on the beach that was quite nice. It was a straw shake with beds and that was it. No running water, a single lightbulb, and a towel. It was right on the beach and had an amazing view of the sunset. We saw in the beach, soaked up the sun, and had fresh fish from another shack nearby for dinner. After the sun had set, we hopped in a boat and drove up the coast with a few other people to checkout a lagoon that was full of bioluminescence capable plankton. It was one of those experiences where you feel like you're on another planet and something you never forget. As our boat drove into the lagoon, there was a glowing trail of neon blue in the water behind us. Once we got into the center of the lagoon, we hopped in the water and got to swim around under the moonlight. As you kicked your legs, moved your arms, or dragged your fingers through the water, a glowing blue trail would follow. Any movement activated the plankton and they let out a trail of light. It was honestly so incredible that words really won't do it any justice.
+
+The next day, we ran into a bit of a snafu trying to leave the beach. It turns out that since most of the beach doesn't have electricity, there are no ATMs. We had run out of money and didn't have anyway to pay for our dirt bike rides back to the pickup point. The teenagers could kind of understand what we were saying and suggested that they just take us all the way into town when they did a "cooler run" (for food) and we could go with them. They would even take us to an ATM. So a little while later, we were flying through the trees, and then on roadways on the back of two dirt bikes driven by teenagers with all our packs.
+
+---
+
+*Back in the city of Cartagena*...
+
+The city of Cartagena has a history of being a costal defense city with large walls and even an old fort. Today, you enter through the walls of the old city and enter winding streets with all sorts of street vendors, fresh fruit, and art shops.
+
 ![IMG_3249_LR](IMG_3249_LR.jpg)
+
+> Starting to walk into the old part of the walled city
+
 ![IMG_3252_LR](IMG_3252_LR.jpg)
+
+> Shops, restaurants, and more - just on the other side of the wall
+
 ![IMG_3254_LR](IMG_3254_LR.jpg)
 ![IMG_3259_LR](IMG_3259_LR.jpg)
+
+> All sorts of different fresh fruits
+
 ![IMG_3272_LR](IMG_3272_LR.jpg)
+
+> Leah with a wide assortment of fruits that we tried
+
 ![IMG_3277_LR](IMG_3277_LR.jpg)
 ![IMG_3282_LR](IMG_3282_LR.jpg)
 ![IMG_3293_LR](IMG_3293_LR.jpg)
+
+> Leah standing on-top of the old defense wall
+
 ![IMG_3302_LR](IMG_3302_LR.jpg)
 ![IMG_3309_LR](IMG_3309_LR.jpg)
+
+> A manual "key copy" machine that is still in use by a shop owner
+
+After strolling all up and down the old streets of Cartagena, we walked over to the old fort to explore it. We found our way into the tunnels of the fort and it was the perfect acoustics for me to be a goofball. I echoed into the tunnels "Doooory, I think I found your daaaaad" (Finding Nemo), and Leah almost fell over laughing.
+
 ![IMG_3312_LR](IMG_3312_LR.jpg)
+
+> The view of Cartagena from the top of the old fort
+
 ![IMG_3316_LR](IMG_3316_LR.jpg)
 ![IMG_3330_LR](IMG_3330_LR.jpg)
 ![IMG_3334_LR](IMG_3334_LR.jpg)
