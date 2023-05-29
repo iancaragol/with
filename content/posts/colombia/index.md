@@ -32,7 +32,7 @@ Our first order of business was to try some authentic Colombian **coffee** ☕. 
 
 > A colorful set of buildings
 
-After getting some coffee, we joined a walking tour that showed us a lot of different street art in downtown Bogota. We also tried some local TODO. Many of the locals drink TODO and especially farmers as it is considered "energy breakfast in a cup".
+After getting some coffee, we joined a walking tour that showed us a lot of different street art in downtown Bogota. We also tried a local traditional drink. Many of the locals drink this and especially farmers as it is considered "energy breakfast in a cup".
 
 ![IMG_2417_LR](IMG_2417_LR.jpg)
 
@@ -42,15 +42,13 @@ After getting some coffee, we joined a walking tour that showed us a lot of diff
 ![IMG_2425_LR](IMG_2425_LR.jpg)
 ![IMG_2430_LR](IMG_2430_LR.jpg)
 
-> Two small cups of TODO which is a traditional alcoholic Colombian beverage
+> Two small cups which is a traditional alcoholic Colombian beverage
 
 ![IMG_2431_LR](IMG_2431_LR.jpg)
 
-> Our cup of TODO
-
 ![IMG_2435_LR](IMG_2435_LR.jpg)
 
-> A collection of the dry ingredients that go into TODO
+> A collection of the dry ingredients that go into the traditional drink
 
 We continued down even more streets that were just packed with street art and vibrant colors. So far, we were beginning to learn that Colombia is an incredibly colorful place in its architecture, people, and foods.
 
@@ -247,15 +245,15 @@ We strolled the streets a bit more, got some dinner, and then headed back to our
 
 ---
 
-Our next day in Guatape, we set off early to climb TODO which is a huge "egg shaped" rock which has stellar views in all directions. You have to ascend a crisscross pattern of stairs all the way to the top and it is quite tiring.
+Our next day in Guatape, we set off early to climb [El Peñón de Guatapé](https://en.wikipedia.org/wiki/El_Pe%C3%B1%C3%B3n_de_Guatap%C3%A9) which is a huge "egg shaped" rock which has stellar views in all directions. You have to ascend a crisscross pattern of stairs all the way to the top and it is quite tiring.
 
 ![IMG_2889_LR](IMG_2889_LR.jpg)
 
-> Our taxi driver that took us from the town to TODO
+> Our taxi driver that took us from the town to El Peñón de Guatapé
 
 ![IMG_3095_LR](IMG_3095_LR.jpg)
 
-> The view looking up TODO with the stairs we would be soon ascending
+> The view looking up El Peñón de Guatapé with the stairs we would be soon ascending
 
 ![IMG_2894_LR](IMG_2894_LR.jpg)
 
