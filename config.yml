@@ -67,7 +67,7 @@ params:
   title: Grant Birkinbine's Blog
   description: blog / journal / web posts
   images:
-    - https://user-images.githubusercontent.com/23362539/233788493-f7831c3d-59c1-4aba-b930-afb4afb9e100.png
+    - default.png
   # ------- end -------
 
   ShowReadingTime: true
