@@ -68,7 +68,7 @@ Here are some photos from our first few days in Taipei!
 
 ![IMG_1445_LR](IMG_1445_LR.jpg)
 
-> A shot from the window of the gondola
+> A shot looking out from the window of the gondola
 
 ![DJI_0262_LR](DJI_0262_LR.jpg)
 
