@@ -1,12 +1,14 @@
 ---
 title: "Paris, France"
-description: A short trip to paris
+description: G+L go to Paris for the weekend to see Apashe
 date: 2023-02-10T16:00:00-00:00
 images:
   - IMG_1402.jpg
 draft: false
 cover:
   image: "IMG_1402.jpg"
+  alt: "Paris"
+  caption: "Paris"
   relative: true
 ---
 
