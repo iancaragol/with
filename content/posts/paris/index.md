@@ -1,6 +1,9 @@
 ---
 title: "Paris, France"
+description: A short trip to paris
 date: 2023-02-10T16:00:00-00:00
+images:
+  - IMG_1402.jpg
 draft: false
 cover:
   image: "IMG_1402.jpg"
