@@ -63,6 +63,13 @@ params:
   cover:
     linkFullImages: false # don't make cover images clickable. Leads to bad UX
 
+  # ---- opengraph ----
+  title: Grant Birkinbine's Blog
+  description: blog / journal / web posts
+  images:
+    - https://user-images.githubusercontent.com/23362539/233788493-f7831c3d-59c1-4aba-b930-afb4afb9e100.png
+  # ------- end -------
+
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
