@@ -3,7 +3,7 @@ title: "Greek Islands"
 date: 2023-05-10T00:00:00-00:00
 draft: false
 cover:
-  image: "DSC04501.jpg"
+  image: "cover.jpg"
 ---
 
 ## Greek Islands 🇬🇷
@@ -222,7 +222,7 @@ The church was our last stopping point before we descended into Oia along the tr
 
 ![DSC04474](DSC04474.jpg)
 
-![DSC04501](DSC04501.jpg)
+![cover](cover.jpg)
 
 > A "blue dome" church in Oia with the caldera in the background
 
