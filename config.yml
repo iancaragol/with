@@ -69,7 +69,7 @@ markup:
     lineNoStart: 1
     lineNos: false
     lineNumbersInTable: true
-    noClasses: true
+    noClasses: false
     noHl: false
     style: monokai
     tabWidth: 4
@@ -143,8 +143,8 @@ params:
   #     google:
   #         SiteVerificationTag: "XYZabc"
 
-  # assets:
-  #   disableHLJS: true
+  assets:
+    disableHLJS: true
   #     favicon: "<link / abs url>"
   #     favicon16x16: "<link / abs url>"
   #     favicon32x32: "<link / abs url>"
