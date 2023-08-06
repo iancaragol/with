@@ -1,9 +1,13 @@
 ---
 title: "Bean Quest 1.0"
+description: "Bean Quest - Our first event at Vision Quest Brewery"
 date: 2022-12-10T00:00:00-07:00
 draft: false
 cover:
-  image: "bean-quest.jpg"
+  image: "cover.jpg"
+  alt: "Bean Quest 1.0"
+  caption: "Bean Quest 1.0"
+  relative: true
 ---
 
 ## Bean Quest 1.0
