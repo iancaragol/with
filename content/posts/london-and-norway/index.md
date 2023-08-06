@@ -1,9 +1,13 @@
 ---
 title: "London and Norway"
+description: "London and Norway Trip"
 date: 2022-11-02T00:00:00-07:00
 draft: false
 cover:
   image: "cover.jpg"
+  alt: "London and Norway"
+  caption: "London and Norway"
+  relative: true
 ---
 
 ## London and Norway

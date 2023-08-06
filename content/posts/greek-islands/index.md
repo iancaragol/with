@@ -1,9 +1,13 @@
 ---
 title: "Greek Islands"
+description: "Greek Islands Trip with the Birkinbines"
 date: 2023-05-10T00:00:00-00:00
 draft: false
 cover:
   image: "cover.jpg"
+  alt: "Greek Islands"
+  caption: "Greek Islands"
+  relative: true
 ---
 
 ## Greek Islands 🇬🇷
