@@ -6,7 +6,7 @@ My personal blog about all things
 
 The live site can be found at [blog.birki.io](https://blog.birki.io)
 
-![example](https://user-images.githubusercontent.com/23362539/233788493-f7831c3d-59c1-4aba-b930-afb4afb9e100.png)
+![example](static/default.png)
 
 ## Development 💻
 
