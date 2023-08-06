@@ -58,13 +58,21 @@ markup:
       unsafe: false
       xhtml: false
 
-  # highlight:
-  #     noClasses: false
-  #     anchorLineNos: true
-  #     codeFences: true
-  #     guessSyntax: false
-  #     lineNos: true
-  #     style: onedark
+  # https://gohugo.io/getting-started/configuration-markup/#highlight
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    noHl: false
+    style: monokai
+    tabWidth: 4
 
 params:
   env: production
