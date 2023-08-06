@@ -1,9 +1,13 @@
 ---
 title: "Morocco"
+description: "Markets, camels, mint tea, and the Sahara Desert"
 date: 2023-02-17T15:50:00-00:00
 draft: false
 cover:
-  image: "DSC03717.jpg"
+  image: "cover.jpg"
+  alt: "Morocco"
+  caption: "Morocco"
+  relative: true
 ---
 
 ## Intro
@@ -132,7 +136,7 @@ Some photos we took of the mosque:
 
 > The mosque from the outside
 
-![DSC03717](DSC03717.jpg)
+![cover](cover.jpg)
 
 > Leah doing a mini photo shoot
 

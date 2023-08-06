@@ -1,9 +1,13 @@
 ---
 title: "Colombia"
+description: "Backpacking Colombia"
 date: 2018-02-25T00:00:00-00:00
 draft: false
 cover:
-  image: "IMG_3316_LR.jpg"
+  image: "cover.jpg"
+  alt: "Colombia"
+  caption: "Colombia"
+  relative: true
 ---
 
 ## Colombia 🇨🇴
@@ -423,7 +427,7 @@ After strolling all up and down the old streets of Cartagena, we walked over to 
 
 > The view of Cartagena from the top of the old fort
 
-![IMG_3316_LR](IMG_3316_LR.jpg)
+![cover](cover.jpg)
 ![IMG_3330_LR](IMG_3330_LR.jpg)
 ![IMG_3334_LR](IMG_3334_LR.jpg)
 ![IMG_3348_LR](IMG_3348_LR.jpg)

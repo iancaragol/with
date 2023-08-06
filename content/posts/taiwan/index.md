@@ -1,9 +1,13 @@
 ---
 title: "Taiwan"
+description: "My first trip to Asia was the wonderful country of Taiwan"
 date: 2019-03-25T00:00:00-00:00
 draft: false
 cover:
-  image: "DJI_0402_LR-2.jpg"
+  image: "cover.jpg"
+  alt: "Taiwan"
+  caption: "Taiwan"
+  relative: true  
 ---
 
 ## Taiwan 🇹🇼
@@ -190,7 +194,7 @@ After exploring the Taroko area, we hopped back on the passenger train which too
 
 > The temple at night surrounded by lilies
 
-![DJI_0402_LR-2.jpg](DJI_0402_LR-2.jpg)
+![cover.jpg](cover.jpg)
 
 > A really stunning drone shot I captured at dusk of the temple on the water
 

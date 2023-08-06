@@ -1,9 +1,13 @@
 ---
 title: "Bean Quest 2.0"
+description: "The second rendition of the Bean Quest"
 date: 2023-01-28T19:00:00-07:00
 draft: false
 cover:
-  image: "bean-quest-2.jpg"
+  image: "cover.jpg"
+  alt: "Bean Quest 2.0"
+  caption: "Bean Quest 2.0"
+  relative: true
 ---
 
 ## Bean Quest 2.0

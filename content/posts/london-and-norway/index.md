@@ -1,9 +1,13 @@
 ---
 title: "London and Norway"
+description: "London and Norway Trip"
 date: 2022-11-02T00:00:00-07:00
 draft: false
 cover:
-  image: "g-and-l-boat.jpg"
+  image: "cover.jpg"
+  alt: "London and Norway"
+  caption: "London and Norway"
+  relative: true
 ---
 
 ## London and Norway
@@ -68,7 +72,7 @@ On Sunday, we had a mellow morning and strolled around downtown Bergen to do som
 
 No photos will really do the Fjord cruise justice. It started off pretty slow and I was starting to get worried for a moment. After about an hour we turned into a small river channel between two huge Fjords and from that point on it was just magical. The boat we were on was rather large but compared to the massive slabs of rock sticking out of the water comprising the Fjords above, we felt like an ant.
 
-![g-and-l-boat](g-and-l-boat.jpg)
+![cover](cover.jpg)
 
 At the very end of the channel there was a huge waterfall coming off of the Fjord and the boat pointed itself right for it. The boat *just keep getting closer*. We were standing up front taking pictures and all of a sudden the front of the boat was literally under the waterfall. We got absolutely drenched but we were laughing, freezing, and it was so worth it.
 

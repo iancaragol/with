@@ -1,9 +1,13 @@
 ---
 title: "Apashe"
+description: "Apashe Concert - The Ogden"
 date: 2022-09-09T00:00:00-21:00
 draft: false
 cover:
-  image: "IMG_4231.png"
+  image: "cover.png"
+  alt: "Apashe"
+  caption: "Apashe"
+  relative: true
 ---
 
 ## Apashe
@@ -52,7 +56,7 @@ To top it all off, after the show was over, I chatted with Apashe briefly and ev
 
 > Locked and loaded
 
-![IMG_4231](IMG_4231.png)
+![cover](cover.png)
 
 > 100% majestic
 

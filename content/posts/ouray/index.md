@@ -1,9 +1,13 @@
 ---
 title: "Ouray, CO"
+description: "Ouray Ice Festival 2023"
 date: 2023-01-20T00:00:00-00:00
 draft: false
 cover:
-  image: "IMG_4873.jpg"
+  image: "cover.jpg"
+  alt: "Ouray, CO"
+  caption: "Ouray, CO"
+  relative: true
 ---
 
 ## Ouray Ice Festival 2023

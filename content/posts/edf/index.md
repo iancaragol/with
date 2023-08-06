@@ -1,9 +1,13 @@
 ---
 title: "EDF 2022"
+description: "Electronic Dairy Festival 2022"
 date: 2022-07-02T00:00:00-07:00
 draft: false
 cover:
-  image: "poster.jpg"
+  image: "cover.jpg"
+  alt: "EDF 2022"
+  caption: "EDF 2022"
+  relative: true
 ---
 
 ## EDF 2022
