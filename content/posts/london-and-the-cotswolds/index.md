@@ -1,9 +1,13 @@
 ---
 title: "London and the Cotswolds"
+description: "London and the Cotswolds trip"
 date: 2023-05-05T00:00:00-00:00
 draft: false
 cover:
-  image: "DSC04232.jpg"
+  image: "cover.jpg"
+  alt: "London and the Cotswolds"
+  caption: "London and the Cotswolds"
+  relative: true
 ---
 
 ## London and the Cotswolds 🇬🇧
@@ -94,7 +98,7 @@ The towns of "upper" and "lower" Slaughter were right next to Bourton-on-the-Wat
 
 > Betsy on a canal in upper Slaughter
 
-![DSC04232](DSC04232.jpg)
+![cover](cover.jpg)
 
 > Cottages in upper Slaughter
 
