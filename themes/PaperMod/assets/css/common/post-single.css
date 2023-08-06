@@ -214,7 +214,7 @@
     margin: 20px 0;
     padding: 0 14px;
     color: var(--blockquote);
-    border-inline-start: 3px solid var(--primary);
+    border-inline-start: 3px solid var(--blockquote-bold);
 }
 
 .post-content hr {
