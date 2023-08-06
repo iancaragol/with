@@ -1,5 +1,4 @@
-# see example config here: https://github.com/adityatelange/hugo-PaperMod/blob/exampleSite/config.yml
-# it is on the 'exampleSite' branch of the repo
+# see example config here: https://github.com/adityatelange/hugo-PaperMod/blob/7e5d17f08ac68ef7a365ba63d2f34a8c9f3a962a/config.yml
 
 baseURL: https://blog.birki.io/
 languageCode: en-us
