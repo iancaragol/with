@@ -16,7 +16,7 @@
     --code-bg: rgb(245, 245, 245);
     --border: rgb(238, 238, 238);
     --blockquote: rgb(92, 92, 92);
-    --blockquote-bold: rgb(59, 59, 59);
+    --blockquote-bold: rgb(72, 72, 72);
 }
 
 .dark {
@@ -30,7 +30,7 @@
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
     --blockquote: rgb(132, 132, 132);
-    --blockquote-bold: rgb(175, 175, 175);
+    --blockquote-bold: rgb(152, 152, 152);
 }
 
 .list {
