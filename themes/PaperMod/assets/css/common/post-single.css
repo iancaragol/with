@@ -83,8 +83,7 @@
 }
 
 .post-content del {
-    text-decoration: none;
-    background: linear-gradient(to right, var(--primary) 100%, transparent 0) 0 50%/1px 1px repeat-x;
+    text-decoration: line-through;
 }
 
 .post-content dl,
@@ -215,7 +214,7 @@
     margin: 20px 0;
     padding: 0 14px;
     color: var(--blockquote);
-    border-inline-start: 3px solid var(--primary);
+    border-inline-start: 3px solid var(--blockquote-bold);
 }
 
 .post-content hr {
