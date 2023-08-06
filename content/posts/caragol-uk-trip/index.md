@@ -1,9 +1,13 @@
 ---
 title: "Caragol UK Trip"
+description: "The Caragol family visits the UK"
 date: 2023-04-06T00:00:00-00:00
 draft: false
 cover:
-  image: "IMG_1.jpg"
+  image: "cover.jpg"
+  alt: "Caragol UK Trip"
+  caption: "Caragol UK Trip"
+  relative: true
 ---
 
 ## Caragol UK Trip 🇬🇧
@@ -105,7 +109,7 @@ The Isle of Man was wonderful and really took us by surprise. We managed to chec
 - Went Gorge Walking on the Northern coast of the island
 - Road on a steam train through the countryside
 
-![IMG_1](IMG_1.jpg)
+![cover](cover.jpg)
 
 > The views of the sea from the Peel Castle
 
