@@ -60,6 +60,10 @@ This site uses the [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMo
 
 For more details on configuration, see the [features](https://github.com/adityatelange/hugo-PaperMod/wiki/Features) page on the theme's wiki
 
+## Hugo Shortcodes 📄
+
+Huge has a **ton** of built-in [shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) that can do a bunch of things from rendering GitHub Gists, to Tweets, to YouTube videos, and a whole lot more.
+
 ## Video Support 📹
 
 This site also supports embedded videos with the following extensions:
