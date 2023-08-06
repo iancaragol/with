@@ -7,6 +7,7 @@ images:
 draft: false
 cover:
   image: "IMG_1402.jpg"
+  relative: true
 ---
 
 ## Paris
