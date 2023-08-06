@@ -4,7 +4,7 @@ description: G+L go to Paris for the weekend to see Apashe
 date: 2023-02-10T16:00:00-00:00
 draft: false
 cover:
-  image: "IMG_1402.jpg"
+  image: "cover.jpg"
   alt: "Paris"
   caption: "Paris"
   relative: true
@@ -158,7 +158,7 @@ After walking around Montmartre for a while, Leah had the idea to check out some
 
 Once we were done with the thrift stores, I found a cafe that was dedicated to chocolate and we got some of the richest hot chocolate. They poured chocolate from a tap into a cup and then gave you a beaker of hot milk 🍫. The area we found this cafe in had a bunch of restaurants that had flowers all the way the facade of the building.
 
-![IMG_1402](IMG_1402.jpg)
+![cover](cover.jpg)
 
 Since we were in the area, we wanted to check out the [Notre Dame Cathedral](https://goo.gl/maps/V9dCWWa5wnWZtPjT8). We had been there before, but we wanted to check it out in person since we had not seen it after the big fire that caused a lot of damage. It was surrounded by fences, the windows were mostly knocked out, and the top spires were still completed chared. It was honestly pretty grim still and we were glad we saw it while it looked really nice in 2017.
 
