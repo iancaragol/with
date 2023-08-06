@@ -1,9 +1,13 @@
 ---
 title: "December 2022"
+description: "December 2022 Blog Post"
 date: 2022-12-01T00:00:00-00:00
 draft: false
 cover:
-  image: "IMG_5016.jpg"
+  image: "cover.jpg"
+  alt: "December 2022"
+  caption: "December 2022"
+  relative: true
 ---
 
 ## December 2022
@@ -56,7 +60,7 @@ When Leah and I got back to CO, we went to Steamboat for xmas to ski, snowmobile
 
 ![IMG_5022](IMG_5022.jpg)
 
-![IMG_5016](IMG_5016.jpg)
+![cover](cover.jpg)
 
 ![IMG_2](IMG_2.jpg)
 
