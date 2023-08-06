@@ -42,17 +42,33 @@ If you don't have the `hugo` binary installed, you can simply create a new folde
 
 ```bash
 ---
-title: "Budapest"
-date: 2017-06-23T00:00:00-07:00
-draft: false
+title: "Budapest" # The title of the post
+description: "Budapest trip" # required for open graph
+date: 2017-06-23T00:00:00-07:00 # the date of the post
+draft: false # whether or not the post is a draft
 cover:
-  image: "budapest.jpg"
+  image: "cover.jpg" # the relative path of the cover image in the media bundle - MUST be named cover.[jpg|png|etc]
+  alt: "Budapest" # required for open graph
+  caption: "Budapest" # required for open graph
+  relative: true # required for open graph (since we use page bundles)
 ---
 
 ## Some cool title
 
 Content goes here!
 ```
+
+### Open Graph 🌐
+
+> A quick note about [Open Graph](https://ogp.me/)
+
+For both Open Graph and Twitter Cards to work correctly you **must** include the lines as seen below in your post front matter:
+
+- `description` - the description that will be used in open graph
+- `cover.image` - the relative path of the cover image in the media bundle - This file **must** be named `cover.[jpg|png|etc]`. It is just important that the file's name is `cover` and it has an image extension
+- `cover.alt` - the alt text used in open graph
+- `cover.caption` - the caption used in open graph
+- `relative` - this is also required for open graph and Twitter Cards to work correctly. Since we use [page bundles](https://gohugo.io/content-management/page-bundles/), we need to set this to `true` every time
 
 ## Theme 🎨
 
