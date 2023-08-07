@@ -3,6 +3,8 @@ title: "Caragol UK Trip"
 description: "The Caragol family visits the UK"
 date: 2023-04-06T00:00:00-00:00
 draft: false
+tags: ["europe", "uk"]
+categories: ["travel"]
 cover:
   image: "cover.jpg"
   alt: "Caragol UK Trip"

@@ -3,6 +3,8 @@ title: "Apashe"
 description: "Apashe Concert - The Ogden"
 date: 2022-09-09T00:00:00-21:00
 draft: false
+tags: ["edm", "friends", "colorado"]
+categories: ["event"]
 cover:
   image: "cover.png"
   alt: "Apashe"

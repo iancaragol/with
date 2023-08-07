@@ -3,6 +3,8 @@ title: "Bean Quest 1.0"
 description: "Bean Quest - Our first event at Vision Quest Brewery"
 date: 2022-12-10T00:00:00-07:00
 draft: false
+tags: ["edm", "friends", "colorado"]
+categories: ["event"]
 cover:
   image: "cover.jpg"
   alt: "Bean Quest 1.0"

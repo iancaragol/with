@@ -3,6 +3,8 @@ title: "Paris, France"
 description: G+L go to Paris for the weekend to see Apashe
 date: 2023-02-10T16:00:00-00:00
 draft: false
+tags: ["europe"]
+categories: ["travel"]
 cover:
   image: "cover.jpg"
   alt: "Paris"

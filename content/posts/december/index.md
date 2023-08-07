@@ -3,6 +3,8 @@ title: "December 2022"
 description: "December 2022 Blog Post"
 date: 2022-12-01T00:00:00-00:00
 draft: false
+tags: ["colorado", "edm", "friends"]
+categories: ["memories", "adventure", "event"]
 cover:
   image: "cover.jpg"
   alt: "December 2022"

@@ -3,6 +3,8 @@ title: "EDF 2022"
 description: "Electronic Dairy Festival 2022"
 date: 2022-07-02T00:00:00-07:00
 draft: false
+tags: ["edm", "festival", "friends"]
+categories: ["event"]
 cover:
   image: "cover.jpg"
   alt: "EDF 2022"

@@ -3,6 +3,8 @@ title: "Taiwan"
 description: "My first trip to Asia was the wonderful country of Taiwan"
 date: 2019-03-25T00:00:00-00:00
 draft: false
+tags: ["asia"]
+categories: ["travel"]
 cover:
   image: "cover.jpg"
   alt: "Taiwan"
