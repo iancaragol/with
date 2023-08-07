@@ -8,6 +8,7 @@ theme: [hugo-video, PaperMod]
 paginate: 15
 enableEmoji: true
 enableRobotsTXT: true
+enableInlineShortcodes: true
 
 buildDrafts: false
 buildFuture: false
@@ -156,30 +157,23 @@ params:
   #     hiddenInList: true # hide on list pages and home
   #     hiddenInSingle: true # hide on single page
 
-  # fuseOpts:
-  #     isCaseSensitive: false
-  #     shouldSort: true
-  #     location: 0
-  #     distance: 1000
-  #     threshold: 0.4
-  #     minMatchCharLength: 0
-  #     keys: ["title", "permalink", "summary", "content"]
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
 
-# menu:
-#   main:
-#     - identifier: about
-#       name: 💡 about
-#       url: /about/
-#       weight: 10
-#     - identifier: tags
-#       name: 🏷️ tags
-#       url: /tags/
-#       weight: 20
-#     - identifier:
-#       name: ⭐ featured
-#       url: /featured/
-#       weight: 30
-    # - identifier: example
-    #   name: example.org
-    #   url: https://example.org
-    #   weight: 40
+menu:
+  main:
+    - name: Archive 📚
+      url: archives
+      weight: 5
+    - name: Search 🔍
+      url: search
+      weight: 10
+    - name: Tags 🏷️
+      url: tags
+      weight: 10
