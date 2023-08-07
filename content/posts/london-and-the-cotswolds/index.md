@@ -3,6 +3,8 @@ title: "London and the Cotswolds"
 description: "London and the Cotswolds trip"
 date: 2023-05-05T00:00:00-00:00
 draft: false
+tags: ["europe", "uk"]
+categories: ["travel"]
 cover:
   image: "cover.jpg"
   alt: "London and the Cotswolds"

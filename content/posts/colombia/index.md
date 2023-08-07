@@ -3,6 +3,8 @@ title: "Colombia"
 description: "Backpacking Colombia"
 date: 2018-02-25T00:00:00-00:00
 draft: false
+tags: ["south-america"]
+categories: ["travel"]
 cover:
   image: "cover.jpg"
   alt: "Colombia"

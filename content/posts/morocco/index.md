@@ -3,6 +3,8 @@ title: "Morocco"
 description: "Markets, camels, mint tea, and the Sahara Desert"
 date: 2023-02-17T15:50:00-00:00
 draft: false
+tags: ["africa"]
+categories: ["travel"]
 cover:
   image: "cover.jpg"
   alt: "Morocco"
