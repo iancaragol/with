@@ -168,12 +168,12 @@ params:
 
 menu:
   main:
-    - name: Archive
+    - name: Archive 📚
       url: archives
       weight: 5
-    - name: Search
-      url: search/
+    - name: Search 🔍
+      url: search
       weight: 10
-    - name: Tags
-      url: tags/
+    - name: Tags 🏷️
+      url: tags
       weight: 10
