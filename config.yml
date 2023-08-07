@@ -8,6 +8,7 @@ theme: [hugo-video, PaperMod]
 paginate: 15
 enableEmoji: true
 enableRobotsTXT: true
+enableInlineShortcodes: true
 
 buildDrafts: false
 buildFuture: false
