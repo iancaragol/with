@@ -10,6 +10,7 @@ categories: ["themes", "syntax"]
 aliases: ["migrate-from-jekyl"] # redirect, alias, shorthand url
 ShowToc: true
 TocOpen: true
+searchHidden: false
 
 cover:
   image: "cover.jpg"
