@@ -2,7 +2,7 @@
 title: "Example"
 author: "Hugo Authors"
 description: "This is an example post containing full markdown syntax"
-date: 2023-08-01T00:00:00-07:00
+date: 2000-01-01T00:00:00-00:00
 draft: true
 
 tags: ["markdown", "css", "html", "themes"]
