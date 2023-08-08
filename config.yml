@@ -1,8 +1,8 @@
 # see example config here: https://github.com/adityatelange/hugo-PaperMod/blob/7e5d17f08ac68ef7a365ba63d2f34a8c9f3a962a/config.yml
 
-baseURL: https://blog.birki.io/
+baseURL: https://journal.birki.io/
 languageCode: en-us
-title: 📖 blog
+title: 📖 journal
 theme: [hugo-video, PaperMod]
 
 paginate: 15
@@ -81,15 +81,15 @@ params:
   defaultTheme: auto
 
   homeInfoParams:
-    Title: blog.birki.io
+    Title: journal.birki.io
     Content: >
       #### About
 
-      - 👤 Grant Birkinbine's personal blog / journal / web posts
+      - 👤 Grant Birkinbine's personal journal / travel blog
 
       - 📓 A collection of thoughts, photos, and memories from life.
 
-      - 🌍 This blog contains stories about travels, things, places, and everything in between.
+      - 🌍 This journal contains stories about travels, things, places, and everything in between.
 
       ---
 
@@ -103,8 +103,8 @@ params:
     linkFullImages: false # don't make cover images clickable. Leads to bad UX
 
   # ---- opengraph ----
-  title: Grant Birkinbine's Blog
-  description: blog / journal / web posts
+  title: Grant Birkinbine's Journal
+  description: journal / blog / web posts
   images:
     - default.png
   # ------- end -------
@@ -122,7 +122,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/GrantBirki/blog"
+      url: "https://github.com/GrantBirki/journal"
     - name: linkedin
       url: "https://www.linkedin.com/in/grantbirkinbine/"
     - name: twitter
@@ -131,7 +131,7 @@ params:
       url: "https://instagram.com/grantbirki"
 
   # editPost:
-  #   URL: "https://github.com/GrantBirki/blog/tree/main/content"
+  #   URL: "https://github.com/GrantBirki/journal/tree/main/content"
   #   Text: "Suggest Changes" # edit text
   #   appendFilePath: true # to append file path to Edit link
 
