@@ -14,9 +14,9 @@ permissions:
   pages: write
   id-token: write
 
-# set an environment variable for use in the jobs pointing to my blog
+# set an environment variable for use in the jobs pointing to my site
 env:
-  blog_url: https://blog.birki.io
+  web_url: https://journal.birki.io
 
 jobs:
   # branch-deploy trigger job
@@ -88,7 +88,7 @@ jobs:
           hugo --gc --verbose \
             --baseURL ${{ steps.pages.outputs.base_url }}
 
-      # this step is custom to my blog and adds a 'commit' version to the site
+      # this step is custom to my site and adds a 'commit' version to the site
       - name: write build version
         run: echo ${GITHUB_SHA} > ./public/version.txt
 
@@ -191,7 +191,7 @@ jobs:
 
             **${{ needs.trigger.outputs.actor_handle }}** successfully deployed branch `${{ needs.trigger.outputs.ref }}` to **${{ needs.trigger.outputs.environment }}**
 
-            > [View Live Deployment](${{ env.blog_url }}) :link:
+            > [View Live Deployment](${{ env.web_url }}) :link:
 
       # if the deployment was not successful, add a 'failure' comment
       - name: failure comment

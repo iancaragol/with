@@ -1,10 +1,10 @@
-# blog 🌍
+# journal 🌍
 
-[![deploy](https://github.com/GrantBirki/blog/actions/workflows/deploy.yml/badge.svg)](https://github.com/GrantBirki/blog/actions/workflows/deploy.yml) [![ci](https://github.com/GrantBirki/blog/actions/workflows/ci.yml/badge.svg)](https://github.com/GrantBirki/blog/actions/workflows/ci.yml)
+[![deploy](https://github.com/GrantBirki/journal/actions/workflows/deploy.yml/badge.svg)](https://github.com/GrantBirki/journal/actions/workflows/deploy.yml) [![ci](https://github.com/GrantBirki/journal/actions/workflows/ci.yml/badge.svg)](https://github.com/GrantBirki/journal/actions/workflows/ci.yml)
 
-My personal blog about all things
+My personal journal / blog about all things
 
-The live site can be found at [blog.birki.io](https://blog.birki.io)
+The live site can be found at [journal.birki.io](https://journal.birki.io)
 
 ![example](static/default.png)
 
