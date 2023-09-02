@@ -91,4 +91,4 @@ jobs:
     steps:
       - name: deploy
         id: deployment
-        uses: actions/deploy-pages@v2.0.3
+        uses: actions/deploy-pages@v2.0.4
