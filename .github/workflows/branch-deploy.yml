@@ -167,7 +167,7 @@ jobs:
       # if the deployment was successful, add a 'rocket' reaction to the comment that triggered the deployment
       - name: rocket reaction
         if: ${{ steps.deploy-status.outputs.DEPLOY_STATUS != 'failure' }}
-        uses: GrantBirki/comment@eab1bc94aa728cf526dcd6639bfd067512d4a5cb # pin@v2.0.6
+        uses: GrantBirki/comment@7016e89e8f225b0f18f1fbb7fd10263df2772a05 # pin@v2.0.8
         with:
           comment-id: ${{ needs.trigger.outputs.comment_id }}
           reactions: rocket
@@ -175,7 +175,7 @@ jobs:
       # if the deployment failed, add a '-1' (thumbs down) reaction to the comment that triggered the deployment
       - name: failure reaction
         if: ${{ steps.deploy-status.outputs.DEPLOY_STATUS == 'failure' }}
-        uses: GrantBirki/comment@eab1bc94aa728cf526dcd6639bfd067512d4a5cb # pin@v2.0.6
+        uses: GrantBirki/comment@7016e89e8f225b0f18f1fbb7fd10263df2772a05 # pin@v2.0.8
         with:
           comment-id: ${{ needs.trigger.outputs.comment_id }}
           reactions: "-1"
