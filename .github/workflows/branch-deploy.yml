@@ -42,12 +42,12 @@ jobs:
 
     steps:
       # execute the branch-deploy action
-      - uses: github/branch-deploy@v7.4.0
+      - uses: github/branch-deploy@v8.1.1
         id: branch-deploy
         with:
           trigger: ".deploy"
           environment: "github-pages"
-          production_environment: "github-pages"
+          production_environments: "github-pages"
           skip_completing: "true" # we will complete the deployment manually in the 'result' job
           admins: "GrantBirki"
 
@@ -60,7 +60,7 @@ jobs:
     steps:
       # checkout the project's repository based on the ref provided by the branch-deploy step
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: ${{ needs.trigger.outputs.ref }}
 
