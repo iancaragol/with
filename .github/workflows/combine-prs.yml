@@ -15,14 +15,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: tibdex/github-app-token@3beb63f4bd073e61482598c45c71c1019b59b73a # pin@v2.1.0
-        id: generate-token
+      - name: Use GitHub App Token
+        uses: actions/create-github-app-token@eaddb9eb7e4226c68cf4b39f167c83e5bd132b3e # pin@v1.5.1
+        id: app-token
         with:
-          app_id: ${{ secrets.APP_ID }}
-          private_key: ${{ secrets.PRIVATE_KEY }}
+          app-id: ${{ secrets.APP_ID }} # The ID of the GitHub App
+          private-key: ${{ secrets.PRIVATE_KEY }} # The private key of the GitHub App
 
       - name: combine-prs
-        uses: github/combine-prs@v4.1.0
+        uses: github/combine-prs@v5.0.0
         with:
-          github_token: ${{ steps.generate-token.outputs.token }}
+          github_token: ${{ steps.app-token.outputs.token }}
           labels: combined-pr,dependencies
