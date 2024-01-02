@@ -3,10 +3,8 @@ name: deploy
 on:
   push:
     paths-ignore:
-      - "images/**"
       - "LICENSE"
       - "README.md"
-      - ".github/workflows/**"
       - ".gitignore"
     branches:
       - main
