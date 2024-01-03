@@ -84,7 +84,7 @@ jobs:
 
       # build the site with hugo
       - name: build with hugo
-        run: hugo --gc --baseURL ${{ steps.pages.outputs.base_url }}
+        run: hugo --gc --logLevel info --baseURL ${{ steps.pages.outputs.base_url }}
 
       # this step is custom to my site and adds a 'commit' version to the site
       - name: write build version
