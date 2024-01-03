@@ -92,7 +92,7 @@ jobs:
 
       # upload the built site as an artifact for the deploy step
       - name: upload artifact
-        uses: actions/upload-pages-artifact@v2.0.0
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -106,7 +106,7 @@ jobs:
       # deploy the site to GitHub Pages
       - name: deploy
         id: deployment
-        uses: actions/deploy-pages@v2.0.4
+        uses: actions/deploy-pages@v4
 
   # update the deployment result - manually complete the deployment that was created by the branch-deploy action
   result:

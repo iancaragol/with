@@ -72,7 +72,7 @@ jobs:
         run: echo ${GITHUB_SHA} > ./public/version.txt
 
       - name: upload artifact
-        uses: actions/upload-pages-artifact@v2.0.0
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -87,4 +87,4 @@ jobs:
     steps:
       - name: deploy
         id: deployment
-        uses: actions/deploy-pages@v2.0.4
+        uses: actions/deploy-pages@v4
