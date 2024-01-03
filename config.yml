@@ -10,6 +10,8 @@ enableEmoji: true
 enableRobotsTXT: true
 enableInlineShortcodes: true
 
+enableGitInfo: true
+
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -102,6 +104,13 @@ params:
   cover:
     linkFullImages: false # don't make cover images clickable. Leads to bad UX
 
+  keywords:
+    - journal
+    - web posts
+    - memories
+    - adventure
+    - travel
+
   # ---- opengraph ----
   title: Grant Birkinbine's Journal
   description: journal / blog / web posts
@@ -117,7 +126,7 @@ params:
   ShowRssButtonInSectionTermList: true
   ShowBreadCrumbs: true
   ShowToc: true # table of contents on blog posts
-  # comments: false
+  comments: false
   # images: ["papermod-cover.png"]
 
   socialIcons:
