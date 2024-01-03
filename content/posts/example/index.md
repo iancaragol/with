@@ -1,22 +1,39 @@
 ---
 title: "Example"
-author: "Hugo Authors"
-description: "This is an example post containing full markdown syntax"
-date: 2000-01-01T00:00:00-00:00
-draft: true
+author: ["hugo", "monalisa"] # can be an array or just a string
+description: "This is an example blog post containing full markdown syntax and usage"
 
-tags: ["markdown", "css", "html", "themes"]
-categories: ["themes", "syntax"]
-aliases: ["migrate-from-jekyl"] # redirect, alias, shorthand url
-ShowToc: true
-TocOpen: true
-searchHidden: false
+# The summary is for search engines
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
+date: 2000-01-01T00:00:00-00:00 # date of creation
+
+tags: ["markdown", "css", "html", "themes"] # micro level categories
+aliases: ["markdown-example"] # redirect, alias, shorthand url
+
+categories: ["themes", "syntax"] # high level categories
+categoryColors:
+  themes:
+    gradientStart: "#007FEE"
+    gradientEnd: "#00DBD8"
+  syntax:
+    gradientStart: "#7E25C7"
+    gradientEnd: "#F90183"
+
+ShowToc: true # show table of contents
+TocOpen: true # auto open table of contents
+searchHidden: false # hide from search
+
+# blog post cover image
 cover:
-  image: "cover.jpg"
+  image: "cover.jpg" # the image name MUST ALWAYS be cover.[extension]
   alt: "example"
-  caption: "example"
-  relative: true  
+  caption: "example" # optional caption text
+  relative: true
+
+# lower weight = higher precedence - 0 is interpreted as an unset weight
+weight: 0
+draft: true
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
