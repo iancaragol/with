@@ -42,7 +42,7 @@ jobs:
 
     steps:
       # execute the branch-deploy action
-      - uses: github/branch-deploy@v8.2.0
+      - uses: github/branch-deploy@v8
         id: branch-deploy
         with:
           trigger: ".deploy"
@@ -84,9 +84,7 @@ jobs:
 
       # build the site with hugo
       - name: build with hugo
-        run: |
-          hugo --gc --verbose \
-            --baseURL ${{ steps.pages.outputs.base_url }}
+        run: hugo --gc --logLevel info --baseURL ${{ steps.pages.outputs.base_url }}
 
       # this step is custom to my site and adds a 'commit' version to the site
       - name: write build version
@@ -94,7 +92,7 @@ jobs:
 
       # upload the built site as an artifact for the deploy step
       - name: upload artifact
-        uses: actions/upload-pages-artifact@v2.0.0
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -108,7 +106,7 @@ jobs:
       # deploy the site to GitHub Pages
       - name: deploy
         id: deployment
-        uses: actions/deploy-pages@v2.0.4
+        uses: actions/deploy-pages@v4
 
   # update the deployment result - manually complete the deployment that was created by the branch-deploy action
   result:

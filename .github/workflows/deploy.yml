@@ -35,7 +35,7 @@ jobs:
     steps:
       # https://github.com/github/branch-deploy/blob/d3c24bd92505e623615b75ffdfac5ed5259adbdb/docs/merge-commit-strategy.md
       - name: deployment check
-        uses: github/branch-deploy@v8.2.0
+        uses: github/branch-deploy@v8
         id: deployment-check
         with:
           merge_deploy_mode: "true"
@@ -66,15 +66,13 @@ jobs:
         uses: actions/configure-pages@v4.0.0
 
       - name: build with hugo
-        run: |
-          hugo --gc --verbose \
-            --baseURL ${{ steps.pages.outputs.base_url }}
+        run: hugo --gc --logLevel info --baseURL ${{ steps.pages.outputs.base_url }}
 
       - name: write build version
         run: echo ${GITHUB_SHA} > ./public/version.txt
 
       - name: upload artifact
-        uses: actions/upload-pages-artifact@v2.0.0
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -89,4 +87,4 @@ jobs:
     steps:
       - name: deploy
         id: deployment
-        uses: actions/deploy-pages@v2.0.4
+        uses: actions/deploy-pages@v4

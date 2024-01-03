@@ -33,4 +33,4 @@ jobs:
 
       # build the site with hugo
       - name: build with hugo
-        run: hugo --gc --verbose
+        run: hugo --gc --logLevel info
