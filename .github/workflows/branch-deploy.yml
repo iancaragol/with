@@ -42,7 +42,7 @@ jobs:
 
     steps:
       # execute the branch-deploy action
-      - uses: github/branch-deploy@v8
+      - uses: github/branch-deploy@v9
         id: branch-deploy
         with:
           trigger: ".deploy"
@@ -165,7 +165,7 @@ jobs:
       # if the deployment was successful, add a 'rocket' reaction to the comment that triggered the deployment
       - name: rocket reaction
         if: ${{ steps.deploy-status.outputs.DEPLOY_STATUS != 'failure' }}
-        uses: GrantBirki/comment@7016e89e8f225b0f18f1fbb7fd10263df2772a05 # pin@v2.0.8
+        uses: GrantBirki/comment@d5cdf0243751ca01060946b2cae3722e508b7b16 # pin@v2.0.9
         with:
           comment-id: ${{ needs.trigger.outputs.comment_id }}
           reactions: rocket
@@ -173,7 +173,7 @@ jobs:
       # if the deployment failed, add a '-1' (thumbs down) reaction to the comment that triggered the deployment
       - name: failure reaction
         if: ${{ steps.deploy-status.outputs.DEPLOY_STATUS == 'failure' }}
-        uses: GrantBirki/comment@7016e89e8f225b0f18f1fbb7fd10263df2772a05 # pin@v2.0.8
+        uses: GrantBirki/comment@d5cdf0243751ca01060946b2cae3722e508b7b16 # pin@v2.0.9
         with:
           comment-id: ${{ needs.trigger.outputs.comment_id }}
           reactions: "-1"
