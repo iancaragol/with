@@ -80,7 +80,7 @@ jobs:
       # configure the GitHub Pages action
       - name: setup pages
         id: pages
-        uses: actions/configure-pages@v4.0.0
+        uses: actions/configure-pages@v5.0.0
 
       # build the site with hugo
       - name: build with hugo
