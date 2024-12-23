@@ -154,10 +154,10 @@ To get to Nikko, I would highly recommend taking [SpaciaX](https://www.tobu.co.j
 
 > The interior of the SpaciaX train inside the "Cockpit Lounge"
 
-![window](window.png)
+![window](window.jpg)
 
 > The view out the window of the SpaciaX train
 
-![front](front.png)
+![front](front.jpg)
 
 > The out the front of the SpaciaX train
