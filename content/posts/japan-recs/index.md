@@ -121,6 +121,11 @@ Takayama is known for its **Hida Wagyu** and you should try some if you are ther
 
 > Hida Wagyu from a local street vendor in Takayama
 
+Also make sure to checkout the open air museum in Takayama. It was super lovely during peak fall colors.
+
+![DSC06070](DSC06070.jpg)
+![DSC06077](DSC06077.jpg)
+
 ### Nikko
 
 We just did a day trip from Tokyo to Nikko but we really liked it here as well! Felt a bit like Takayama being nestled in the mountains. The shrines and temples were on a whole other level here.
