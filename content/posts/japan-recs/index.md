@@ -136,4 +136,10 @@ Also make sure to checkout the open air museum in Takayama. It was super lovely 
 
 ### Nikko
 
-We just did a day trip from Tokyo to Nikko but we really liked it here as well! Felt a bit like Takayama being nestled in the mountains. The shrines and temples were on a whole other level here.
+We just did a day trip from Tokyo to Nikko but we really liked it here as well! Felt a bit like Takayama being nestled in the mountains. The shrines and temples were on a whole other level here. The entire shrine area is a UNESCO World Heritage site. There are 42 structures in the area that are of great importance.
+
+In my opinion, the [Toshogu Shrine](https://www.japan-guide.com/e/e3801.html) was the best shrine we saw on our entire trip in Japan. It is incredibly intricate and Nikko is worth a visit just to see this shrine.
+
+![DSC06119](DSC06119.jpg)
+
+> The Toshogu Shrine up close showing the intricate details
