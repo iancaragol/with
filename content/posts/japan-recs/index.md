@@ -76,6 +76,20 @@ The ramen was super unique and unlike any other ramen we had in Japan. If you ar
 - **Why:** Best sushi we had in Japan
 - **What to get:** Sushi
 
+This small sushi is "standing only" and has only a few spots to stand. The sushi is made right in front of you by two chefs. They say that sushi is supposed to be eaten while standing in its traditional form. The sushi here was the best we had on our whole trip in Japan. I would go back to this place in a heartbeat.
+
+![IMG_9858](IMG_9858.jpg)
+
+### [Wagyu, Sashimi, and Sake Tasting](https://www.airbnb.com/experiences/107577)
+
+- **Where:** Osaka
+- **Why:** Personalized experience with a local chef
+- **What to get:** Wagyu, Sashimi, and Sake of course
+
+We did this experience with a local chef in Osaka and it was amazing. You book through AirBnb experiences and meet at a small tepanyaki restaurant in Osaka. The sashimi was served with a delcious flakey sea salt that we really enjoyed. The portions of sake were _hefty_ and the Wagyu was also incredible. I would suggest this to anyone looking to hit great sake, sashimi, and wagyu all in one go.
+
+![IMG_9891](IMG_9891.jpg)
+
 ## Cities
 
 ### Tokyo
