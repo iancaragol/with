@@ -134,6 +134,12 @@ Also make sure to checkout the open air museum in Takayama. It was super lovely 
 ![DSC06070](DSC06070.jpg)
 ![DSC06077](DSC06077.jpg)
 
+Make sure to spend some time walking around and eating a ton of street food in the old town area. It was super charming and the food was great.
+
+![DSC06050](DSC06050.jpg)
+
+> The streets along the river in the old town area of Takayama
+
 ### Nikko
 
 We just did a day trip from Tokyo to Nikko but we really liked it here as well! Felt a bit like Takayama being nestled in the mountains. The shrines and temples were on a whole other level here. The entire shrine area is a UNESCO World Heritage site. There are 42 structures in the area that are of great importance.
