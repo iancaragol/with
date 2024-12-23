@@ -120,17 +120,7 @@ We did this experience with a local chef in Osaka and it was amazing. You book t
 
 ## Cities
 
-### Tokyo
-
-Tokyo is one of those places that everyone really should see once in their lifetime. It is mind blowing how a city of its size exists and functions. At times you might think you are on the ground level of the city, only to realize that you are three stories underground (or 5 stories above ground). It is an wild, busy, and vibrant place. However, it is also a place that can get overwhelming very quickly. We really enjoyed Tokyo but we found ourselves wanting to escape it quickly.
-
-### Kyoto
-
-Incredible place to visit with super rich history. A must see in Japan! We checked out a bunch of shrines / temples that were far off the beaten path and it was great as in some cases we were the only people there. More on this later.
-
-### Osaka
-
-Osaka is still a massive city by all measures but somehow felt more vibrant and alive than Tokyo. We really enjoyed Osaka and wished we had spent more time their than in Tokyo.
+We went to a bunch of cities on our trip through Japan, but here were a few of our favorites that might be worth checking out and aren't your typical Tokyo, Kyoto, Osaka, etc.
 
 ### Kanazawa
 
