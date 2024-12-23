@@ -75,6 +75,18 @@ The ramen was super unique and unlike any other ramen we had in Japan. If you ar
 
 > [tabelog link](https://tabelog.com/en/kyoto/A2601/A260201/26006820/)
 
+![IMG_9927](IMG_9927.jpg)
+
+> The outside
+
+![IMG_9917](IMG_9917.jpg)
+
+> The inside
+
+![IMG_9922](IMG_9922.jpg)
+
+> The results
+
 ### [Mizuhiki-tei](https://maps.app.goo.gl/vNchu5boxSh3Vkh66)
 
 - **Where:** Kanazawa
