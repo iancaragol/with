@@ -40,6 +40,14 @@ We ordered a pour over flight with Geisha coffee and it just tasted so different
 
 We ate here on our last night in Tokyo and were so glad we did. You place your order with an automated machine that spits out your ticket. You give it to the owner and the co-owner (maybe co-chef?) and they whip up your ramen. Its a small cozy place with only a few seats. Fantastic ramen and they were so friendly and welcoming.
 
+![IMG_0095](IMG_0095.jpg)
+
+> (Left) Soy Ramen with _all the toppings_ and (Right) Soy Ramen with Egg - basic
+
+![IMG_0096](IMG_0096.jpg)
+
+> I asked if it was okay to take a picture inside, and the owner (left) thought I was asking to take a picture of them instead. They posed for the picture and it actually turned out great!
+
 ### [Menya Shirakawa](https://maps.app.goo.gl/76szf7FP6WMqtsNm8)
 
 - **Where:** Takayama
