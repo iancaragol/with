@@ -143,3 +143,21 @@ In my opinion, the [Toshogu Shrine](https://www.japan-guide.com/e/e3801.html) wa
 ![DSC06119](DSC06119.jpg)
 
 > The Toshogu Shrine up close showing the intricate details
+
+To get to Nikko, I would highly recommend taking [SpaciaX](https://www.tobu.co.jp/spaciax/en/fun/) on the Tobu Railway. It is a limited express train that goes from Asakusa to Nikko. The train ride was beautiful and the train itself was super nice. It was a bit expensive but worth it.
+
+![IMG_0070](IMG_0070.jpg)
+
+> The outside of the SpaciaX train
+
+![IMG_0065](IMG_0065.jpg)
+
+> The interior of the SpaciaX train inside the "Cockpit Lounge"
+
+![window](window.png)
+
+> The view out the window of the SpaciaX train
+
+![front](front.png)
+
+> The out the front of the SpaciaX train
