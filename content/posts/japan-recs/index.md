@@ -81,6 +81,11 @@ The ramen was super unique and unlike any other ramen we had in Japan. If you ar
 - **Why:** Wholesome Shabu-shabu experience by a husband and wife team
 - **What to get:** Shabu-shabu
 
+This place was delicious and wholesome. Run by a husband and wife team, the two of them run the whole shop and were very kind. We learned from them that "shabu-shabu" means "swish swish" or "cooking cooking" in Japanese. This is because the meat makes a swishing sound when you cook it in the broth.
+
+![IMG_9964](IMG_9964.jpg)
+![IMG_9967](IMG_9967.jpg)
+
 ### [Uogashi Nihon-Ichi](https://maps.app.goo.gl/y4HBZ8qASY9NdSV56)
 
 - **Where:** Tokyo
