@@ -115,6 +115,12 @@ Kanazawa was one of our favorite places in Japan. It is considered a "hidden gem
 
 Takayama is a small town in the Japanese Alps. It was quite suprising to us that it had some of the best street food on our entire trip. It was a great place to do a lot of walking in nature and it was super scenic. The train ride from Kanazawa to Takayama was also one of the most beautiful train rides we have ever been on, especially since it was peak fall colors for us.
 
+Takayama is known for its **Hida Wagyu** and you should try some if you are there.
+
+![DSC06062](DSC06062.jpg)
+
+> Hida Wagyu from a local street vendor in Takayama
+
 ### Nikko
 
 We just did a day trip from Tokyo to Nikko but we really liked it here as well! Felt a bit like Takayama being nestled in the mountains. The shrines and temples were on a whole other level here.
