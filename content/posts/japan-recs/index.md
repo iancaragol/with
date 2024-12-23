@@ -48,6 +48,9 @@ We ate here on our last night in Tokyo and were so glad we did. You place your o
 
 Menya Shirakawa and Menya Shirakawa Bettei are two ramen shops in Takayama that serve the same ramen. The "Bettei" variant is only a few doors down from the non-"Bettei" variant. They are the exact same but the "Bettei" variant is in a more modern (less traditional) building but has extended hours. We went to Bettei as the original was closed when we went. The ramen is damn good and super rich.
 
+![IMG_9994](IMG_9994.jpg)
+![IMG_9993](IMG_9993.jpg)
+
 ### [Wajo Ryo Men Sugari](https://maps.app.goo.gl/fhBjGLwsyjC3VT787)
 
 > AKA Wajoryomen Sugari
