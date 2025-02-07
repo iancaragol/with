@@ -8,7 +8,7 @@
     --header-height: 60px;
     --footer-height: 60px;
     --radius: 8px;
-    --theme: rgb(255, 255, 255);
+    --theme: rgb(245, 245, 245);
     --entry: rgb(255, 255, 255);
     --primary: rgb(30, 30, 30);
     --secondary: rgb(108, 108, 108);
@@ -16,9 +16,11 @@
     --link-in-markdown: rgb(9, 105, 218);
     --content: rgb(31, 31, 31);
     --hljs-bg: rgb(28, 29, 33);
-    --code-bg: #e6e6e6;
+    --code-bg: rgb(230, 230, 230);
+    --toc-bg: rgb(235, 235, 235);
     --page-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
+    --border: rgb(217, 217, 217);
+    --border-extra-light: rgb(238, 238, 238);
     --blockquote: rgb(92, 92, 92);
     --blockquote-bold: rgb(72, 72, 72);
     --default-gradient-start: #007FEF;
@@ -34,8 +36,11 @@
     --link-in-markdown: rgb(83, 155, 245);
     --content: rgb(196, 196, 197);
     --hljs-bg: rgb(46, 46, 51);
-    --code-bg: #37383e;
-    --border: rgb(51, 51, 51);
+    --code-bg: rgb(55, 56, 62);
+    --toc-bg: rgb(52, 53, 59);
+    --page-bg: rgb(29, 30, 32);
+    --border: rgb(58, 58, 58);
+    --border-extra-light: rgb(51, 51, 51);
     --blockquote: rgb(132, 132, 132);
     --blockquote-bold: rgb(152, 152, 152);
     --default-gradient-start: #007FEF;
