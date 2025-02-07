@@ -9,6 +9,10 @@ html {
     overflow-y: scroll;
 }
 
+tr {
+    border-color: var(--border);
+}
+
 a,
 button,
 body,
