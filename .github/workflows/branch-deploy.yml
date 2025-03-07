@@ -36,6 +36,7 @@ jobs:
       deployment_id: ${{ steps.branch-deploy.outputs.deployment_id }}
       environment: ${{ steps.branch-deploy.outputs.environment }}
       ref: ${{ steps.branch-deploy.outputs.ref }}
+      sha: ${{ steps.branch-deploy.outputs.sha }}
       comment_id: ${{ steps.branch-deploy.outputs.comment_id }}
       initial_reaction_id: ${{ steps.branch-deploy.outputs.initial_reaction_id }}
       actor_handle: ${{ steps.branch-deploy.outputs.actor_handle }}
@@ -58,11 +59,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # checkout the project's repository based on the ref provided by the branch-deploy step
+      # checkout the project's repository based on the sha provided by the branch-deploy step
       - name: checkout
         uses: actions/checkout@v4
         with:
-          ref: ${{ needs.trigger.outputs.ref }}
+          ref: ${{ needs.trigger.outputs.sha }}
 
       # read the hugo version from the .hugo-version file in this repository
       - name: set hugo version
