@@ -1,10 +1,10 @@
 # journal 🌍
 
-[![deploy](https://github.com/GrantBirki/journal/actions/workflows/deploy.yml/badge.svg)](https://github.com/GrantBirki/journal/actions/workflows/deploy.yml) [![ci](https://github.com/GrantBirki/journal/actions/workflows/ci.yml/badge.svg)](https://github.com/GrantBirki/journal/actions/workflows/ci.yml)
+[![deploy](https://github.com/iancaragol/with/actions/workflows/deploy.yml/badge.svg)](https://github.com/iancaragol/with/actions/workflows/deploy.yml) [![ci](https://github.com/iancaragol/with/actions/workflows/ci.yml/badge.svg)](https://github.com/iancaragol/with/actions/workflows/ci.yml)
 
-My personal journal / blog about all things
+A blog of thoughts, jots, and bears.
 
-The live site can be found at [journal.birki.io](https://journal.birki.io)
+This repository was copied from [iancaragol/with](https://github.com/iancaragol/with). Thank you Grant!
 
 ![example](static/default.png)
 

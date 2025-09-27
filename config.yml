@@ -1,11 +1,15 @@
 # see example config here: https://github.com/adityatelange/hugo-PaperMod/blob/7e5d17f08ac68ef7a365ba63d2f34a8c9f3a962a/config.yml
 
-baseURL: https://journal.birki.io/
+baseURL: https://withian.net/
 languageCode: en-us
-title: 📖 journal
+title: 📖 Journal
 theme: [hugo-video, PaperMod]
 
-paginate: 15
+pagination:
+  disableAliases: false
+  pagerSize: 15
+  path: page
+
 enableEmoji: true
 enableRobotsTXT: true
 enableInlineShortcodes: true
@@ -79,27 +83,23 @@ markup:
 
 params:
   env: production
-  author: Grant Birkinbine
+  author: Ian Caragol
   defaultTheme: auto
 
   homeInfoParams:
-    Title: journal.birki.io
+    Title: With Ian
     Content: >
-      #### About
-
-      - 👤 Grant Birkinbine's personal journal / travel blog
-
-      - 📓 A collection of thoughts, photos, and memories from life.
-
-      - 🌍 This journal contains stories about travels, things, places, and everything in between.
+      #### (and Paddington)
 
       ---
 
-      - It should be noted that I am no writer and this is not an actual "blog" by any means. It is is mostly a way to save some thoughts and memories from travels and things that I do. It provides an easy means to share them with friends and family as well!
+      #### This is a place to share my journey across Japan and China as well as random thoughts.
 
-      ---
 
       📖 To read a post below, simply click anywhere on the cover image or it's description. Enjoy!
+
+
+      📂 See Categories to filter by a specific type of post 
 
   cover:
     linkFullImages: false # don't make cover images clickable. Leads to bad UX
@@ -110,9 +110,10 @@ params:
     - memories
     - adventure
     - travel
+    - writing
 
   # ---- opengraph ----
-  title: Grant Birkinbine's Journal
+  title: With Ian
   description: journal / blog / web posts
   images:
     - default.png
@@ -131,16 +132,10 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/GrantBirki/journal"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/grantbirkinbine/"
-    - name: twitter
-      url: "https://twitter.com/grantbirki"
-    - name: instagram
-      url: "https://instagram.com/grantbirki"
+      url: "https://github.com/IanCaragol"
 
   # editPost:
-  #   URL: "https://github.com/GrantBirki/journal/tree/main/content"
+  #   URL: "https://github.com/iancaragol/with/tree/main/content"
   #   Text: "Suggest Changes" # edit text
   #   appendFilePath: true # to append file path to Edit link
 
