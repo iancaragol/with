@@ -4,9 +4,7 @@
 
 A blog of thoughts, jots, and bears.
 
-This repository was copied from [iancaragol/with](https://github.com/iancaragol/with). Thank you Grant!
-
-![example](static/default.png)
+This repository was copied from [GrantBirki/journal](https://https://github.com/GrantBirki/journal). Thank you Grant!
 
 ## Development 💻
 

@@ -2,7 +2,7 @@
 
 baseURL: https://withian.net/
 languageCode: en-us
-title: 📖 Journal
+title: 📖 with Ian
 theme: [hugo-video, PaperMod]
 
 pagination:
@@ -87,7 +87,7 @@ params:
   defaultTheme: auto
 
   homeInfoParams:
-    Title: With Ian
+    Title: Adventures with Ian
     Content: >
       #### (and Paddington)
 
@@ -95,11 +95,12 @@ params:
 
       #### This is a place to share my journey across Japan and China as well as random thoughts.
 
+      ---
 
-      📖 To read a post below, simply click anywhere on the cover image or it's description. Enjoy!
+      📖 To read a post below, simply click anywhere on the cover image or it's description
 
 
-      📂 See Categories to filter by a specific type of post 
+      📂 See Categories to filter by area (Japan, Bikepacking, etc...)
 
   cover:
     linkFullImages: false # don't make cover images clickable. Leads to bad UX
@@ -133,6 +134,8 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/IanCaragol"
+    - name: strava
+      url: "https://www.strava.com/athletes/21527643"
 
   # editPost:
   #   URL: "https://github.com/iancaragol/with/tree/main/content"
