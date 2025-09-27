@@ -16,7 +16,7 @@ permissions:
 
 # set an environment variable for use in the jobs pointing to my site
 env:
-  web_url: https://journal.birki.io
+  web_url: https://withian.net
 
 jobs:
   # branch-deploy trigger job
@@ -50,7 +50,7 @@ jobs:
           environment: "github-pages"
           production_environments: "github-pages"
           skip_completing: "true" # we will complete the deployment manually in the 'result' job
-          admins: "GrantBirki"
+          admins: "iancaragol"
 
   # build the github-pages site with hugo
   build:
