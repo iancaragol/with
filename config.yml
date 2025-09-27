@@ -2,7 +2,7 @@
 
 baseURL: https://withian.net/
 languageCode: en-us
-title: 📖 with Ian
+title: 📖 Adventures with Ian
 theme: [hugo-video, PaperMod]
 
 pagination:
@@ -175,6 +175,9 @@ params:
 
 menu:
   main:
+    - name: Gallery 📷
+      url: gallery
+      weight: 3
     - name: Search 🔍
       url: search
       weight: 5
