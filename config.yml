@@ -184,6 +184,9 @@ menu:
     - name: Archive 📚
       url: archives
       weight: 10
+    - name: Dear Aunt Lucy
+      url: dearauntlucy
+      weight: 12 
     - name: Tags 🏷️
       url: tags
       weight: 15
