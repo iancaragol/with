@@ -2,7 +2,7 @@
 
 baseURL: https://withian.net/
 languageCode: en-us
-title: 📖 journal
+title: 📖 Journal
 theme: [hugo-video, PaperMod]
 
 pagination:
@@ -87,15 +87,19 @@ params:
   defaultTheme: auto
 
   homeInfoParams:
-    Title: withian.net
+    Title: With Ian
     Content: >
-      #### About
-
-      A place for thoughts and jots
+      #### (and Paddington)
 
       ---
 
+      #### This is a place to share my journey across Japan and China as well as random thoughts.
+
+
       📖 To read a post below, simply click anywhere on the cover image or it's description. Enjoy!
+
+
+      📂 See Categories to filter by a specific type of post 
 
   cover:
     linkFullImages: false # don't make cover images clickable. Leads to bad UX
@@ -106,6 +110,7 @@ params:
     - memories
     - adventure
     - travel
+    - writing
 
   # ---- opengraph ----
   title: With Ian
@@ -127,7 +132,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/IanCaragol/with"
+      url: "https://github.com/IanCaragol"
 
   # editPost:
   #   URL: "https://github.com/iancaragol/with/tree/main/content"
