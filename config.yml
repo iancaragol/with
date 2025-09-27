@@ -17,7 +17,7 @@ enableInlineShortcodes: true
 enableGitInfo: true
 
 buildDrafts: false
-buildFuture: false
+buildFuture: true # Allow posts with future dates
 buildExpired: false
 
 minify:

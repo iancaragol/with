@@ -29,7 +29,7 @@ cover:
 
 # lower weight = higher precedence - 0 is interpreted as an unset weight
 weight: 0
-draft: true
+draft: false
 ---
 
 This is a big trip, the biggest I have ever taken, and a lot has gone into the preparation. I wanted to thank the following people who really helped me out!
