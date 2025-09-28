@@ -100,7 +100,7 @@ params:
       📖 To read a post below, simply click anywhere on the cover image or it's description
 
 
-      📂 See Categories to filter by area (Japan, Bikepacking, etc...)
+      📂 See Categories to filter by area (Japan, Bikepacking, Dear Aunt Lucy, etc...)
 
   cover:
     linkFullImages: false # don't make cover images clickable. Leads to bad UX
