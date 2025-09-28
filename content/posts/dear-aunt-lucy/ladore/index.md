@@ -45,6 +45,6 @@ Each boat has two to three of these rafters on it. They are truly quite large, o
 … to be continued!
 
 
-![Paddington At Camp](paddington_1.jpeg)
+![Paddington At Camp](paddington_1.png)
 
 
