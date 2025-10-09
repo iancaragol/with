@@ -23,7 +23,7 @@ searchHidden: false # hide from search
 cover:
   image: "cover.jpg" # the image name MUST ALWAYS be cover.[extension]
   alt: "Chitose bike assembly"
-  caption: "Bike assembling in Chitose Airport“
+  caption: "Bike assembling in Chitose Airport"
   relative: true
 
 # lower weight = higher precedence - 0 is interpreted as an unset weight
