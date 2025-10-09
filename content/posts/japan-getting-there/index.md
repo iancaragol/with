@@ -41,7 +41,7 @@ Once you see your bike being loaded onto the plane, you can breathe a big sigh o
 
 ![](./bikebox_loaded.jpeg)
 
-Then it was a simple flight to LAX, where I got lost in the giant airport. They really need to work on their signage. I find airports fascinating because there is so much engineering and logistics on display. I watched as the Air Freight was loaded and the Flying Food Group delivered all of our meals to the 787 Dreamliner I would be taking to Japan. To think that each airline has a different menu, which gets made near the airport that day, then gets delivered to the correct plane, in a box that is designed specifically to not roll away during turbulence and fit down the aisle of a plane. Well - that’s pretty amazing!
+Then it was a simple flight to LAX, where I got lost in the giant airport. They really need to work on their signage. I find airports fascinating because there is so much engineering and logistics on display. I watched as the Air Freight was loaded and the Flying Food Group delivered all of our meals to the 787 Dreamliner that I would be taking to Japan. To think that each airline has a different menu, which gets made near the airport that day, then gets delivered to the correct plane, in a box that is designed specifically to not roll away during turbulence and fit down the aisle of a plane. Well - that’s pretty amazing!
 
 ![](./ana_food_truck.jpeg)
 
@@ -55,7 +55,7 @@ I ended up leaving my bike in Luggage storage, which cost as much as my hostel, 
 
 This is where things got a little too close for comfort. My plane left at 6:55 AM, and the luggage storage opened at 5:45. So I had just over an hour. But, in my sleep deprived state, I made a mistake, and got off the train at Terminal 3. It turns out Terminal 3 is practically a different airport, so I had to catch the bus to Terminal 2. That was 15 minutes lost.
 
-I quickly picked up my bike, which is HUGE and very difficult to navigate through a crowd ed airport, and made my way to the check in. I was saved by the kind employee who asked when my flight left, when I said it leaves at 6:55, she rushed me to the front of the line. I would not have made the plane without the help of the kind people at the check in counter. They checked my bike for free, because there was not enough time, and security opened it up, and checked it right there on the scale, while it was still being processed!
+I quickly picked up my bike, which is HUGE and very difficult to navigate through a crowd ed airport, and made my way to the check in. I was saved by the kind employee who asked when my flight left, when I said it leaves at 6:55, she rushed me to the front of the line. I would not have made the plane without the help of the kind people at the check in counter. They checked my bike for free, because there was not enough time. Security opened it up, and checked it right there on the scale, while it was still being processed!
 
 Then I RUSHED through security and made the flight, just in time. And luckily my bike did too.
 
