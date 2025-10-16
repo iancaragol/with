@@ -31,45 +31,83 @@ weight: 0
 draft: false
 ---
 
-I made it without any trouble, but there were some close calls!
+I have learned a LOT of things in my first 5 days, but for the sake of organization, lets keep them in chronological order.
 
-It’s quite difficult to travel with a bike, especially one that is 3 CM under the maximum size allowed on a plane, but every employee was incredibly accommodating, and it ended up being quite straightforward. At DIA, they simply took one look at my bike box, let the extra .5 pounds slide, and sent it on its way!
+## Sapporo
 
-Of course the I forgot to take the water out of my bottle and got scolded by TSA, I wonder how many times that happens a day?
+Sapporo is the biggest city in Hokkaido, and you *really* feel that on a bike! The ride from the airport wasn’t so bad, it was along the highway and there were many conbinis to keep me fueled. Along the way I met Shoki, another rider from Southern Osaka. We were both surprised to see each other as we made eye contact from the other side of the highway.
 
-Once you see your bike being loaded onto the plane, you can breathe a big sigh of relief.
+Shoki was very impressive, he carried most of his gear in a backpack! According to him, Hokkaido was good for sleeping because there are many bus shelters. It was an excellent reminder that, you really just need a bike, and whatever gear you have, to go on an adventure. I find myself getting overly focused on the perfect piece of equipment, but as you will see below, you never get everything exactly right.
 
-![](./bikebox_loaded.jpeg)
+I was glad to run into Shoki because we made a few extra stops along the way, I was very focused on making it to my hostel (which I had accidentally booked 13KM outside of town), but he reminded me that its OK to slow down, on my first day! Although, I haven’t really listened to that bit of advice…
 
-Then it was a simple flight to LAX, where I got lost in the giant airport. They really need to work on their signage. I find airports fascinating because there is so much engineering and logistics on display. I watched as the Air Freight was loaded and the Flying Food Group delivered all of our meals to the 787 Dreamliner that I would be taking to Japan. To think that each airline has a different menu, which gets made near the airport that day, then gets delivered to the correct plane, in a box that is designed specifically to not roll away during turbulence and fit down the aisle of a plane. Well - that’s pretty amazing!
+Riding through Sapporo is a skill on its own. City riding in Japan is like a video game, you need to navigate:
+- Switching between the road and sidewalk
+- Overgrown or rough sidewalks
+- Inconsistent stoplights (sometimes all way stop, sometimes no walking sign)
+- Students sending it on mama cheri (Mama’s Chariot, colloquial name for a city bike)
+- Big signs and flashing lights
+- Grandparents strolling along
 
-![](./ana_food_truck.jpeg)
+It’s fun, but slow going, and you really need to watch out!
 
-My flight was out of a movie. I had a middle seat, and to my left, was Yuki who was terribly sick. He had a horrible cough and fever, but we both wore masks, and the flight attendants took great care of him. They came by at least once an hour with more tea, medicine, and even a hot pad! It worked out for me too, because I did not feel so bad about asking for some tea myself. To my right, was Rosa. Her whole family was in first class, and she wanted to make the most of being in economy by asking for as much white wine as possible. And the flight attendants were generous! Despite my apprehension in the first 30 minutes of the flight, all was well, and I had two great neighbors. I just ended up watching movies.
+The next day was quite a bit shorter, really I just went from the Hostel, which was on the outskirts of town, to a hotel in Susukino. I hadn’t been to Sapporo since the Yuki Matsuri (Snow Festival) in 2016. It was really fun to walk around a Japanese city again - it reminded me of when I studied abroad in Tokyo. I stopped at the Taino Station for a game of Chunithm, and Don Quixote (an everything store, it’s where I would get cheap beef!) just to be over-stimulated.
 
-When I landed in Haneda (11 PM) I was pleased to see that my bike had made it, but, I had a problem. I thought that I could just sleep in the Terminal and catch my flight to Sapporo in the morning. HOWEVER, since I switched to domestic, I had to pick up all of my luggage, and the domestic terminal closes at night.
+![In front of the famous Sapporo Radio Tower](./sapporo.jpeg)
 
-I ended up leaving my bike in Luggage storage, which cost as much as my hostel, and catching the train about 15 minutes away. The hostel was great - it had a huge selection of Manga, and a kind host (Toichi-San). But I was only able to spend a few hours there before I had to catch the first train of the morning back to the airport. It reminded me of when I studied in Tokyo, we would stay out all night, and then catch the 5:30 train back home.
+Luckily for me, the Hokkaido Harvest Festival was happening in Odori Park - I tried out various local foods. My favorite was a daikon radish soup. One thing I forgot to pack (and could have used for my soup) was a spoon! Luckily, there was a spoon making workshop  where I made a spoon out of birch.
 
-![](./hostel.jpeg)
+![Making a spoon at the harvest festival](./spoon.jpeg)
 
-This is where things got a little too close for comfort. My plane left at 6:55 AM, and the luggage storage opened at 5:45. So I had just over an hour. But, in my sleep deprived state, I made a mistake, and got off the train at Terminal 3. It turns out Terminal 3 is practically a different airport, so I had to catch the bus to Terminal 2. That was 15 minutes lost.
+I consider the next day the true start of my trip, I made my way out of Sapporo and into the country side, winding at perfect right angles through the fields. As I rode past a small house, an older lady who was gardening looked up and waved, that’s when it felt like the start of something.
 
-I quickly picked up my bike, which is HUGE and very difficult to navigate through a crowd ed airport, and made my way to the check in. I was saved by the kind employee who asked when my flight left, when I said it leaves at 6:55, she rushed me to the front of the line. I would not have made the plane without the help of the kind people at the check in counter. They checked my bike for free, because there was not enough time. Security opened it up, and checked it right there on the scale, while it was still being processed!
+The really tiny towns have only 1-2 places to eat, and they keep very odd hours. Usually 11-1 or until they run out of food. I made it to a small restaurant just in time. They had run out of everything but ramen, which was excellent. Here I learned my new favorite word: 大盛り（おおもり) (oomori) which means ‘large helping’. Since then I always order oomori!
 
-Then I RUSHED through security and made the flight, just in time. And luckily my bike did too.
+I made it to my first campsite, where I was the only one. And no wonder, because it was cold!!
 
-At Chitose airport, I had one final challenge. Bike assembly and Gomi (trash) disposal. In Japan you usually take your trash back home, that is quite difficult to do when you have a bike box. But I was more worried than I needed to be. I asked the janitor where I could assemble it, and if I could leave the box, and he kindly said yes! He even came by and hour or so later with a friend to pick it up.
+![My first campsite](hobestu_camp.jpeg)
 
-![](./packed_box.jpeg)
+The next day was stunning, but quite challenging, and a learning experience. First I found that many of the roads in Japan are just permanently closed. Like many things here, once they fall into disrepair, due to a landslide or something like that, they never open again. I was unable to take my intended route and had to stick to the highway which had many tunnels.
 
-So basically, the travel went about as good as it could have been. Now to make my way to Sapporo!
+Tunnels are scary, you cannot tell which direction a car is coming from, you only hear the roar. It sounds a lot like an airplane overhead. There aren’t any sidewalks, but most of the trucks and cars give you plenty of space. You just need to ride as quickly as possible, in as consistent of a manner as possible.
 
-### Lessons Learned
+A Garmin Varia or other radar is a must for this, because it can at least tell you when a car is coming from behind! The worst tunnels are uphill and windy, it makes it hard to keep a perfectly straight line, and takes forever.
 
-- TSA opens bike boxes, so use one that has plastic closure and make sure nothing is loose
-- Be careful about assuming when/where you can sleep in an airport
-- Don’t forget to install your ESIM ahead of time
-- Don’t book your hotel while standing in the customs line so that you can fill out the paperwork, because you will accidentally book a hotel 16km out of town
-- Don’t forget to bring your Passmo for the train (you can get a new one for 500 yen deposit
-- Ask for help with your bike!
+But after many Kms of tunnels, I have adopted the “しょうがない (syoganai)“ or, “there is nothing to be done” mindset. You can’t avoid the tunnels!
+
+![A particularly friendly tunnel (with a rare sidewalk!)](tunnel.jpeg)
+
+After a very cold night, and a questionable forecast, I was keen to make it to the logging town of Minami Furano. It was a beautiful ride, and I enjoyed 2 lunches at the Michi no Eki (Roadside Station) in Shimukappu. I rolled into Minami Furano just as it was getting dark, and discovered that you should make a reservation at the inns in these small towns! The first one was full, and the second had one room left, but they were very surprised that I had not called ahead.
+
+![Mountain Pass to Minami Furano](./mtn_pass.jpeg)
+
+![Minami Furano](./minami_furano.jpeg)
+
+So the next morning I picked up the Pay Phone, for the first time in my life, and called a few places near Shikaoi. Without context clues and body language, a lot of my Japanese breaks down, but I was successfully able to make a reservation at Shoki-san’s ドラム館　(ドラムかん） (doramu kan), an inn outside of Shikaoi. I am proud of that!
+
+And it was a good thing too, because it rained for most of the day! I completely gave up on keeping my feet and legs dry and adopted the “just don’t stop pedaling and you will stay warm enough” strategy. As I climbed over a pass, I was treated with a break in the could and a stunning double rainbow.
+
+![Rainy Pass before Shikaoi](./rainy_pass.jpeg)
+
+![A nice treat](./rainbow.jpeg)
+
+
+The drum house was amazing. Shoki-San and is brother live there, they are both musicians and their living room is full of instruments. When I arrived, sopping wet, Shoki-San laid out a tarp for all of my gear in the entry way, showed me to the bath, and said “Should we go to the onsen at 5?”. Yes please!
+
+So the three of us hopped into the car and drove to the onsen, where I soaked in the various baths and did my best to understand the conversations around me. The local onsen was a very social place! More than any moment yet, this one felt like I was truly in Japan.
+
+We spent dinner chatting about travel, Germany (Shoki-San’s sister lived there, and he traveled around in the 80s), and music. He showed me his favorite Japanese artist, Yosui Inoue, and I showed him mine, RADWIMPS.
+
+In the morning I was greeted with an amazing breakfast, with my plate being at least twice as big. Oomori indeed! It fueled me well for the climb into Daisetsuzan National Park.
+
+As I left the drum house, Shoki-San and his brother followed me down the driveway, waving, and callout out “行ってらっしゃい (itterashai)” which has a warm implication of safety and an expectation to return.
+
+I am so excited to continue across Hokkaido and Japan, meeting folks like Shoki-San, practicing Japanese, and enjoying the grand view that comes usually comes after a tunnel.
+
+![Drum House with Shoki-San (left) and his brother](shokisan.jpeg)
+
+Until next time!
+
+Ian
+
+
