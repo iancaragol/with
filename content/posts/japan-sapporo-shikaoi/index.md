@@ -79,17 +79,21 @@ I made it to my first campsite, where I was the only one. And no wonder, because
 
 The next day was stunning, but quite challenging, and a learning experience. First I found that many of the roads in Japan are just permanently closed. Like many things here, once they fall into disrepair, due to a landslide or something like that, they never open again. I was unable to take my intended route and had to stick to the highway which had many tunnels.
 
-Tunnels are scary, you cannot tell which direction a car is coming from, you only hear the roar. It sounds a lot like an airplane overhead. There aren’t any sidewalks, but most of the trucks and cars give you plenty of space. You just need to ride as quickly as possible, in as consistent of a manner as possible.
+Tunnels are scary. You cannot tell which direction a car is coming from, you only hear the roar. It sounds a lot like an airplane overhead. There aren’t any sidewalks, but most of the trucks and cars give you plenty of space. You just need to ride as quickly as possible, in as consistent of a manner as possible.
 
 A Garmin Varia or other radar is a must for this, because it can at least tell you when a car is coming from behind! The worst tunnels are uphill and windy, it makes it hard to keep a perfectly straight line, and takes forever.
 
 But after many Kms of tunnels, I have adopted the “しょうがない (shoganai)“ or, “there is nothing to be done” mindset. You can’t avoid the tunnels!
 
+I stopped to take a picture in this particularly friendly tunnel (below).
+
 ![A particularly friendly tunnel (with a rare sidewalk!)](tunnel.jpeg)
 
 ## Minami Furano - reservations needed
 
-After a very cold night, and a questionable forecast, I was keen to make it to the logging town of Minami Furano. It was a beautiful ride, and I enjoyed 2 lunches at the Michi no Eki (Roadside Station) in Shimukappu. I rolled into Minami Furano just as it was getting dark, and discovered that you should make a reservation at the inns in these small towns! The first one was full, and the second had one room left, but they were very surprised that I had not called ahead.
+After a very cold night, and a questionable forecast, I was keen to make it to the logging town of Minami Furano. It was a beautiful ride, and I enjoyed 2 lunches at the Michi no Eki (Roadside Station) in Shimukappu. I rolled into Minami Furano just as it was getting dark, and discovered that you should make a reservation at the inns in these small towns! The first one was full, and the second had one room left. They were *very* surprised that I had not called ahead.
+
+Phone is the only way to make reservations in the smaller towns. No booking.com!
 
 ![Mountain Pass to Minami Furano](./mtn_pass.jpeg)
 
@@ -97,15 +101,15 @@ After a very cold night, and a questionable forecast, I was keen to make it to t
 
 ## Shikaoi - Shoki-San and the Drum House
 
-So the next morning I picked up the Pay Phone, for the first time in my life, and called a few places near Shikaoi. Without context clues and body language, a lot of my Japanese breaks down, but I was successfully able to make a reservation at Shoki-san’s ドラム館　(ドラムかん） (doramu kan), an inn outside of Shikaoi. I am proud of that!
+So the next morning I picked up the Pay Phone, for the first time in my life, and called a few places near Shikaoi. Without context clues and body language, a lot of my Japanese breaks down. Luckily, I was successfully able to make a reservation at Shoki-san’s ドラム館　(ドラムかん） (doramu kan), an inn outside of Shikaoi. I am proud of that!
 
-And it was a good thing too, because it rained for most of the day! I completely gave up on keeping my feet and legs dry and adopted the “just don’t stop pedaling and you will stay warm enough” strategy. As I climbed over a pass, I was treated with a break in the could and a stunning double rainbow.
+And it was a good thing too, because it rained for most of the day! I completely gave up on keeping my feet and legs dry and adopted the “just don’t stop pedaling and you will stay warm enough” strategy. As I climbed over a pass, I was treated with a break in the clouds and a stunning double rainbow.
 
 ![Rainy Pass before Shikaoi](./rainy_pass.jpeg)
 
 ![A nice treat](./rainbow.jpeg)
 
-The drum house was amazing. Shoki-San and is brother live there, they are both musicians and their living room is full of instruments. When I arrived, sopping wet, Shoki-San laid out a tarp for all of my gear in the entry way, showed me to the bath, and said “Should we go to the onsen at 5?”. Yes please!
+The drum house (literally their house) was amazing. Shoki-San and is brother live together. They are both musicians and their living room is full of instruments. When I arrived, sopping wet, Shoki-San laid out a tarp for all of my gear in the entry way, showed me to the bath, and said “Should we go to the onsen at 5?”. Yes, please!
 
 So the three of us hopped into the car and drove to the onsen, where I soaked in the various baths and did my best to understand the conversations around me. The local onsen was a very social place! More than any moment yet, this one felt like I was truly in Japan.
 
