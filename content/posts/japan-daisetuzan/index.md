@@ -33,7 +33,7 @@ draft: false
 
 ## Daisetsuzsan National Park
 
-Fueled by a double helping of Shoki-San’s breakfast I left Shikaoi to climb into the mountains of Daisetsuzan National Park. The climb was slow and quiet. The flora changed drastically as I wound my way up the mountainside, from broad leaf shrubs to pine trees. It felt like riding into fall. With each corner it got colder and colder.
+Fueled by a double helping of Shoki-San’s breakfast I left Shikaoi to climb into the mountains of Daisetsuzan National Park. The climb was slow and quiet. The flora changed drastically as I wound my way up the mountainside, from broad leaf shrubs to pine trees. It felt like riding into fall and with each corner it got colder and colder.
 
 ![Welcome to Daisetsuzan National Park](daisetsuzan_sign.jpeg)
 
@@ -103,11 +103,11 @@ So I ran up Mt. Hokuchin and found myself blown away. By the wind and by the vie
 On the way back down, I got to practice my Jack Sparrow run. The top of Kurodake was now packed with people, and the trail had become a solid sheet of ice from hundreds of feet. There are two ways to approach this type of trail.
 
 1. With caution, each step placed carefully on the least slippery patch of ice
-2. In a constant state of falling, but, if you ever actually fall, are you really falling?
+2. In a constant state of falling, but, if you never hit the ground, are you really falling?
 
 I put on the Pirates of the Caribbean soundtrack and opted for option 2. You just have do your best Jack Sparrow impression and trust your feet. I did slip twice, but I made it down in record time!
 
-I was too stubborn to take the tram down, which the exact same mistake I made when I hiked Takayama while I was studying abroad in Tokyo. I decided not to take the cable car down and ended up hiking several miles down, on a forgotten trail. Then I missed the last bus to the station and a stranger was kind enough to give me a ride.
+I was too stubborn to take the tram down, which the exact same mistake I made when I hiked Takayama while I was studying abroad in Tokyo. Back then I decided not to take the cable car down and ended up hiking several miles down, on a forgotten trail. Then I missed the last bus to the station and a stranger was kind enough to give me a ride.
 
 It turns out - 8 years later - I have not learned my lesson.
 
