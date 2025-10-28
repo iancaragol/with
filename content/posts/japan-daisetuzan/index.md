@@ -65,8 +65,65 @@ It turned out to be two beautiful water falls, called the “Wedded Falls”. Ev
 
 ![Wedded Falls](wedded_falls.jpeg)
 
+The Sounkyo hostel was comfortable and quiet. They recommended a few Onsen - I went to the local one and was finally able to warm up.
+
 
 ### Anti-Rest Day - Climbing Mt. Hokuchin
+
+Let me start this section by saying - this was the worst rest day in history. But, it was one of the best hikes that I have ever done.
+
+Keen on seeing more of the park, I decided to catch the first tram up the mountain. As I was I was purchasing my ticket a huge tour showed up and got in line. Suddenly the tram line went from 4 people to over a hundred! They got in line while the guide went and purchased the tickets.
+
+I thought this was unfair, and luckily the couple behind me did two. I could hear them complain to the staff member, and although I could not have complained myself, I could understand what was going on. So I stuck as close to them as possible, and the staff member let us to the front of the line.
+
+The tram only takes you about 1/3 of the way up. From there you can take a chairlift, but, being cheap, I decided to skip the chairlift. Instead I took a frozen and muddy trail that had not see any maintenance (or perhaps traffic) in what seemed like years. That seems like an excellent way to encourage folks to take the chairlift!
+
+Then began the climb up to Mt. Kurodake. I wanted to do a very long loop, so I practically ran up that mountain. And indeed, I was the first one at the top. As it got progressively more icy and snowy I began to question my choice of shoes. How far can you push bedrock clogs?
+
+![Forshadowing](first_snow.jpeg)
+
+At the top of Kurodake was a small shrine, and this incredible view.
+
+![Mt. Hokuchin is the snow covered peak on the right](daisetsuzan.jpeg)
+
+With this view I could hear the mountains calling - could I make it to Asahidake? The tallest mountain in Hokkaido?
+
+I prayed for good weather and for the continued health of my feet, and set off! I adopted the questionable “move as fast as possible and you won’t get cold” strategy. This is becoming my go to techinque.
+
+![Rockin’ them clogs](mtn_clogs.jpeg)
+
+As the snow drifts got deeper and deeper, and the wind picked up, I began to question my decisions. Asahidake would not be possible, it was too far, and the afternoon forecast was terrible. But - Hokuchin was just right there… I could see the peak!
+
+So I ran up Mt. Hokuchin and found myself blown away. By the wind and by the view of the Asahikawa valley below.
+
+![Asahidake in the distance](asahidake.jpeg)
+
+![Top of Mt. Hokuchin - the second tallest mountain in Hokkaidp](cover.jpg)
+
+On the way back down, I got to practice my Jack Sparrow run. The top of Kurodake was now packed with people, and the trail had become a solid sheet of ice from hundreds of feet. There are two ways to approach this type of trail.
+
+1. With caution, each step placed carefully on the least slippery patch of ice
+2. In a constant state of falling, but, if you ever actually fall, are you really falling?
+
+I put on the Pirates of the Caribbean soundtrack and opted for option 2. You just have do your best Jack Sparrow impression and trust your feet. I did slip twice, but I made it down in record time!
+
+I was too stubborn to take the tram down, which the exact same mistake I made when I hiked Takayama while I was studying abroad in Tokyo. I decided not to take the cable car down and ended up hiking several miles down, on a forgotten trail. Then I missed the last bus to the station and a stranger was kind enough to give me a ride.
+
+It turns out - 8 years later - I have not learned my lesson.
+
+### Sounkyo to Nayoro
+
+After my anti-rest day, I woke up with legs so sore I could hardly walk up the stairs. However, biking uses an almost entirely different set of muscles! So I set off to Nayoro. I was blessed by a strong tailwind and fueled by an enormous Katsudon made by two grandmothers.
+
+![A delightfully chaotic kitchen](teishoku.jpeg)
+
+In Nayoro I was faced with a crossroads - but I will save that for next time!
+
+Ian
+
+![](lego_snow_bike.jpeg)
+
+ 
 
 
 
